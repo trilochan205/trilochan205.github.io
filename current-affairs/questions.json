@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T22:15:20.980958+00:00",
-  "total": 583,
-  "generated_from_news": 546,
+  "updated": "2026-11-16T23:12:25.716553+00:00",
+  "total": 586,
+  "generated_from_news": 549,
   "questions": [
     {
       "id": "constitution-001",
@@ -8906,6 +8906,74 @@
       "news_date": "2026-11-16"
     },
     {
+      "id": "news-date-596da3af4d1609bc54",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — दाङका किसान आलु रोप्न व्यस्त",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१४",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605668/dang-farmers-busy-planting-potatoes",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-source-596da3af4d1609bc54",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — दाङका किसान आलु रोप्न व्यस्त",
+      "options": [
+        "Ratopati",
+        "Himal Press",
+        "Setopati",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605668/dang-farmers-busy-planting-potatoes",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-5f1af405c85766b55b",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेदरल्यान्ड्सविरुद्ध जर्मनीको ५-० को फराकिलो जित",
+      "options": [
+        "ई.सं. २०२६-११-१४",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605667/germanys-5-0-win-over-the-netherlands",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-source-5f1af405c85766b55b",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेदरल्यान्ड्सविरुद्ध जर्मनीको ५-० को फराकिलो जित",
+      "options": [
+        "OnlineKhabar",
+        "Ratopati",
+        "Nepal Samaya",
+        "Setopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605667/germanys-5-0-win-over-the-netherlands",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
       "id": "news-topic-9889b48dfb3c393b71",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -9424,24 +9492,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2059066/romelu-lukaku-retires-from-international-football",
       "news_source": "OnlineKhabar",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-092f3fc2dbc467881a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नेपाल भू–राजनीतिक प्रतिस्पर्धाको क्रीडास्थल बन्नु हुँदैन : प्रचण्ड",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605637/nepal-should-not-become-a-playground-for-geopolitical-competition-prachanda",
-      "news_source": "Ratopati",
       "news_date": "2026-11-16",
       "question_basis": "headline_keyword_classification"
     },
