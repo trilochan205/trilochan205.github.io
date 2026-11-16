@@ -1,41 +1,53 @@
 <!doctype html>
 <html lang="ne">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="त्रिलोचन सुवेदीका अनलाइनमा भेटिएका प्रकाशित कविता र साहित्यिक रचनाहरूको स्रोतसहितको सङ्ग्रह।">
-<meta name="theme-color" content="#183f32">
-<title>कविता सङ्ग्रह | त्रिलोचन सुवेदी</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="त्रिलोचन सुवेदीका कविता र साहित्यिक रचनाहरूको सुन्दर डिजिटल सङ्ग्रह।">
+<meta name="theme-color" content="#102b25">
+<title>कविता संसार | त्रिलोचन सुवेदी</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--ink:#172235;--muted:#667085;--paper:#f7f5ef;--green:#315c4b;--gold:#c49a58;--line:#e7e3d9}
-*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.85 system-ui,"Noto Sans Devanagari",Arial,sans-serif}
-.wrap{width:min(920px,90%);margin:auto}header{border-bottom:1px solid var(--line);background:#fbfaf6}nav{min-height:72px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{font:700 21px Georgia,serif;color:var(--ink);text-decoration:none}.brand span{color:var(--green)}nav a:last-child{color:var(--green);text-decoration:none;font-weight:700}
-main{padding:58px 0 76px}.eyebrow{color:var(--green);font-size:12px;font-weight:800;letter-spacing:2px}h1,h2{font-family:Georgia,"Noto Serif Devanagari",serif;line-height:1.3}h1{font-size:clamp(34px,6vw,54px);margin:10px 0}h2{font-size:23px;margin:0 0 8px}.intro{font-size:18px;color:var(--muted);max-width:760px;margin-bottom:34px}
-.card{background:white;border:1px solid var(--line);border-radius:17px;padding:24px;margin:17px 0;box-shadow:0 8px 24px #1c2b1c08}.meta{font-size:12px;color:var(--green);font-weight:800;letter-spacing:1px;margin-bottom:8px}.card p{color:#596579;margin:8px 0}.source{display:inline-block;margin-top:10px;color:var(--green);font-weight:700;text-decoration:none;border-bottom:1px solid #a9b8ad}.notice{background:#f1eee4;border-left:4px solid var(--gold);padding:16px 18px;border-radius:8px;color:#596579;margin:26px 0}footer{border-top:1px solid var(--line);padding:24px 0 34px;color:var(--muted);font-size:13px}footer a{color:var(--green);margin-right:14px}
-@media(max-width:600px){nav{align-items:flex-start;flex-direction:column;padding:15px 0}.card{padding:19px}main{padding-top:40px}}
-</style>
-</head>
+:root{--forest:#102b25;--green:#1d493d;--gold:#d7b77a;--cream:#f7f4ed;--ink:#18251f;--muted:#68756e;--line:#e8e3d8;--white:#fff}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--cream);color:var(--ink);font:16px/1.8 'DM Sans','Noto Serif Devanagari',sans-serif}
+a{color:inherit}.wrap{width:min(1120px,91%);margin:auto}
+.topbar{background:var(--forest);color:#f7f4ed}.nav{min-height:76px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{text-decoration:none;font:700 22px Georgia,serif;letter-spacing:-.5px}.brand span{color:var(--gold)}.navlink{color:#e8eee9;text-decoration:none;font-size:14px}.navlink:hover{color:var(--gold)}
+.hero{position:relative;overflow:hidden;background:radial-gradient(ellipse at 85% 20%,#416b54 0,transparent 35%),linear-gradient(125deg,#102b25,#1c4538 65%,#274d3d);color:#fff;padding:78px 0 74px}
+.hero:after{content:'“';position:absolute;right:8%;top:-105px;color:#ffffff0d;font:400 440px Georgia,serif;line-height:1}
+.hero-inner{position:relative;z-index:1;max-width:800px}.eyebrow{color:var(--gold);font-size:12px;font-weight:700;letter-spacing:3px;text-transform:uppercase}
+h1,h2,h3{font-family:'Noto Serif Devanagari',Georgia,serif;line-height:1.35}h1{font-size:clamp(38px,6vw,68px);font-weight:600;margin:15px 0 12px;letter-spacing:-1px}.hero p{color:#dce7df;font-size:18px;max-width:680px;margin:0}
+.hero-meta{display:flex;gap:18px;flex-wrap:wrap;margin-top:28px;color:#d2dfd5;font-size:13px}.hero-meta span{display:flex;align-items:center;gap:7px}
+main{padding:48px 0 86px}.toolbar{display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:26px}.section-title{margin:0;font-size:25px}.section-sub{color:var(--muted);font-size:14px;margin:4px 0 0}
+.search{background:#fff;border:1px solid var(--line);border-radius:30px;padding:11px 16px;min-width:min(300px,100%);font:inherit;outline:none}.search:focus{border-color:var(--green);box-shadow:0 0 0 3px #1d493d14}
+.filters{display:flex;gap:9px;flex-wrap:wrap;margin:0 0 28px}.filter{border:1px solid #dcd6c9;border-radius:30px;padding:7px 15px;background:transparent;color:#56645b;font:600 13px 'DM Sans',sans-serif;cursor:pointer}.filter.active,.filter:hover{background:var(--green);border-color:var(--green);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.poem{position:relative;background:#fff;border:1px solid var(--line);border-radius:17px;padding:27px 28px 24px;display:flex;flex-direction:column;min-height:255px;box-shadow:0 10px 30px #142c2010;transition:transform .22s,box-shadow .22s}.poem:hover{transform:translateY(-4px);box-shadow:0 16px 38px #142c2018}.poem:before{content:'';position:absolute;left:0;top:22px;bottom:22px;width:3px;background:var(--gold);border-radius:4px}
+.kicker{font:700 11px 'DM Sans',sans-serif;letter-spacing:1.7px;text-transform:uppercase;color:#7b8a7f}.poem h3{font-size:25px;margin:11px 0 10px;color:var(--forest)}.poem p{color:#647168;margin:0 0 22px;font-size:14px;line-height:1.9;flex:1}.card-bottom{display:flex;align-items:center;justify-content:space-between;gap:12px;border-top:1px solid #f0ede6;padding-top:15px}.source-name{font-size:12px;color:#849087}.read{display:inline-flex;align-items:center;gap:8px;text-decoration:none;color:var(--green);font-weight:700;font-size:13px}.read:hover{color:#9b7538}.arrow{font-size:18px;transition:transform .2s}.read:hover .arrow{transform:translateX(4px)}
+.empty{display:none;background:#fff;padding:30px;border-radius:14px;color:var(--muted);text-align:center}.rights{margin-top:34px;padding:21px 24px;border-radius:14px;background:#eee9dc;color:#626b60;font-size:13px;line-height:1.8}.rights strong{color:var(--forest)}
+footer{background:var(--forest);color:#d5dfd8;padding:27px 0;font-size:13px}.foot{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}footer a{color:#e8d5ae;text-decoration:none;margin-left:16px}
+@media(max-width:720px){.hero{padding:58px 0}.grid{grid-template-columns:1fr}.poem{min-height:0}.toolbar{align-items:flex-start}.search{width:100%}.nav{min-height:65px}.hero p{font-size:16px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+</style></head>
 <body>
-<header><nav class="wrap"><a class="brand" href="./">Trilochan <span>Subedi.</span></a><a href="./">← मुख्य पृष्ठ</a></nav></header>
+<header class="topbar"><nav class="nav wrap"><a class="brand" href="./">Trilochan <span>Subedi.</span></a><a class="navlink" href="./">← मुख्य पृष्ठमा फर्कनुहोस्</a></nav></header>
+<section class="hero"><div class="wrap hero-inner"><div class="eyebrow">शब्द · भावना · अनुभूति</div><h1>कविता संसार</h1><p>केही शब्दहरू पढ्नका लागि मात्र होइनन्—महसुस गर्नका लागि पनि हुन्छन्। त्रिलोचन सुवेदीका प्रकाशित साहित्यिक रचनाहरूको सङ्ग्रहमा स्वागत छ।</p><div class="hero-meta"><span>✦ ६ रचनाहरूको सूची</span><span>✦ नेपाली साहित्य</span><span>✦ मूल स्रोतसहित</span></div></div></section>
 <main class="wrap">
-<div class="eyebrow">साहित्य · कविता</div>
-<h1>त्रिलोचन सुवेदीका कविता</h1>
-<p class="intro">त्रिलोचन सुवेदी नाममा अनलाइनमा फेला परेका प्रकाशित कविता तथा साहित्यिक रचनाहरूको स्रोतसहितको सूची। प्रत्येक शीर्षकमा क्लिक गर्दा मूल प्रकाशन पढ्न सक्नुहुन्छ। नयाँ रचना वा थप स्रोत भेटिएसँगै यो सङ्ग्रह अद्यावधिक गरिनेछ।</p>
-
-<section class="card"><div class="meta">सेतोपाटी · प्रेम र सम्झना</div><h2>तिम्रो सम्झनामा!</h2><p>विछोड, सम्झना र यात्रामा हराएको गन्तव्यको बिम्बमार्फत प्रेमको एकान्त अनुभूति प्रस्तुत गर्ने कविता।</p><a class="source" href="https://www.setopati.com/literature/380085" target="_blank" rel="noopener">मूल कविता सेतोपाटीमा पढ्नुहोस् ↗</a></section>
-
-<section class="card"><div class="meta">सेतोपाटी · प्रेम</div><h2>डियर प्रेम!</h2><p>पुराना तस्बिर, स्मृति र अधुरो संवादमार्फत विगतको प्रेम सम्झने लामो कवितात्मक रचना।</p><a class="source" href="https://www.setopati.com/literature/365715" target="_blank" rel="noopener">मूल रचना सेतोपाटीमा पढ्नुहोस् ↗</a></section>
-
-<section class="card"><div class="meta">सेतोपाटी · सामाजिक चेतना</div><h2>कठै बरा हामी जनता!</h2><p>विपद्, श्रमिकको जीवन, सार्वजनिक जवाफदेहिता र आम नागरिकका पीडामाथि प्रश्न उठाउने कविता।</p><a class="source" href="https://www.setopati.com/literature/343714" target="_blank" rel="noopener">मूल कविता सेतोपाटीमा पढ्नुहोस् ↗</a></section>
-
-<section class="card"><div class="meta">सेतोपाटी · प्रेम र दैनिकी</div><h2>चिया, तिमी र म!</h2><p>चियाको कपलाई प्रेम, आत्मीयता र साझा समयको रूपक बनाएर लेखिएको कविता।</p><a class="source" href="https://www.setopati.com/literature/358010" target="_blank" rel="noopener">मूल कविता सेतोपाटीमा पढ्नुहोस् ↗</a></section>
-
-<section class="card"><div class="meta">मेरो कुटी · सामाजिक विषय</div><h2>नेपालीहरूको</h2><p>स्वास्थ्य सेवा, आर्थिक अवस्था र नेपाली समाजका समस्यालाई समेटेको पुरानो ब्लग प्रकाशन।</p><a class="source" href="https://merokuti.blogspot.com/2014/05/" target="_blank" rel="noopener">मूल प्रकाशन मेरो कुटीमा पढ्नुहोस् ↗</a></section>
-
-<section class="card"><div class="meta">मनमोहन स्मृति कविता प्रतियोगिता · चयन सूची</div><h2>मनमोहन: जनताको चेतनामाथि स्थायी अभियान</h2><p>मनमोहन स्मृति कविता प्रतियोगिताको सार्वजनिक चयन सूचीमा त्रिलोचन सुवेदी (बर्दिया) को नाममा उल्लेख भएको कविता।</p><a class="source" href="https://manmohan.org.np/news_events_detail/manamahana-samata-kavata-paratayagata-ka-lga-chhanata-bhaeka-kavatahanprka-saca-saravajanaka" target="_blank" rel="noopener">चयन सूची हेर्नुहोस् ↗</a></section>
-
-<div class="notice"><strong>प्रतिलिपि अधिकार र स्रोत:</strong> यहाँ कविताका शीर्षक, छोटो परिचय र मूल स्रोतका लिङ्क मात्र राखिएका छन्। पूर्ण कविता सम्बन्धित प्रकाशनमै पढ्नुहोस्। पूर्ण पाठ वा तस्वीर यस वेबसाइटमा पुनःप्रकाशित गर्नुअघि लेखक/प्रकाशकको अनुमति सुनिश्चित गर्नुपर्छ। यो सूची वेबमा खोजेर भेटिएका रचनाहरूमा आधारित हो; यसलाई अहिलेसम्म प्रकाशित भएका सबै कविताको पूर्ण सूची भएको दाबी गरिएको छैन।</div>
+<div class="toolbar"><div><h2 class="section-title">रचनाहरूको सङ्ग्रह</h2><p class="section-sub">मन परेको शीर्षक छान्नुहोस् र मूल प्रकाशनमा पढ्नुहोस्।</p></div><input id="search" class="search" type="search" placeholder="कविताको शीर्षक खोज्नुहोस्…" aria-label="कविता खोज्नुहोस्"></div>
+<div class="filters" aria-label="विषय अनुसार छान्नुहोस्"><button class="filter active" data-filter="all">सबै रचना</button><button class="filter" data-filter="प्रेम">प्रेम र सम्झना</button><button class="filter" data-filter="समाज">समाज र चेतना</button><button class="filter" data-filter="अन्य">अन्य साहित्य</button></div>
+<div class="grid" id="poems">
+<article class="poem" data-category="प्रेम"><div class="kicker">प्रेम · सम्झना</div><h3>तिम्रो सम्झनामा!</h3><p>विछोड, सम्झना र यात्रामा हराएको गन्तव्यका बिम्बमार्फत प्रेमको एकान्त अनुभूति प्रस्तुत गर्ने कविता।</p><div class="card-bottom"><span class="source-name">मूल प्रकाशन · सेतोपाटी</span><a class="read" href="https://www.setopati.com/literature/380085" target="_blank" rel="noopener">कविता पढ्नुहोस् <span class="arrow">↗</span></a></div></article>
+<article class="poem" data-category="प्रेम"><div class="kicker">प्रेम · पत्र</div><h3>डियर प्रेम!</h3><p>पुराना तस्बिर, स्मृति र अधुरो संवादमार्फत विगतको प्रेम सम्झने कवितात्मक रचना।</p><div class="card-bottom"><span class="source-name">मूल प्रकाशन · सेतोपाटी</span><a class="read" href="https://www.setopati.com/literature/365715" target="_blank" rel="noopener">कविता पढ्नुहोस् <span class="arrow">↗</span></a></div></article>
+<article class="poem" data-category="समाज"><div class="kicker">समाज · जनजीवन</div><h3>कठै बरा हामी जनता!</h3><p>विपद्, श्रमिकको जीवन, सार्वजनिक जवाफदेहिता र आम नागरिकका पीडामाथि प्रश्न उठाउने कविता।</p><div class="card-bottom"><span class="source-name">मूल प्रकाशन · सेतोपाटी</span><a class="read" href="https://www.setopati.com/literature/343714" target="_blank" rel="noopener">कविता पढ्नुहोस् <span class="arrow">↗</span></a></div></article>
+<article class="poem" data-category="प्रेम"><div class="kicker">प्रेम · दैनिकी</div><h3>चिया, तिमी र म!</h3><p>चियाको कपलाई प्रेम, आत्मीयता र साझा समयको रूपक बनाएर प्रस्तुत गरिएको कविता।</p><div class="card-bottom"><span class="source-name">मूल प्रकाशन · सेतोपाटी</span><a class="read" href="https://www.setopati.com/literature/358010" target="_blank" rel="noopener">कविता पढ्नुहोस् <span class="arrow">↗</span></a></div></article>
+<article class="poem" data-category="समाज"><div class="kicker">समाज · विचार</div><h3>नेपालीहरूको</h3><p>स्वास्थ्य सेवा, आर्थिक अवस्था र नेपाली समाजका समस्यालाई समेटेको पुरानो ब्लग प्रकाशन।</p><div class="card-bottom"><span class="source-name">मूल प्रकाशन · मेरो कुटी</span><a class="read" href="https://merokuti.blogspot.com/2014/05/" target="_blank" rel="noopener">मूल लेख पढ्नुहोस् <span class="arrow">↗</span></a></div></article>
+<article class="poem" data-category="अन्य"><div class="kicker">साहित्य · प्रतियोगिता</div><h3>मनमोहन: जनताको चेतनामाथि स्थायी अभियान</h3><p>मनमोहन स्मृति कविता प्रतियोगिताको सार्वजनिक चयन सूचीमा त्रिलोचन सुवेदी (बर्दिया) को नाममा उल्लेख भएको रचना।</p><div class="card-bottom"><span class="source-name">सार्वजनिक चयन सूची</span><a class="read" href="https://manmohan.org.np/news_events_detail/manamahana-samata-kavata-paratayagata-ka-lga-chhanata-bhaeka-kavatahanprka-saca-saravajanaka" target="_blank" rel="noopener">स्रोत हेर्नुहोस् <span class="arrow">↗</span></a></div></article>
+</div>
+<div id="empty" class="empty">यो खोज वा विषयमा रचना भेटिएन। अर्को शब्द प्रयोग गरेर खोज्नुहोस्।</div>
+<div class="rights"><strong>स्रोत र प्रतिलिपि अधिकार:</strong> यस पृष्ठमा शीर्षक, छोटो परिचय र मूल प्रकाशनका लिङ्क मात्र राखिएका छन्। पूर्ण कविता सम्बन्धित प्रकाशनमा पढ्नुहोस्। पूर्ण पाठ वा तस्वीर पुनःप्रकाशित गर्नुअघि आवश्यक अनुमति लिनुहोस्। यो अनलाइनमा भेटिएका रचनाहरूको प्रारम्भिक सूची हो, सम्पूर्ण प्रकाशित कविताको अन्तिम सूची होइन।</div>
 </main>
-<footer><div class="wrap">© <span id="year"></span> Trilochan Subedi · <a href="./">Home</a><a href="journal.html">Reflections</a><a href="privacy.html">Privacy Policy</a><a href="mailto:greentrisubedi@gmail.com">Contact</a></div></footer>
-<script>document.getElementById('year').textContent=new Date().getFullYear();</script>
-</body></html>
+<footer><div class="wrap foot"><span>© <span id="year"></span> Trilochan Subedi · शब्दहरूको सम्मान</span><span><a href="./">Home</a><a href="journal.html">Reflections</a><a href="privacy.html">Privacy</a><a href="mailto:greentrisubedi@gmail.com">Contact</a></span></div></footer>
+<script>
+document.getElementById('year').textContent=new Date().getFullYear();
+const search=document.getElementById('search'),cards=[...document.querySelectorAll('.poem')],buttons=[...document.querySelectorAll('.filter')],empty=document.getElementById('empty');let category='all';
+function apply(){let shown=0;cards.forEach(card=>{const okCat=category==='all'||card.dataset.category===category;const okText=card.innerText.toLocaleLowerCase('ne').includes(search.value.trim().toLocaleLowerCase('ne'));card.style.display=okCat&&okText?'flex':'none';if(okCat&&okText)shown++;});empty.style.display=shown?'none':'block';}
+buttons.forEach(b=>b.addEventListener('click',()=>{buttons.forEach(x=>x.classList.remove('active'));b.classList.add('active');category=b.dataset.filter;apply();}));search.addEventListener('input',apply);
+</script></body></html>
