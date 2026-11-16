@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T21:15:34.645132+00:00",
-  "total": 581,
-  "generated_from_news": 544,
+  "updated": "2026-11-16T22:15:20.980958+00:00",
+  "total": 583,
+  "generated_from_news": 546,
   "questions": [
     {
       "id": "constitution-001",
@@ -8821,24 +8821,6 @@
       "news_date": "2026-11-16"
     },
     {
-      "id": "news-topic-9889b48dfb3c393b71",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडिबीसँग आग्रह",
-      "options": [
-        "वातावरण तथा विपद्",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605665/adb-urged-to-increase-support-for-post-flood-reconstruction-and-climate-adaptation",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-9889b48dfb3c393b71",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -8873,6 +8855,75 @@
       "news_date": "2026-11-16"
     },
     {
+      "id": "news-source-8abca8ef001bbc89ef",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘काव्यनगरी’ हेम्जामा दोस्रो साहित्य महोत्सव हुँदै",
+      "options": [
+        "Nepal Samaya",
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605664/the-second-literature-festival-is-being-held-in-the-city-of-poetry-hemja",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-4dd915dea13158c8c2",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कस्तो रहला तपाईँको मंसिर महिना ? हेर्नुहोस् मासिक राशिफल",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१४",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605663/how-was-your-mangsir-see-your-monthly-horoscope",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-source-4dd915dea13158c8c2",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कस्तो रहला तपाईँको मंसिर महिना ? हेर्नुहोस् मासिक राशिफल",
+      "options": [
+        "NepalNews",
+        "Ratopati",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605663/how-was-your-mangsir-see-your-monthly-horoscope",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-9889b48dfb3c393b71",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडिबीसँग आग्रह",
+      "options": [
+        "वातावरण तथा विपद्",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605665/adb-urged-to-increase-support-for-post-flood-reconstruction-and-climate-adaptation",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-8abca8ef001bbc89ef",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -8889,23 +8940,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-16",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-8abca8ef001bbc89ef",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘काव्यनगरी’ हेम्जामा दोस्रो साहित्य महोत्सव हुँदै",
-      "options": [
-        "Nepal Samaya",
-        "Ratopati",
-        "कान्तिपुर दैनिक",
-        "Himalkhabar"
-      ],
-      "answer": 1,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/605664/the-second-literature-festival-is-being-held-in-the-city-of-poetry-hemja",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16"
     },
     {
       "id": "news-topic-287b66019aabcbc3e5",
@@ -9145,7 +9179,7 @@
       "id": "news-topic-bc317390a5b5a00076",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — दिल्लीमा प्रधानमन्त्रीका ३ बैठक, २ खर्ब भारु सहयोग र हवाई रुटमा सहमति",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — दिल्लीमा हुनेछन् प्रधानमन्त्रीका ३ बैठक, २ खर्ब भारु सहयोग र हवाई रुटमा सहमति तयारी",
       "options": [
         "समाज तथा संस्कृति",
         "स्वास्थ्य",
