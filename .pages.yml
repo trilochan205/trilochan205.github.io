@@ -1,0 +1,37 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: posts
+    label: My Posts
+    type: collection
+    path: posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      primary: title
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: Post title
+        type: string
+        required: true
+      - name: category
+        label: Category
+        type: select
+        options:
+          values:
+            - Travel
+            - Poetry
+            - Social Work
+            - Personal Blog
+      - name: date
+        label: Date
+        type: date
+      - name: cover
+        label: Photo
+        type: image
+      - name: body
+        label: Your story or poem
+        type: rich-text
