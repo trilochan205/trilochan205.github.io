@@ -22,7 +22,7 @@ footer{border-top:1px solid var(--line);padding:24px 0 36px;color:var(--muted);f
 <meta name="author" content="Trilochan Subedi">
 </head>
 <body>
-<header><nav class="wrap"><a class="brand" href="./">Trilochan <span>Subedi.</span></a><a href="./">← Back to home</a></nav></header>
+<header><nav class="wrap"><a class="brand" href="./">Trilochan <span>Subedi.</span></a><span style="display:flex;gap:16px"><a href="admin.html">＋ Add article</a><a href="./">← Back to home</a></span></nav></header>
 <main class="wrap">
 <div class="eyebrow">People · Words · Places</div>
 <h1>Notes from the journey.</h1>
@@ -55,9 +55,13 @@ footer{border-top:1px solid var(--line);padding:24px 0 36px;color:var(--muted);f
 <p>A journey need not be far away to offer a fresh perspective. Sometimes a different route, a conversation or a closer look at a familiar place is enough to help us notice something new.</p>
 </article>
 
+<section id="published-articles"><div class="eyebrow">New writing</div><h2 style="margin-top:8px">More articles &amp; reflections</h2><div id="article-list"><p class="intro">Loading published articles…</p></div></section>
 <div class="note">These are general reflections on the themes of this website, not claims about specific projects, books or destinations. New personal stories and experiences can be added over time.</div>
 </main>
 <footer><div class="wrap">© <span id="year"></span> Trilochan Subedi · <a href="./">Home</a><a href="privacy.html">Privacy Policy</a><a href="mailto:greentrisubedi@gmail.com">Contact</a></div></footer>
 <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
-</body>
+
+<script>
+(async()=>{const root=document.getElementById('article-list');if(!root)return;const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));function parse(raw){const m=raw.match(/^---\\s*\\r?\\n([\\s\\S]*?)\\r?\\n---\\s*\\r?\\n?([\\s\\S]*)$/);const meta={};let body=raw;if(m){m[1].split(/\\r?\\n/).forEach(l=>{const x=l.match(/^([\\w-]+):\\s*(.*)$/);if(x){let v=x[2];try{v=JSON.parse(v)}catch{}meta[x[1]]=String(v)}});body=m[2]}return {...meta,body:body.trim()}}try{const r=await fetch('https://api.github.com/repos/trilochan205/trilochan205.github.io/contents/posts?ref=main');if(!r.ok)throw Error();const files=(await r.json()).filter(f=>f.type==='file'&&f.name.endsWith('.md')).sort((a,b)=>b.name.localeCompare(a.name));if(!files.length){root.innerHTML='<p class="intro">नयाँ लेखहरू प्रकाशित भएपछि यहाँ देखिनेछन्।</p>';return}root.innerHTML='';for(const f of files){const q=await fetch(f.download_url);if(!q.ok)continue;const p=parse(await q.text());const article=document.createElement('article');const meta=document.createElement('div');meta.className='meta';meta.textContent=(p.category||'लेख')+' · '+(p.date||'');const h=document.createElement('h2');h.textContent=p.title||f.name;const body=document.createElement('p');body.style.whiteSpace='pre-wrap';body.textContent=p.body||'';article.append(meta,h,body);if(p.cover){const img=document.createElement('img');img.src=p.cover;img.alt='';img.loading='lazy';img.style.cssText='max-width:100%;border-radius:12px;margin:10px 0';article.insertBefore(img,body)}root.appendChild(article)}}catch(e){root.innerHTML='<p class="intro">नयाँ लेखहरू लोड हुन सकेनन्।</p>'}})();
+</script></body>
 </html>
