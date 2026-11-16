@@ -101,7 +101,7 @@ publishers = sorted({x.get("source", "").strip() for x in unique if x.get("sourc
 published_dates = sorted({
     x.get("published", "")[:10]
     for x in unique
-    if re.match(r"^\\d{4}-\\d{2}-\\d{2}", x.get("published", ""))
+    if re.match(r"^\d{4}-\d{2}-\d{2}", x.get("published", ""))
 })
 
 def nepali_digits(value):
@@ -129,7 +129,7 @@ for item in unique:
     key = hashlib.sha256(url.encode("utf-8")).hexdigest()[:18]
 
     # MCQ 1: exact publication date from RSS metadata.
-    if re.match(r"^\\d{4}-\\d{2}-\\d{2}$", published):
+    if re.match(r"^\d{4}-\d{2}-\d{2}$", published):
         try:
             correct_date = date.fromisoformat(published)
             distractor_dates = [
