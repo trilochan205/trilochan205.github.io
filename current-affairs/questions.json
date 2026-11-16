@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T20:18:44.414615+00:00",
-  "total": 573,
-  "generated_from_news": 536,
+  "updated": "2026-11-16T21:15:34.645132+00:00",
+  "total": 581,
+  "generated_from_news": 544,
   "questions": [
     {
       "id": "constitution-001",
@@ -8753,6 +8753,161 @@
       "news_date": "2026-11-16"
     },
     {
+      "id": "news-source-287b66019aabcbc3e5",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रश्नको कठघरामा जनप्रतिनिधि: निकुञ्जदेखि विद्यालयसम्मका गुनासा",
+      "options": [
+        "The Kathmandu Post",
+        "Ratopati",
+        "Himalkhabar",
+        "Himal Press"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605662/public-representatives-under-questioning-complaints-from-parks-to-schools",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-9510ee17c2934a6975",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विपद्को चपेटामा म्याग्दीका जलविद्युत् आयोजना",
+      "options": [
+        "ई.सं. २०२६-११-१४",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605666/myagdis-hydropower-projects-in-the-grip-of-disaster",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-source-9510ee17c2934a6975",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विपद्को चपेटामा म्याग्दीका जलविद्युत् आयोजना",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Setopati",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605666/myagdis-hydropower-projects-in-the-grip-of-disaster",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-9889b48dfb3c393b71",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडिबीसँग आग्रह",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१४",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605665/adb-urged-to-increase-support-for-post-flood-reconstruction-and-climate-adaptation",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-9889b48dfb3c393b71",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडिबीसँग आग्रह",
+      "options": [
+        "वातावरण तथा विपद्",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605665/adb-urged-to-increase-support-for-post-flood-reconstruction-and-climate-adaptation",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-9889b48dfb3c393b71",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बाढीपछिको पुनर्निर्माण र जलवायु अनुकूलनमा सहयोग बढाउन एडिबीसँग आग्रह",
+      "options": [
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "OnlineKhabar",
+        "The Kathmandu Post"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605665/adb-urged-to-increase-support-for-post-flood-reconstruction-and-climate-adaptation",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-8abca8ef001bbc89ef",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘काव्यनगरी’ हेम्जामा दोस्रो साहित्य महोत्सव हुँदै",
+      "options": [
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१४"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605664/the-second-literature-festival-is-being-held-in-the-city-of-poetry-hemja",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-8abca8ef001bbc89ef",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘काव्यनगरी’ हेम्जामा दोस्रो साहित्य महोत्सव हुँदै",
+      "options": [
+        "विज्ञान तथा प्रविधि",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605664/the-second-literature-festival-is-being-held-in-the-city-of-poetry-hemja",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-8abca8ef001bbc89ef",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘काव्यनगरी’ हेम्जामा दोस्रो साहित्य महोत्सव हुँदै",
+      "options": [
+        "Nepal Samaya",
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605664/the-second-literature-festival-is-being-held-in-the-city-of-poetry-hemja",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
       "id": "news-topic-287b66019aabcbc3e5",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -8769,23 +8924,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-16",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-287b66019aabcbc3e5",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रश्नको कठघरामा जनप्रतिनिधि: निकुञ्जदेखि विद्यालयसम्मका गुनासा",
-      "options": [
-        "The Kathmandu Post",
-        "Ratopati",
-        "Himalkhabar",
-        "Himal Press"
-      ],
-      "answer": 1,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/605662/public-representatives-under-questioning-complaints-from-parks-to-schools",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16"
     },
     {
       "id": "news-topic-4ecaca6f57d1d81cd4",
