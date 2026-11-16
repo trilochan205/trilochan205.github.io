@@ -28,7 +28,7 @@ def local_text(node, names):
 def clean(value):
     value = html.unescape(value or "")
     value = re.sub(r"<[^>]*>", " ", value)
-    return re.sub(r"\\s+", " ", value).strip()
+    return re.sub(r"\s+", " ", value).strip()
 def parse_date(value):
     if not value: return ""
     try: return parsedate_to_datetime(value).astimezone(timezone.utc).isoformat()
