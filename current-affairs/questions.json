@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T19:27:18.315803+00:00",
-  "total": 571,
-  "generated_from_news": 534,
+  "updated": "2026-11-16T20:18:44.414615+00:00",
+  "total": 573,
+  "generated_from_news": 536,
   "questions": [
     {
       "id": "constitution-001",
@@ -8685,24 +8685,6 @@
       "news_date": "2026-11-16"
     },
     {
-      "id": "news-topic-4ecaca6f57d1d81cd4",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — त्रिवेणी रङ्गशालाको मुख्यमन्त्री पाण्डेद्वारा स्थलगत अवलोकन",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "राजनीति तथा शासन",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605661/chief-minister-pandey-inspects-triveni-stadium-on-site",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-4ecaca6f57d1d81cd4",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -8737,6 +8719,93 @@
       "news_date": "2026-11-16"
     },
     {
+      "id": "news-source-6e47bc27173fe229a9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — करातेका खेलाडी छनोट, स्वर्ण पदक जित्नेलाई एक लाख पुरस्कार",
+      "options": [
+        "The Kathmandu Post",
+        "Himal Press",
+        "Ratopati",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605660/karate-players-selected-gold-medalists-to-receive-rs-100000-prize",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-287b66019aabcbc3e5",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रश्नको कठघरामा जनप्रतिनिधि: निकुञ्जदेखि विद्यालयसम्मका गुनासा",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१४",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605662/public-representatives-under-questioning-complaints-from-parks-to-schools",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-287b66019aabcbc3e5",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रश्नको कठघरामा जनप्रतिनिधि: निकुञ्जदेखि विद्यालयसम्मका गुनासा",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605662/public-representatives-under-questioning-complaints-from-parks-to-schools",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-287b66019aabcbc3e5",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रश्नको कठघरामा जनप्रतिनिधि: निकुञ्जदेखि विद्यालयसम्मका गुनासा",
+      "options": [
+        "The Kathmandu Post",
+        "Ratopati",
+        "Himalkhabar",
+        "Himal Press"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605662/public-representatives-under-questioning-complaints-from-parks-to-schools",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-4ecaca6f57d1d81cd4",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — त्रिवेणी रङ्गशालाको मुख्यमन्त्री पाण्डेद्वारा स्थलगत अवलोकन",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605661/chief-minister-pandey-inspects-triveni-stadium-on-site",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-6e47bc27173fe229a9",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -8753,23 +8822,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-16",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-6e47bc27173fe229a9",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — करातेका खेलाडी छनोट, स्वर्ण पदक जित्नेलाई एक लाख पुरस्कार",
-      "options": [
-        "The Kathmandu Post",
-        "Himal Press",
-        "Ratopati",
-        "Himalkhabar"
-      ],
-      "answer": 2,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/605660/karate-players-selected-gold-medalists-to-receive-rs-100000-prize",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16"
     },
     {
       "id": "news-topic-4896925ae6c83ac258",
@@ -9217,24 +9269,6 @@
       "answer": 2,
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.ratopati.com/story/605637/nepal-should-not-become-a-playground-for-geopolitical-competition-prachanda",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-93fcbcc3078009d56e",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विदेश भ्रमणको उपलब्धि संख्यामा होइन, देशलाई भएको प्रतिफलमा हेर्नुपर्छ : निशा डाँगी",
-      "options": [
-        "कूटनीति तथा अन्तर्राष्ट्रिय सम्बन्ध",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605632/achievements-of-foreign-visits-should-be-seen-not-in-numbers-but-in-the-benefits-to-the-country-nisha-dangi",
       "news_source": "Ratopati",
       "news_date": "2026-11-16",
       "question_basis": "headline_keyword_classification"
