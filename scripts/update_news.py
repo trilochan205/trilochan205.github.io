@@ -4,7 +4,7 @@ from email.utils import parsedate_to_datetime
 
 FEEDS = [
  ("गोरखापत्र दैनिक","https://gorkhapatraonline.com/rss"),
- ("कान्तिपुर दैनिक","https://ekantipur.com/rss"),
+ ("कान्तिपुर दैनिक","https://news.google.com/rss/search?q=site%3Aekantipur.com&hl=ne&gl=NP&ceid=NP%3Ane"),
  ("OnlineKhabar","https://www.onlinekhabar.com/feed"),
  ("The Kathmandu Post","https://kathmandupost.com/rss"),
  ("Ratopati","https://www.ratopati.com/feed"),
