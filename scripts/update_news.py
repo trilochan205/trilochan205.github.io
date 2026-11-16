@@ -95,7 +95,7 @@ try:
 except Exception:
     old_bank = {"questions": []}
 
-all_questions = old_bank.get("questions", [])
+all_questions = [q for q in old_bank.get("questions", []) if not str(q.get("id", "")).startswith("news-topic-")]
 known_ids = {q.get("id") for q in all_questions if q.get("id")}
 publishers = sorted({x.get("source", "").strip() for x in unique if x.get("source")})
 published_dates = sorted({
@@ -158,42 +158,42 @@ for item in unique:
         except Exception:
             pass
 
-    # MCQ 3: classify news by its dominant subject using transparent keyword rules.
+    # MCQ 3: conservative headline-only topic classification.
+    # Ambiguous headlines are skipped instead of publishing a guessed answer.
     topic_rules = [
-        ("राजनीति तथा शासन", ["सरकार", "मन्त्रिपरिषद्", "प्रधानमन्त्री", "मन्त्री", "संसद्", "निर्वाचन", "राजनीति", "प्रदेशसभा", "मुख्यमन्त्री"]),
-        ("अर्थतन्त्र तथा बजेट", ["अर्थतन्त्र", "बजेट", "राजस्व", "कर", "बैंक", "ब्याजदर", "मुद्रास्फीति", "आर्थिक", "लगानी", "व्यापार", "आयात", "निर्यात"]),
+        ("राजनीति तथा शासन", ["प्रधानमन्त्री", "मन्त्रिपरिषद्", "मन्त्री", "संसद्", "निर्वाचन", "मुख्यमन्त्री", "प्रदेशसभा", "राजनीतिक", "सरकार"]),
+        ("अर्थतन्त्र तथा बजेट", ["अर्थतन्त्र", "बजेट", "राजस्व", "ब्याजदर", "मुद्रास्फीति", "आर्थिक", "लगानी", "व्यापार", "आयात", "निर्यात", "बैंक"]),
         ("शिक्षा", ["शिक्षा", "विद्यालय", "विश्वविद्यालय", "परीक्षा", "विद्यार्थी", "शिक्षक", "पाठ्यक्रम"]),
-        ("स्वास्थ्य", ["स्वास्थ्य", "अस्पताल", "चिकित्सा", "खोप", "रोग", "औषधि", "स्वास्थ्यकर्मी"]),
+        ("स्वास्थ्य", ["स्वास्थ्य", "अस्पताल", "चिकित्सा", "खोप", "रोग", "औषधि"]),
         ("विज्ञान तथा प्रविधि", ["प्रविधि", "कृत्रिम बुद्धिमत्ता", "डिजिटल", "साइबर", "इन्टरनेट", "सफ्टवेयर", "मोबाइल", "विज्ञान"]),
-        ("वातावरण तथा विपद्", ["जलवायु", "वातावरण", "प्रदूषण", "बाढी", "पहिरो", "भूकम्प", "विपद्", "मौसम", "वन", "वन्यजन्तु"]),
-        ("खेलकुद", ["खेलकुद", "क्रिकेट", "फुटबल", "भलिबल", "खेलाडी", "विश्वकप", "लिग", "टूर्नामेन्ट"]),
-        ("कूटनीति तथा अन्तर्राष्ट्रिय सम्बन्ध", ["भारत", "चीन", "अमेरिका", "संयुक्त राष्ट्र", "कूटनीति", "द्विपक्षीय", "सम्झौता", "विदेश भ्रमण"]),
-        ("पूर्वाधार तथा यातायात", ["सडक", "रेल", "विमानस्थल", "पुल", "जलविद्युत्", "ऊर्जा", "यातायात", "निर्माण"]),
-        ("समाज तथा संस्कृति", ["संस्कृति", "समाज", "पर्यटन", "सम्पदा", "महोत्सव", "साहित्य", "कला"])
+        ("वातावरण तथा विपद्", ["जलवायु", "वातावरण", "प्रदूषण", "बाढी", "पहिरो", "भूकम्प", "विपद्", "मौसम", "हिमपात", "वन्यजन्तु"]),
+        ("खेलकुद", ["खेलकुद", "क्रिकेट", "फुटबल", "भलिबल", "खेलाडी", "विश्वकप", "टूर्नामेन्ट"]),
+        ("कूटनीति तथा अन्तर्राष्ट्रिय सम्बन्ध", ["भारत भ्रमण", "चीन भ्रमण", "अमेरिका भ्रमण", "संयुक्त राष्ट्र", "कूटनीति", "द्विपक्षीय", "विदेश भ्रमण"]),
+        ("पूर्वाधार तथा यातायात", ["सडक", "रेल", "विमानस्थल", "पुल", "जलविद्युत्", "ऊर्जा", "यातायात", "पूर्वाधार"]),
+        ("समाज तथा संस्कृति", ["संस्कृति", "पर्यटन", "सम्पदा", "महोत्सव", "साहित्य", "कला"])
     ]
-    corpus = (title + " " + clean(item.get("summary", ""))).lower()
-    matches = [(sum(1 for word in words if word in corpus), label) for label, words in topic_rules]
-    best_score, best_topic = max(matches, default=(0, ""))
-    if best_score > 0:
+    headline = title.lower()
+    matches = [(sum(1 for word in words if word in headline), label) for label, words in topic_rules]
+    ranked = sorted(matches, reverse=True)
+    best_score, best_topic = ranked[0] if ranked else (0, "")
+    second_score = ranked[1][0] if len(ranked) > 1 else 0
+    if best_score >= 1 and best_score > second_score:
         qid = "news-topic-" + key
         if qid not in known_ids:
-            distractors = [label for score, label in sorted(matches, reverse=True) if label != best_topic and score > 0][:3]
-            for label, _words in topic_rules:
-                if label != best_topic and label not in distractors and len(distractors) < 3:
-                    distractors.append(label)
+            distractors = [label for score, label in ranked if label != best_topic and score == 0][:3]
             topic_options = stable_shuffle([best_topic] + distractors, key + "-topic")
             all_questions.append({
                 "id": qid,
                 "topic": "समाचार विषय पहिचान",
                 "level": "समसामयिक",
-                "question": "शीर्षक र उपलब्ध समाचार सारांशका आधारमा यो समाचार मुख्यतः कुन विषयसँग सम्बन्धित छ? — " + title,
+                "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — " + title,
                 "options": topic_options,
                 "answer": topic_options.index(best_topic),
-                "explanation": "शीर्षक/सारांशमा भेटिएका विषयगत शब्दका आधारमा वर्गीकरण गरिएको हो। मूल समाचार पढेर सन्दर्भ पुष्टि गर्नुहोस्।",
+                "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
                 "source": url,
                 "news_source": source,
                 "news_date": published,
-                "question_basis": "keyword_classification"
+                "question_basis": "headline_keyword_classification"
             })
             known_ids.add(qid)
 
