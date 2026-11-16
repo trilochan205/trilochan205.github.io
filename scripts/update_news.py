@@ -80,3 +80,113 @@ with open("current-affairs/news.json","w",encoding="utf-8") as file:
 print(f"Saved {len(payload['items'])} unique headlines from {payload['sources_ok']}/{payload['sources_total']} feeds.")
 if not payload["items"]:
     raise SystemExit("No news feeds returned usable headlines; refusing to publish an empty feed.")
+
+
+# Build a growing Loksewa MCQ bank from verified RSS metadata.
+# These questions test facts explicitly present in the feed: publication date and publisher.
+# No article facts are guessed or generated from ambiguous summaries.
+import hashlib, random
+from datetime import date, timedelta
+from pathlib import Path
+
+QUESTION_FILE = Path("current-affairs/questions.json")
+try:
+    old_bank = json.loads(QUESTION_FILE.read_text(encoding="utf-8"))
+except Exception:
+    old_bank = {"questions": []}
+
+all_questions = old_bank.get("questions", [])
+known_ids = {q.get("id") for q in all_questions if q.get("id")}
+publishers = sorted({x.get("source", "").strip() for x in unique if x.get("source")})
+published_dates = sorted({
+    x.get("published", "")[:10]
+    for x in unique
+    if re.match(r"^\\d{4}-\\d{2}-\\d{2}", x.get("published", ""))
+})
+
+def nepali_digits(value):
+    return str(value).translate(str.maketrans("0123456789", "०१२३४५६७८९"))
+
+def date_label(iso_date):
+    try:
+        d = date.fromisoformat(iso_date)
+        return "ई.सं. " + nepali_digits(d.strftime("%Y-%m-%d"))
+    except Exception:
+        return iso_date
+
+def stable_shuffle(values, seed):
+    values = list(dict.fromkeys(values))
+    random.Random(seed).shuffle(values)
+    return values
+
+for item in unique:
+    title = clean(item.get("title", ""))[:180]
+    source = clean(item.get("source", ""))
+    url = item.get("url", "")
+    published = item.get("published", "")[:10]
+    if not title or not source or not url.startswith("http"):
+        continue
+    key = hashlib.sha256(url.encode("utf-8")).hexdigest()[:18]
+
+    # MCQ 1: exact publication date from RSS metadata.
+    if re.match(r"^\\d{4}-\\d{2}-\\d{2}$", published):
+        try:
+            correct_date = date.fromisoformat(published)
+            distractor_dates = [
+                (correct_date + timedelta(days=delta)).isoformat()
+                for delta in (-2, -1, 1)
+            ]
+            date_options = [date_label(d) for d in stable_shuffle(
+                [published] + distractor_dates, key + "-date"
+            )]
+            correct_label = date_label(published)
+            qid = "news-date-" + key
+            if qid not in known_ids:
+                all_questions.append({
+                    "id": qid,
+                    "topic": "समाचारको मिति",
+                    "level": "समसामयिक",
+                    "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — " + title,
+                    "options": date_options,
+                    "answer": date_options.index(correct_label),
+                    "explanation": "RSS मा उपलब्ध प्रकाशन मिति " + correct_label + " हो।",
+                    "source": url,
+                    "news_source": source,
+                    "news_date": published
+                })
+                known_ids.add(qid)
+        except Exception:
+            pass
+
+    # MCQ 2: publisher/source attribution from the feed metadata.
+    if len(publishers) >= 4:
+        wrong_sources = [s for s in publishers if s != source]
+        seed_sources = stable_shuffle(wrong_sources, key + "-source")[:3]
+        source_options = stable_shuffle([source] + seed_sources, key + "-choices")
+        qid = "news-source-" + key
+        if qid not in known_ids:
+            all_questions.append({
+                "id": qid,
+                "topic": "समाचार स्रोत",
+                "level": "समसामयिक",
+                "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — " + title,
+                "options": source_options,
+                "answer": source_options.index(source),
+                "explanation": "यो समाचारको स्रोत " + source + " हो।",
+                "source": url,
+                "news_source": source,
+                "news_date": published
+            })
+            known_ids.add(qid)
+
+# Keep the full growing bank; stable IDs prevent duplicates across 30-minute runs.
+# Curated questions remain untouched and appear alongside generated questions.
+bank = {
+    "updated": datetime.now(timezone.utc).isoformat(),
+    "total": len(all_questions),
+    "generated_from_news": sum(1 for q in all_questions if str(q.get("id", "")).startswith("news-")),
+    "questions": all_questions
+}
+QUESTION_FILE.write_text(json.dumps(bank, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"Loksewa MCQ bank: {len(all_questions)} total questions, "
+      f"{bank['generated_from_news']} generated from news metadata.")
