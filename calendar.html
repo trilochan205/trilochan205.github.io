@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ne">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#123d2d">
+<title>नेपाली पात्रो तथा पञ्चाङ्ग | Trilochan Subedi</title>
+<meta name="description" content="आजको नेपाली मिति, विक्रम संवत् पात्रो, तिथि, नक्षत्र, योग, करण, सूर्योदय र पर्वहरू।">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f3f6f2;--card:#fff;--ink:#1b2b22;--muted:#718077;--green:#174b37;--green2:#2c7650;--gold:#d7b36c;--line:#e0e8e1;--shadow:0 12px 32px #183d2810}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:'Noto Sans Devanagari',sans-serif;line-height:1.65}body.dark{--bg:#101a15;--card:#1a2920;--ink:#eff6f0;--muted:#aab9ae;--line:#304237;--shadow:0 12px 32px #0004}a{color:inherit;text-decoration:none}button,select,input{font:inherit}.wrap{width:min(1160px,92%);margin:auto}
+.top{display:flex;justify-content:space-between;align-items:center;padding:16px 0;gap:12px}.brand{font-weight:800;color:var(--green2)}.actions{display:flex;gap:8px}.btn,.control{border:1px solid var(--line);border-radius:11px;padding:9px 13px;background:var(--card);color:var(--ink);cursor:pointer}.btn:hover{border-color:var(--green2);transform:translateY(-1px)}
+.hero{background:linear-gradient(115deg,#103b2b,#367b51);color:white;padding:32px 0}.hero h1{font-size:clamp(28px,5vw,43px);margin:0 0 5px}.hero p{margin:0;color:#e0eee4}.today{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;margin-top:22px;padding:18px 20px;border:1px solid #ffffff35;border-radius:16px;background:#082d2180}.today small{color:#d4e8d9}.today strong{font-size:clamp(24px,4vw,34px);display:block}.today .ad{font-size:14px;color:#e1eee5}
+.grid{display:grid;grid-template-columns:1.15fr .85fr;gap:18px;margin:24px auto}.panel{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:var(--shadow);min-width:0}.panel h2{font-size:18px;margin:0 0 14px}.calendar-head{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}.month-controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.month-controls select{max-width:170px}.month-controls input{width:90px}.weekdays,.days{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px}.weekdays{margin:18px 0 7px;color:var(--muted);font-size:12px;text-align:center}.day{min-height:83px;border:1px solid var(--line);border-radius:11px;background:var(--card);padding:8px 5px;text-align:center;cursor:pointer;transition:.18s;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;color:var(--ink)}.day:hover{border-color:var(--green2);transform:translateY(-2px)}.day .np{font-size:22px;font-weight:800;line-height:1.3}.day .ad{font-size:10px;color:var(--muted)}.day.outside{opacity:.32;cursor:default}.day.weekend .np{color:#b45345}.day.today{border:2px solid var(--green2);background:#eaf3eb}.day.selected{background:var(--green);border-color:var(--green);color:#fff}.day.selected .ad{color:#e0eee4}.day.selected .np{color:#fff}.day:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.legend{display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);font-size:11px;margin-top:13px}.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;background:var(--green2)}.detail-date{font-size:25px;font-weight:800;color:var(--green2);margin:0 0 3px}.detail-ad{font-size:13px;color:var(--muted);margin-bottom:15px}.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.metric{background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:12px}.metric span{font-size:11px;color:var(--muted);display:block}.metric strong{font-size:15px;display:block;margin-top:3px;overflow-wrap:anywhere}.panchang-note{font-size:12px;color:var(--muted);margin:14px 0 0}.events{display:grid;gap:9px}.event{padding:12px;border-radius:12px;background:var(--bg);border:1px solid var(--line)}.event strong{display:block}.event small{color:var(--muted)}.status{font-size:12px;color:var(--muted);margin-top:12px}.footer{padding:22px 0 35px;color:var(--muted);font-size:12px}.loading{color:var(--muted);font-size:13px}
+@media(max-width:850px){.grid{grid-template-columns:1fr}.day{min-height:68px}.day .np{font-size:19px}}
+@media(max-width:520px){.panel{padding:13px}.weekdays,.days{gap:3px}.day{min-height:57px;border-radius:8px;padding:4px 1px}.day .np{font-size:17px}.day .ad{font-size:9px}.month-controls{width:100%}.month-controls select{flex:1;max-width:none}.detail-grid{gap:6px}.metric{padding:9px}.today{padding:14px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap top"><a class="brand" href="index.html">← Trilochan Subedi</a><div class="actions"><a class="btn" href="current-affairs.html">लोकसेवा</a><button class="btn" id="theme" aria-label="रङ परिवर्तन">🌙</button></div></div>
+<header class="hero"><div class="wrap"><div style="font-size:11px;letter-spacing:2px">NEPALI CALENDAR · PANCHANGA</div><h1>नेपाली पात्रो तथा पञ्चाङ्ग</h1><p>विक्रम संवत् मिति, नेपाली महिना र दैनिक पञ्चाङ्ग — एउटै ठाउँमा।</p>
+<div class="today"><div><small>आजको नेपाली मिति</small><strong id="todayBs">मिति लोड हुँदैछ…</strong><div class="ad" id="todayAd"></div></div><div><small>नेपाल समय</small><strong id="clock">--:--:--</strong><div class="ad" id="todayWeek"></div></div></div></div></header>
+<main class="wrap grid">
+<section class="panel"><div class="calendar-head"><h2>📅 विक्रम संवत् पात्रो</h2><div class="month-controls"><button class="btn" id="prev" aria-label="अघिल्लो महिना">‹</button><select class="control" id="month" aria-label="महिना"></select><input class="control" id="year" type="number" min="1975" max="2100" aria-label="वर्ष"><button class="btn" id="next" aria-label="अर्को महिना">›</button></div></div>
+<div class="weekdays" id="weekdays"></div><div class="days" id="days"><div class="loading">क्यालेन्डर लोड हुँदैछ…</div></div>
+<div class="legend"><span><i class="dot"></i>आज</span><span>रातो अङ्क = शनिबार / आइतबार</span><span>मिति छानेर AD मिति हेर्नुहोस्</span></div>
+<p class="status" id="calendarStatus">मिति रूपान्तरणका लागि प्रमाणित खुला BS क्यालेन्डर डाटा प्रयोग हुन्छ।</p></section>
+<aside style="display:grid;gap:18px;align-content:start">
+<section class="panel"><h2>🔎 छानिएको दिन</h2><div class="detail-date" id="selectedBs">—</div><div class="detail-ad" id="selectedAd">क्यालेन्डरबाट कुनै मिति छान्नुहोस्।</div><div class="detail-grid" id="selectedInfo"></div></section>
+<section class="panel"><h2>🌙 आजको पञ्चाङ्ग</h2><div id="panchang" class="loading">पञ्चाङ्ग विवरण ल्याउँदैछ…</div><p class="panchang-note">पञ्चाङ्गका तिथि/नक्षत्र समय स्थानअनुसार फरक पर्न सक्छन्। यहाँ काठमाडौँ, नेपाललाई सन्दर्भ स्थान मानिएको छ।</p></section>
+<section class="panel"><h2>🎉 आगामी पर्व तथा व्रत</h2><div id="festivals" class="events"><div class="loading">पर्व विवरण ल्याउँदैछ…</div></div></section>
+</aside></main>
+<footer class="wrap footer">BS मिति रूपान्तरण: <a href="https://github.com/Inicrea-Technologies-Pvt-Ltd/bikram-sambat" target="_blank" rel="noopener">Bikram Sambat open-source calendar</a>। पञ्चाङ्ग: <a href="https://api.khumnath.com.np/" target="_blank" rel="noopener">NepDate API</a>। पञ्चाङ्ग सेवा उपलब्ध नभए पात्रोको मिति रूपान्तरण भने चलिरहन्छ। · <a href="index.html">मुख्य वेबसाइट</a></footer>
+<script type="module">
+import {adToBs,bsToAdIso,formatBs,getBsMonthCalendar,getWeekdayLabels} from 'https://esm.sh/@inicrea/bikram-sambat-core';
+const $=id=>document.getElementById(id);
+const nepDigits=s=>String(s).replace(/\d/g,d=>'०१२३४५६७८९'[Number(d)]);
+const months=['बैशाख','जेठ','असार','साउन','भदौ','असोज','कात्तिक','मंसिर','पुस','माघ','फागुन','चैत'];
+const todayIso=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Kathmandu',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+let today,view,selected;
+try{today=adToBs(todayIso());view={year:today.year,month:today.month};selected={...today};}
+catch(e){$('todayBs').textContent='मिति सेवा उपलब्ध छैन';$('calendarStatus').textContent='मिति पुस्तकालय लोड हुन सकेन। पृष्ठ पुनःलोड गर्नुहोस्।';throw e;}
+$('month').innerHTML=months.map((m,i)=>'<option value="'+(i+1)+'">'+m+'</option>').join('');
+$('weekdays').innerHTML=getWeekdayLabels('ne').map(x=>'<div>'+x+'</div>').join('');
+function render(){
+ $('month').value=view.month;$('year').value=view.year;
+ const cal=getBsMonthCalendar(view.year,view.month,{locale:'ne',weekStartsOn:0,weekend:'nepal'});
+ $('days').innerHTML=cal.weeks.flat().map(d=>{
+ const outside=d.outside?'outside':'',isToday=d.year===today.year&&d.month===today.month&&d.day===today.day,isSelected=d.year===selected.year&&d.month===selected.month&&d.day===selected.day;
+ return '<button class="day '+outside+' '+(d.weekend?'weekend ':'')+(isToday?'today ':'')+(isSelected?'selected':'')+'" '+(d.outside?'disabled':'data-day="'+d.day+'"')+' aria-label="'+d.year+' '+months[d.month-1]+' '+d.day+'"><span class="np">'+nepDigits(d.day)+'</span><span class="ad">'+d.ad+'</span></button>';
+ }).join('');
+ $('calendarStatus').textContent=cal.monthName+' · '+nepDigits(cal.daysInMonth)+' दिन · AD मिति प्रत्येक दिनमुनि देखाइएको छ।';
+}
+function selectDay(day){selected={year:view.year,month:view.month,day};const iso=bsToAdIso(selected);const d=new Date(iso+'T12:00:00+05:45');const weekday=new Intl.DateTimeFormat('ne-NP',{weekday:'long',timeZone:'Asia/Kathmandu'}).format(d);$('selectedBs').textContent=formatBs(selected,'YYYY MMMM DD',{locale:'ne'});$('selectedAd').textContent='ईस्वी मिति: '+iso+' · '+weekday;$('selectedInfo').innerHTML='<div class="metric"><span>विक्रम संवत्</span><strong>'+nepDigits(selected.year)+'</strong></div><div class="metric"><span>महिना</span><strong>'+months[selected.month-1]+'</strong></div><div class="metric"><span>गते</span><strong>'+nepDigits(day)+'</strong></div><div class="metric"><span>बार</span><strong>'+weekday+'</strong></div>';render();}
+$('days').addEventListener('click',e=>{const b=e.target.closest('[data-day]');if(b)selectDay(Number(b.dataset.day));});
+$('prev').onclick=()=>{view.month--;if(view.month<1){view.month=12;view.year--;}if(view.year>=1975)render();else{view={year:1975,month:1};render();}};
+$('next').onclick=()=>{view.month++;if(view.month>12){view.month=1;view.year++;}if(view.year<=2100)render();else{view={year:2100,month:12};render();}};
+$('month').onchange=()=>{view.month=Number($('month').value);render();};
+$('year').onchange=()=>{const y=Number($('year').value);if(y>=1975&&y<=2100){view.year=y;render();}else $('year').value=view.year;};
+$('todayBs').textContent=formatBs(today,'YYYY MMMM DD',{locale:'ne'});
+$('todayAd').textContent='ईस्वी मिति: '+todayIso();
+$('todayWeek').textContent=formatBs(today,'dddd',{locale:'ne'});
+selectDay(today.day);
+function tick(){$('clock').textContent=new Intl.DateTimeFormat('ne-NP',{timeZone:'Asia/Kathmandu',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:true}).format(new Date());}
+tick();setInterval(tick,1000);
+async function loadPanchang(){
+ const box=$('panchang'),events=$('festivals');
+ try{
+ const r=await fetch('https://api.khumnath.com.np/today?lat=27.7172&lon=85.324&tz=5.75&apiKey=free',{cache:'no-store'});
+ if(!r.ok)throw Error('HTTP '+r.status);const d=await r.json();
+ const p=d.panchanga||d.panchang||d.data?.panchanga||d.data||d;
+ const get=(...paths)=>{for(const path of paths){let v=p;for(const k of path.split('.'))v=v?.[k];if(v&&typeof v==='object')v=v.name||v.label||v.value;if(v!==undefined&&v!==null&&v!=='')return String(v);}return '—';};
+ const rows=[['तिथि',get('tithi.name','tithi')],['नक्षत्र',get('nakshatra.name','nakshatra')],['योग',get('yoga.name','yoga')],['करण',get('karana.name','karana')],['सूर्योदय',get('sunrise','sunriseTime','sunrise.time')],['सूर्यास्त',get('sunset','sunsetTime','sunset.time')],['राहुकाल',get('rahuKalam','rahu_kalam.start','muhurta.rahuKalam.start')]];
+ box.innerHTML='<div class="detail-grid">'+rows.map(x=>'<div class="metric"><span>'+x[0]+'</span><strong>'+x[1]+'</strong></div>').join('')+'</div><div class="status">पञ्चाङ्ग API बाट पछिल्लो पटक '+new Date().toLocaleTimeString('ne-NP',{timeZone:'Asia/Kathmandu'})+' मा प्राप्त।</div>';
+ const list=d.festivals?.upcoming||d.events||d.upcomingFestivals||[];
+ events.innerHTML=Array.isArray(list)&&list.length?list.slice(0,8).map(x=>'<div class="event"><strong>'+ (x.name_np||x.name||x.title||'पर्व')+'</strong><small>'+ (x.date_np||x.bsDate||x.date||x.ad_date||'')+'</small></div>').join(''):'<div class="status">API ले हाल आगामी पर्व सूची उपलब्ध गराएको छैन।</div>';
+ }catch(e){
+ box.innerHTML='<div class="status">दैनिक पञ्चाङ्ग सेवा अहिले उपलब्ध भएन। कृपया केही समयपछि पुनः प्रयास गर्नुहोस्। BS मिति पात्रो भने सामान्य रूपमा चल्छ।</div>';
+ events.innerHTML='<div class="status">पर्व सूची लोड हुन सकेन।</div>';
+ }
+}
+$('theme').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem('patroDark',document.body.classList.contains('dark')?'1':'0');};
+if(localStorage.getItem('patroDark')==='1')document.body.classList.add('dark');
+render();loadPanchang();setInterval(loadPanchang,30*60*1000);
+</script>
+</body></html>
