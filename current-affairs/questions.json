@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T18:19:47.949931+00:00",
-  "total": 565,
-  "generated_from_news": 528,
+  "updated": "2026-11-16T19:27:18.315803+00:00",
+  "total": 571,
+  "generated_from_news": 534,
   "questions": [
     {
       "id": "constitution-001",
@@ -8413,24 +8413,6 @@
       "news_date": "2026-11-16"
     },
     {
-      "id": "news-topic-4896925ae6c83ac258",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — १२ बजे १२ समाचार : तातोपानी नाका नखुल्दा व्यवसायीहरू मर्कामादेखि प्रधानमन्त्रीको भारत भ्रमण तयारीसम्म",
-      "options": [
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605658/12-oclock-12-news-from-businessmen-in-trouble-as-tatopani-border-checkpoint-not-opened-to-preparations-for-prime-ministers-visit-to-india",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-4896925ae6c83ac258",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -8499,24 +8481,6 @@
       "news_date": "2026-11-16"
     },
     {
-      "id": "news-topic-065a8c4bd6c1e0f6b7",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएलः बलिङमा नेपाली खेलाडीको दबदबा, ब्याटिङमा विदेशी अगाडि",
-      "options": [
-        "शिक्षा",
-        "खेलकुद",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605657/npl-nepali-players-dominate-in-bowling-foreigners-lead-in-batting",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-065a8c4bd6c1e0f6b7",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -8551,24 +8515,6 @@
       "news_date": "2026-11-16"
     },
     {
-      "id": "news-topic-ef31714a8dc650fae3",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सामुदायिक कुकुरको बन्ध्याकरण तथा रेबिजविरुद्ध खोप अभियान",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229293",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-ef31714a8dc650fae3",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -8601,24 +8547,6 @@
       "source": "https://www.ratopati.com/story/605656/provincial-government-is-committed-to-sports-and-career-development-of-athletes-chief-minister-bhatta",
       "news_source": "Ratopati",
       "news_date": "2026-11-16"
-    },
-    {
-      "id": "news-topic-76605101191a581c1c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — खेलकुद र खेलाडीको वृत्ति विकासमा प्रदेश सरकार प्रतिबद्ध छ: मुख्यमन्त्री भट्ट",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605656/provincial-government-is-committed-to-sports-and-career-development-of-athletes-chief-minister-bhatta",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-76605101191a581c1c",
@@ -8689,24 +8617,6 @@
       "news_date": "2026-11-16"
     },
     {
-      "id": "news-topic-cc1723259c2567e2cb",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सहरको व्यवसाय छाडेर गाउँमै करोडौँको लगानी",
-      "options": [
-        "अर्थतन्त्र तथा बजेट",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229291",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-16",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-cc1723259c2567e2cb",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -8756,6 +8666,200 @@
       "source": "https://www.ratopati.com/story/605654/president-trump-i-wouldnt-mind-if-jensen-huang-was-reinstated-as-nvidia-ceo",
       "news_source": "Ratopati",
       "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-4ecaca6f57d1d81cd4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — त्रिवेणी रङ्गशालाको मुख्यमन्त्री पाण्डेद्वारा स्थलगत अवलोकन",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१४",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605661/chief-minister-pandey-inspects-triveni-stadium-on-site",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-4ecaca6f57d1d81cd4",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — त्रिवेणी रङ्गशालाको मुख्यमन्त्री पाण्डेद्वारा स्थलगत अवलोकन",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605661/chief-minister-pandey-inspects-triveni-stadium-on-site",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-4ecaca6f57d1d81cd4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — त्रिवेणी रङ्गशालाको मुख्यमन्त्री पाण्डेद्वारा स्थलगत अवलोकन",
+      "options": [
+        "Khabarhub",
+        "Nepal Samaya",
+        "Setopati",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605661/chief-minister-pandey-inspects-triveni-stadium-on-site",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-date-6e47bc27173fe229a9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — करातेका खेलाडी छनोट, स्वर्ण पदक जित्नेलाई एक लाख पुरस्कार",
+      "options": [
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१४"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१६ हो।",
+      "source": "https://www.ratopati.com/story/605660/karate-players-selected-gold-medalists-to-receive-rs-100000-prize",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-6e47bc27173fe229a9",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — करातेका खेलाडी छनोट, स्वर्ण पदक जित्नेलाई एक लाख पुरस्कार",
+      "options": [
+        "खेलकुद",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605660/karate-players-selected-gold-medalists-to-receive-rs-100000-prize",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-6e47bc27173fe229a9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — करातेका खेलाडी छनोट, स्वर्ण पदक जित्नेलाई एक लाख पुरस्कार",
+      "options": [
+        "The Kathmandu Post",
+        "Himal Press",
+        "Ratopati",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605660/karate-players-selected-gold-medalists-to-receive-rs-100000-prize",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16"
+    },
+    {
+      "id": "news-topic-4896925ae6c83ac258",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — १२ बजे १२ समाचार : तातोपानी नाका नखुल्दा व्यवसायीहरू मर्कामादेखि प्रधानमन्त्रीको भारत भ्रमण तयारीसम्म",
+      "options": [
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605658/12-oclock-12-news-from-businessmen-in-trouble-as-tatopani-border-checkpoint-not-opened-to-preparations-for-prime-ministers-visit-to-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-065a8c4bd6c1e0f6b7",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएलः बलिङमा नेपाली खेलाडीको दबदबा, ब्याटिङमा विदेशी अगाडि",
+      "options": [
+        "शिक्षा",
+        "खेलकुद",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605657/npl-nepali-players-dominate-in-bowling-foreigners-lead-in-batting",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-ef31714a8dc650fae3",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सामुदायिक कुकुरको बन्ध्याकरण तथा रेबिजविरुद्ध खोप अभियान",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229293",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-76605101191a581c1c",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — खेलकुद र खेलाडीको वृत्ति विकासमा प्रदेश सरकार प्रतिबद्ध छ: मुख्यमन्त्री भट्ट",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605656/provincial-government-is-committed-to-sports-and-career-development-of-athletes-chief-minister-bhatta",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-cc1723259c2567e2cb",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सहरको व्यवसाय छाडेर गाउँमै करोडौँको लगानी",
+      "options": [
+        "अर्थतन्त्र तथा बजेट",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229291",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-16",
+      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-topic-f86220dadb758dd8c6",
