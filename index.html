@@ -55,7 +55,7 @@ body{overflow-x:hidden}
      crossorigin="anonymous"></script>
 </head>
 <body>
-<header class="topbar"><div class="wrap"><nav><a class="logo" href="#home">Trilochan <span>Subedi.</span></a><div class="navlinks"><a href="#about">About</a><a href="#interests">Interests</a><a href="journal.html">Reflections</a><a href="poems.html">Poetry</a><a href="#contact">Contact</a></div></nav></div></header>
+<header class="topbar"><div class="wrap"><nav><a class="logo" href="#home">Trilochan <span>Subedi.</span></a><div class="navlinks"><a href="#about">About</a><a href="#interests">Interests</a><a href="journal.html">Reflections</a><a href="poems.html">Poetry</a><a href="#my-posts">My Posts</a><a href="#contact">Contact</a></div></nav></div></header>
 <main>
 <section class="wrap hero" id="home" style="border:0">
  <div><div class="eyebrow">A life of purpose and discovery</div><h1>Serving people.<br><em>Living stories.</em></h1><p class="hero-copy">I’m Trilochan Subedi — a social worker, a lover of literature and a curious traveller. I find meaning in helping others, inspiration in words and fresh perspectives in every journey.</p><div class="buttons"><a class="btn btn-main" href="#about">Get to know me</a><a class="btn btn-outline" href="#contact">Let’s connect</a></div></div>
@@ -69,7 +69,7 @@ body{overflow-x:hidden}
  </div></div></section>
 <section class="journal" id="journal"><div class="wrap journal-inner"><div class="journal-visual" role="img" aria-label="Decorative book illustration"><div class="book">Notes<br>from the<br>journey<small>PEOPLE • PLACES • PERSPECTIVES</small></div></div><div class="journal-copy"><div class="kicker">Reflections &amp; discoveries</div><h2>Every person has a story. Every place has a lesson.</h2><p>In time, I hope to share reflections on community, books that have stayed with me, places I have visited and lessons gathered along the way. This space can grow with each new experience.</p><a class="btn btn-outline" href="journal.html">Read reflections</a></div></div></section>
 <section id="contact"><div class="wrap"><div class="contact-panel"><div><div class="kicker" style="color:#d8c39e">Stay connected</div><h2>Good conversations begin with hello.</h2><p>For conversations about social work, literature, travel or collaboration, feel free to reach out.</p></div><a class="btn" href="mailto:greentrisubedi@gmail.com">Email Trilochan</a></div></div></section>
-</main>
+<section id="my-posts" class="wrap" style="padding:70px 0"><div class="section-head"><span class="eyebrow">LATEST UPDATES</span><h2>My Posts &amp; Moments</h2><p>Stories, poems, photographs and experiences.</p></div><div id="posts-list" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:22px"><p>Loading posts…</p></div></section></main>
 <footer class="wrap"><span class="footer-name">Trilochan Subedi</span><span>© <span id="year"></span> · Made with purpose. &nbsp; <a href="journal.html">Reflections</a> &nbsp;·&nbsp; <a href="poems.html">Poetry</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="mailto:greentrisubedi@gmail.com">Contact</a></span></footer>
 <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
 <button class="back-top" aria-label="Back to top" title="Back to top">↑</button>
@@ -98,4 +98,12 @@ body{overflow-x:hidden}
  topBtn.addEventListener('click',()=>window.scrollTo({top:0,behavior:reduced?'auto':'smooth'}));
 })();
 </script>
-</body></html>
+<script>
+(async()=>{const box=document.getElementById('posts-list');if(!box)return;try{
+const r=await fetch('https://api.github.com/repos/trilochan205/trilochan205.github.io/contents/posts?ref=main');if(!r.ok)throw Error();
+const files=(await r.json()).filter(f=>f.name.endsWith('.md'));
+if(!files.length){box.innerHTML='<p>No posts yet. Add your first post in the editor.</p>';return;}
+const posts=await Promise.all(files.map(async f=>{const t=await(await fetch(f.download_url)).text();const m=t.match(/^---\s*\n([\s\S]*?)\n---\s*\n?([\s\S]*)$/);if(!m)return null;const meta={};m[1].split('\n').forEach(line=>{const x=line.match(/^([\w-]+):\s*(.*)$/);if(x)meta[x[1]]=x[2].replace(/^['"]|['"]$/g,'');});return {...meta,body:m[2]};}));
+box.innerHTML=posts.filter(Boolean).map(p=>{const img=p.cover?'<img src="'+p.cover+'" alt="" style="width:100%;height:190px;object-fit:cover;border-radius:12px;margin-bottom:12px">':'';const paras=p.body.split(/\n\s*\n/).map(x=>'<p>'+x.replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>')+'</p>').join('');return '<article style="background:#fff;padding:22px;border:1px solid #e7e3d9;border-radius:16px">'+img+'<small style="color:#315c4b;font-weight:700">'+(p.category||'POST')+' · '+(p.date||'')+'</small><h3>'+((p.title||'').replace(/</g,'&lt;'))+'</h3>'+paras+'</article>';}).join('');
+}catch(e){box.innerHTML='<p>Posts will appear here after publishing.</p>';}})();
+</script></body></html>
