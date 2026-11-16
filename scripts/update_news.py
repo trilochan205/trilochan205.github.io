@@ -158,6 +158,45 @@ for item in unique:
         except Exception:
             pass
 
+    # MCQ 3: classify news by its dominant subject using transparent keyword rules.
+    topic_rules = [
+        ("राजनीति तथा शासन", ["सरकार", "मन्त्रिपरिषद्", "प्रधानमन्त्री", "मन्त्री", "संसद्", "निर्वाचन", "राजनीति", "प्रदेशसभा", "मुख्यमन्त्री"]),
+        ("अर्थतन्त्र तथा बजेट", ["अर्थतन्त्र", "बजेट", "राजस्व", "कर", "बैंक", "ब्याजदर", "मुद्रास्फीति", "आर्थिक", "लगानी", "व्यापार", "आयात", "निर्यात"]),
+        ("शिक्षा", ["शिक्षा", "विद्यालय", "विश्वविद्यालय", "परीक्षा", "विद्यार्थी", "शिक्षक", "पाठ्यक्रम"]),
+        ("स्वास्थ्य", ["स्वास्थ्य", "अस्पताल", "चिकित्सा", "खोप", "रोग", "औषधि", "स्वास्थ्यकर्मी"]),
+        ("विज्ञान तथा प्रविधि", ["प्रविधि", "कृत्रिम बुद्धिमत्ता", "डिजिटल", "साइबर", "इन्टरनेट", "सफ्टवेयर", "मोबाइल", "विज्ञान"]),
+        ("वातावरण तथा विपद्", ["जलवायु", "वातावरण", "प्रदूषण", "बाढी", "पहिरो", "भूकम्प", "विपद्", "मौसम", "वन", "वन्यजन्तु"]),
+        ("खेलकुद", ["खेलकुद", "क्रिकेट", "फुटबल", "भलिबल", "खेलाडी", "विश्वकप", "लिग", "टूर्नामेन्ट"]),
+        ("कूटनीति तथा अन्तर्राष्ट्रिय सम्बन्ध", ["भारत", "चीन", "अमेरिका", "संयुक्त राष्ट्र", "कूटनीति", "द्विपक्षीय", "सम्झौता", "विदेश भ्रमण"]),
+        ("पूर्वाधार तथा यातायात", ["सडक", "रेल", "विमानस्थल", "पुल", "जलविद्युत्", "ऊर्जा", "यातायात", "निर्माण"]),
+        ("समाज तथा संस्कृति", ["संस्कृति", "समाज", "पर्यटन", "सम्पदा", "महोत्सव", "साहित्य", "कला"])
+    ]
+    corpus = (title + " " + clean(item.get("summary", ""))).lower()
+    matches = [(sum(1 for word in words if word in corpus), label) for label, words in topic_rules]
+    best_score, best_topic = max(matches, default=(0, ""))
+    if best_score > 0:
+        qid = "news-topic-" + key
+        if qid not in known_ids:
+            distractors = [label for score, label in sorted(matches, reverse=True) if label != best_topic and score > 0][:3]
+            for label, _words in topic_rules:
+                if label != best_topic and label not in distractors and len(distractors) < 3:
+                    distractors.append(label)
+            topic_options = stable_shuffle([best_topic] + distractors, key + "-topic")
+            all_questions.append({
+                "id": qid,
+                "topic": "समाचार विषय पहिचान",
+                "level": "समसामयिक",
+                "question": "शीर्षक र उपलब्ध समाचार सारांशका आधारमा यो समाचार मुख्यतः कुन विषयसँग सम्बन्धित छ? — " + title,
+                "options": topic_options,
+                "answer": topic_options.index(best_topic),
+                "explanation": "शीर्षक/सारांशमा भेटिएका विषयगत शब्दका आधारमा वर्गीकरण गरिएको हो। मूल समाचार पढेर सन्दर्भ पुष्टि गर्नुहोस्।",
+                "source": url,
+                "news_source": source,
+                "news_date": published,
+                "question_basis": "keyword_classification"
+            })
+            known_ids.add(qid)
+
     # MCQ 2: publisher/source attribution from the feed metadata.
     if len(publishers) >= 4:
         wrong_sources = [s for s in publishers if s != source]
