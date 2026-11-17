@@ -6,7 +6,9 @@ on:
     branches: ["main"]
     paths:
       - "package.json"
-      - "capacitor.config.json"\n      - "app.html"\n      - "bato-mero-logo.svg"
+      - "capacitor.config.json"
+      - "app.html"
+      - "bato-mero-logo.svg"
       - ".github/workflows/android-apk.yml"
 
 permissions:
