@@ -47,10 +47,10 @@
 <p class="status" id="calendarStatus">मिति रूपान्तरणका लागि प्रमाणित खुला BS क्यालेन्डर डाटा प्रयोग हुन्छ।</p></section>
 <aside style="display:grid;gap:18px;align-content:start">
 <section class="panel"><h2>🔎 छानिएको दिन</h2><div class="detail-date" id="selectedBs">—</div><div class="detail-ad" id="selectedAd">क्यालेन्डरबाट कुनै मिति छान्नुहोस्।</div><div class="detail-grid" id="selectedInfo"></div></section>
-<section class="panel"><h2>🌙 आजको पञ्चाङ्ग</h2><div id="panchang" class="loading">पञ्चाङ्ग विवरण ल्याउँदैछ…</div><p class="panchang-note">पञ्चाङ्गका तिथि/नक्षत्र समय स्थानअनुसार फरक पर्न सक्छन्। यहाँ काठमाडौँ, नेपाललाई सन्दर्भ स्थान मानिएको छ।</p></section>
+<section class="panel"><div class="calendar-head"><h2>🌙 आजको पञ्चाङ्ग</h2><button class="btn" id="useLocation" type="button">मेरो स्थान प्रयोग</button></div><div class="status" id="panchangPlace">स्थान: काठमाडौं, नेपाल</div><div id="panchang" class="loading">पञ्चाङ्ग विवरण ल्याउँदैछ…</div><p class="panchang-note">सूर्योदय, सूर्यास्त र राहुकाल छानिएको स्थानअनुसार दैनिक गणना हुन्छ। आफ्नो स्थान प्रयोग गर्न माथिको बटन थिच्नुहोस्।</p></section>
 <section class="panel"><h2>🎉 आगामी पर्व तथा व्रत</h2><div id="festivals" class="events"><div class="loading">पर्व विवरण ल्याउँदैछ…</div></div></section>
 </aside></main>
-<footer class="wrap footer">BS मिति रूपान्तरण: <a href="https://github.com/Inicrea-Technologies-Pvt-Ltd/bikram-sambat" target="_blank" rel="noopener">Bikram Sambat open-source calendar</a>। पञ्चाङ्ग: <a href="https://api.khumnath.com.np/" target="_blank" rel="noopener">NepDate API</a>। पञ्चाङ्ग सेवा उपलब्ध नभए पात्रोको मिति रूपान्तरण भने चलिरहन्छ। · <a href="index.html">मुख्य वेबसाइट</a></footer>
+<footer class="wrap footer">BS मिति रूपान्तरण: <a href="https://github.com/Inicrea-Technologies-Pvt-Ltd/bikram-sambat" target="_blank" rel="noopener">Bikram Sambat open-source calendar</a>। पञ्चाङ्ग: <a href="https://api.khumnath.com.np/" target="_blank" rel="noopener">NepDate API</a> र सूर्योदय/सूर्यास्तका लागि <a href="https://sunrise-sunset.org/" target="_blank" rel="noopener">Sunrise-Sunset.org</a>। पञ्चाङ्ग सेवा उपलब्ध नभए पात्रोको मिति रूपान्तरण भने चलिरहन्छ। · <a href="index.html">मुख्य वेबसाइट</a></footer>
 <script type="module">
 import {adToBs,bsToAdIso,formatBs,getBsMonthCalendar,getWeekdayLabels} from 'https://esm.sh/@inicrea/bikram-sambat-core';
 const $=id=>document.getElementById(id);
@@ -83,22 +83,52 @@ $('todayWeek').textContent=formatBs(today,'dddd',{locale:'ne'});
 selectDay(today.day);
 function tick(){$('clock').textContent=new Intl.DateTimeFormat('ne-NP',{timeZone:'Asia/Kathmandu',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:true}).format(new Date());}
 tick();setInterval(tick,1000);
-async function loadPanchang(){
- const box=$('panchang'),events=$('festivals');
- try{
- const r=await fetch('https://api.khumnath.com.np/today?lat=27.7172&lon=85.324&tz=5.75&apiKey=free',{cache:'no-store'});
- if(!r.ok)throw Error('HTTP '+r.status);const d=await r.json();
- const p=d.panchanga||d.panchang||d.data?.panchanga||d.data||d;
- const get=(...paths)=>{for(const path of paths){let v=p;for(const k of path.split('.'))v=v?.[k];if(v&&typeof v==='object')v=v.name||v.label||v.value;if(v!==undefined&&v!==null&&v!=='')return String(v);}return '—';};
- const rows=[['तिथि',get('tithi.name','tithi')],['नक्षत्र',get('nakshatra.name','nakshatra')],['योग',get('yoga.name','yoga')],['करण',get('karana.name','karana')],['सूर्योदय',get('sunrise','sunriseTime','sunrise.time')],['सूर्यास्त',get('sunset','sunsetTime','sunset.time')],['राहुकाल',get('rahuKalam','rahu_kalam.start','muhurta.rahuKalam.start')]];
- box.innerHTML='<div class="detail-grid">'+rows.map(x=>'<div class="metric"><span>'+x[0]+'</span><strong>'+x[1]+'</strong></div>').join('')+'</div><div class="status">पञ्चाङ्ग API बाट पछिल्लो पटक '+new Date().toLocaleTimeString('ne-NP',{timeZone:'Asia/Kathmandu'})+' मा प्राप्त।</div>';
- const list=d.festivals?.upcoming||d.events||d.upcomingFestivals||[];
- events.innerHTML=Array.isArray(list)&&list.length?list.slice(0,8).map(x=>'<div class="event"><strong>'+ (x.name_np||x.name||x.title||'पर्व')+'</strong><small>'+ (x.date_np||x.bsDate||x.date||x.ad_date||'')+'</small></div>').join(''):'<div class="status">API ले हाल आगामी पर्व सूची उपलब्ध गराएको छैन।</div>';
- }catch(e){
- box.innerHTML='<div class="status">दैनिक पञ्चाङ्ग सेवा अहिले उपलब्ध भएन। कृपया केही समयपछि पुनः प्रयास गर्नुहोस्। BS मिति पात्रो भने सामान्य रूपमा चल्छ।</div>';
- events.innerHTML='<div class="status">पर्व सूची लोड हुन सकेन।</div>';
- }
+
+let panchangLocation={lat:27.7172,lon:85.324,label:'काठमाडौं, नेपाल'};
+try{const saved=JSON.parse(localStorage.getItem('panchangLocation')||'null');if(saved&&Number.isFinite(saved.lat)&&Number.isFinite(saved.lon))panchangLocation=saved;}catch(e){}
+function fmtNepalTime(value){const d=new Date(value);if(!Number.isFinite(d.getTime()))return '—';return new Intl.DateTimeFormat('ne-NP',{timeZone:'Asia/Kathmandu',hour:'2-digit',minute:'2-digit',hour12:true}).format(d);}
+function rahuKalam(sunrise,sunset,date){
+ const a=new Date(sunrise).getTime(),b=new Date(sunset).getTime();if(!Number.isFinite(a)||!Number.isFinite(b)||b<=a)return '—';
+ const weekday=new Date(date+'T12:00:00+05:45').getDay();
+ const part=[7,1,6,4,5,3,2][weekday];
+ const segment=(b-a)/8,start=a+segment*part,end=start+segment;
+ return fmtNepalTime(start)+' – '+fmtNepalTime(end);
 }
+async function getSolarRows(){
+ const date=todayIso(),url='https://api.sunrise-sunset.org/v2?lat='+encodeURIComponent(panchangLocation.lat)+'&lng='+encodeURIComponent(panchangLocation.lon)+'&date='+encodeURIComponent(date);
+ const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('Solar API HTTP '+r.status);
+ const d=await r.json(),v=d.results||d;
+ const sunrise=v.sunrise,sunset=v.sunset;if(!sunrise||!sunset)throw Error('Sunrise/sunset missing');
+ return [['सूर्योदय',fmtNepalTime(sunrise)],['सूर्यास्त',fmtNepalTime(sunset)],['राहुकाल',rahuKalam(sunrise,sunset,date)]];
+}
+async function loadPanchang(){
+ const box=$('panchang'),events=$('festivals');let rows=[];
+ $('panchangPlace').textContent='स्थान: '+panchangLocation.label+' · मिति: '+todayIso();
+ try{
+  const url='https://api.khumnath.com.np/today?lat='+encodeURIComponent(panchangLocation.lat)+'&lon='+encodeURIComponent(panchangLocation.lon)+'&tz=5.75&date='+encodeURIComponent(todayIso())+'&lang=ne&apiKey=free';
+  const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const d=await r.json();
+  const p=d.panchanga||d.panchang||d.data?.panchanga||d.data||d;
+  const get=(...paths)=>{for(const path of paths){let v=p;for(const k of path.split('.'))v=v?.[k];if(v&&typeof v==='object')v=v.name||v.label||v.value;if(v!==undefined&&v!==null&&v!=='')return String(v);}return '—';};
+  rows=[['तिथि',get('tithi.name','tithi')],['नक्षत्र',get('nakshatra.name','nakshatra')],['योग',get('yoga.name','yoga')],['करण',get('karana.name','karana')]];
+  const list=d.festivals?.upcoming||d.events||d.upcomingFestivals||[];
+  events.innerHTML=Array.isArray(list)&&list.length?list.slice(0,8).map(x=>'<div class="event"><strong>'+ (x.name_np||x.name||x.title||'पर्व')+'</strong><small>'+ (x.date_np||x.bsDate||x.date||x.ad_date||'')+'</small></div>').join(''):'<div class="status">API ले हाल आगामी पर्व सूची उपलब्ध गराएको छैन।</div>';
+ }catch(e){
+  rows=[['तिथि','सेवा उपलब्ध भएन'],['नक्षत्र','—'],['योग','—'],['करण','—']];
+  events.innerHTML='<div class="status">पर्व सूची लोड हुन सकेन।</div>';
+ }
+ try{rows=rows.concat(await getSolarRows());}
+ catch(e){rows=rows.concat([['सूर्योदय','लोड हुन सकेन'],['सूर्यास्त','लोड हुन सकेन'],['राहुकाल','गणना हुन सकेन']]);}
+ box.innerHTML='<div class="detail-grid">'+rows.map(x=>'<div class="metric"><span>'+x[0]+'</span><strong>'+x[1]+'</strong></div>').join('')+'</div><div class="status">सूर्य समय स्रोत: <a href="https://sunrise-sunset.org/" target="_blank" rel="noopener">Sunrise-Sunset.org</a> · राहुकाल दिनको आठ भागमध्ये बारअनुसारको भागबाट गणना गरिएको।</div>';
+}
+$('useLocation').onclick=()=>{
+ if(!navigator.geolocation){$('panchangPlace').textContent='यो ब्राउजरमा स्थान सेवा उपलब्ध छैन।';return;}
+ $('panchangPlace').textContent='तपाईंको स्थान पत्ता लगाउँदैछ…';
+ navigator.geolocation.getCurrentPosition(pos=>{
+  panchangLocation={lat:pos.coords.latitude,lon:pos.coords.longitude,label:'तपाईंको हालको स्थान'};
+  try{localStorage.setItem('panchangLocation',JSON.stringify(panchangLocation));}catch(e){}
+  loadPanchang();
+ },()=>{$('panchangPlace').textContent='स्थान अनुमति प्राप्त भएन। काठमाडौंको समय देखाइँदैछ।';},{enableHighAccuracy:true,timeout:10000,maximumAge:300000});
+};
 $('theme').onclick=()=>{document.body.classList.toggle('dark');localStorage.setItem('patroDark',document.body.classList.contains('dark')?'1':'0');};
 if(localStorage.getItem('patroDark')==='1')document.body.classList.add('dark');
 render();loadPanchang();setInterval(loadPanchang,30*60*1000);
