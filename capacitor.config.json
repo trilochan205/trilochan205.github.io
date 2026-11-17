@@ -1,0 +1,13 @@
+{
+  "appId": "com.trilochansubedi.app",
+  "appName": "Trilochan Subedi",
+  "webDir": "www",
+  "server": {
+    "url": "https://trilochan205.github.io",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
