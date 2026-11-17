@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T19:32:13.033147+00:00",
-  "total": 1876,
-  "generated_from_news": 1823,
+  "updated": "2026-11-17T20:44:25.635190+00:00",
+  "total": 1881,
+  "generated_from_news": 1828,
   "questions": [
     {
       "id": "constitution-001",
@@ -31008,6 +31008,75 @@
       "news_date": "2026-11-17"
     },
     {
+      "id": "news-source-160d95b673d45d20bb",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "options": [
+        "Nepal Samaya",
+        "Ratopati",
+        "The Kathmandu Post",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605905/postal-road-is-changing-the-face-of-a-remote-village",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-ba953fcfe002302441",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बैसरी–रिसिनचौतारी सडक स्तरोन्नति सुरु, तीन करोड ३५ लाख लागतमा काम हुँदै",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://www.ratopati.com/story/605907/upgrading-of-baisari-risin-chautari-road-begins-work-underway-at-a-cost-of-rs-335-million",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-topic-ba953fcfe002302441",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बैसरी–रिसिनचौतारी सडक स्तरोन्नति सुरु, तीन करोड ३५ लाख लागतमा काम हुँदै",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "पूर्वाधार तथा यातायात"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605907/upgrading-of-baisari-risin-chautari-road-begins-work-underway-at-a-cost-of-rs-335-million",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-ba953fcfe002302441",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बैसरी–रिसिनचौतारी सडक स्तरोन्नति सुरु, तीन करोड ३५ लाख लागतमा काम हुँदै",
+      "options": [
+        "Setopati",
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605907/upgrading-of-baisari-risin-chautari-road-begins-work-underway-at-a-cost-of-rs-335-million",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
       "id": "news-topic-160d95b673d45d20bb",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31024,23 +31093,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-17",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-160d95b673d45d20bb",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
-      "options": [
-        "Nepal Samaya",
-        "Ratopati",
-        "The Kathmandu Post",
-        "Himalkhabar"
-      ],
-      "answer": 1,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/605905/postal-road-is-changing-the-face-of-a-remote-village",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-17"
     },
     {
       "id": "news-topic-10ddf28826598b2789",
@@ -31833,6 +31885,40 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-date-030d41bc0308001b8a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Murder of a Girl After Rape: Understand the Full Sequence of Events in 5 Questions - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०८-२२",
+        "ई.सं. २०२६-०८-२१",
+        "ई.सं. २०२६-०८-१९",
+        "ई.सं. २०२६-०८-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०८-२१ हो।",
+      "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnlPeUJta2RvaWR0dktGMXpiQmk3a0lVRlZTZ3JxUTRMRUhhalc4Ny1kck82YmVaZ2lIck5FQUoyS2tlNTJWVTlJeTN4aGhwNDhlTzZsbDUyb0NoeGVlQXcyMmJ1UW1jMFJ4Nzc1MlBKNkZuVlhra3RFRWFPaEtPQ0pCT3FEdmYxeGttM3NkZzRscHRwdUk4TEkyV3lDQ2l2SWJ5dHhyMkRZMXhva3ZOTFhVX0Q3amlRa1phWDFQaWt0a3RiMjBsZnF1Si1oakR6Y1g2Q1pZZGY0dHF4?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-08-21"
+    },
+    {
+      "id": "news-source-030d41bc0308001b8a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Murder of a Girl After Rape: Understand the Full Sequence of Events in 5 Questions - Ekantipur",
+      "options": [
+        "Nepal Samaya",
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "NepalNews"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnlPeUJta2RvaWR0dktGMXpiQmk3a0lVRlZTZ3JxUTRMRUhhalc4Ny1kck82YmVaZ2lIck5FQUoyS2tlNTJWVTlJeTN4aGhwNDhlTzZsbDUyb0NoeGVlQXcyMmJ1UW1jMFJ4Nzc1MlBKNkZuVlhra3RFRWFPaEtPQ0pCT3FEdmYxeGttM3NkZzRscHRwdUk4TEkyV3lDQ2l2SWJ5dHhyMkRZMXhva3ZOTFhVX0Q3amlRa1phWDFQaWt0a3RiMjBsZnF1Si1oakR6Y1g2Q1pZZGY0dHF4?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-08-21"
     }
   ]
 }
