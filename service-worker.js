@@ -4,6 +4,9 @@ const CORE_FILES = [
   '/', '/index.html', '/site.webmanifest', '/favicon.svg', '/site.css',
   '/calendar.html', '/current-affairs.html', '/poems.html', '/journal.html',
   '/news.html', '/privacy.html', '/404.html',
+  '/ai-detector-rit.html', '/banamarako-nagarikata.html', '/dear-prem.html',
+  '/chiya-timi-ra-ma.html', '/kathai-bara-hami-janata.html', '/manmohan.html',
+  '/nepaliharuko.html', '/timro-samjhanama.html',
   '/current-affairs/questions.json'
 ];
 
