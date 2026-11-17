@@ -1,7 +1,7 @@
 /* Trilochan Subedi — offline-first app shell */
 const CACHE_VERSION = 'trilochan-app-v1';
 const CORE_FILES = [
-  '/', '/index.html', '/site.webmanifest', '/favicon.svg', '/site.css',
+  '/', '/index.html', '/app.html', '/site.webmanifest', '/favicon.svg', '/bato-mero-logo.svg', '/site.css',
   '/calendar.html', '/current-affairs.html', '/poems.html', '/journal.html',
   '/news.html', '/privacy.html', '/404.html',
   '/ai-detector-rit.html', '/banamarako-nagarikata.html', '/dear-prem.html',
