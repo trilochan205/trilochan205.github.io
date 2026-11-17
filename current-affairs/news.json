@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-16T23:12:25.663355+00:00",
-  "count": 231,
+  "updated": "2026-11-17T00:07:43.418594+00:00",
+  "count": 197,
   "sources_total": 15,
-  "sources_ok": 11,
+  "sources_ok": 10,
   "failed_sources": [
+    {
+      "source": "कान्तिपुर दैनिक",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
     {
       "source": "Ujyaalo Online",
       "error": "HTTP Error 404: Not Found"
@@ -22,6 +26,69 @@
     }
   ],
   "items": [
+    {
+      "source": "Khabarhub",
+      "title": "एनपीएल : लोकेशले सर्वाधिक १८ छक्का हिर्काउँदा युवराजको २९ चाैका, कसले कति बाउन्ड्री हाने ?",
+      "url": "https://khabarhub.com/2026/17/1048315/",
+      "summary": "काठमाडौँ – नेपाल प्रिमियर लिग (एनपीएल) तेस्रो संस्करणको लिग चरणका खेल समाप्त हुँदा विराटनगर किङ्सका विस्फोटक ब्याटर लोकेश बम सर्वाधिक छक्का प्रहार गर्ने खेलाडी बनेका छन्। प्रतियोगिताबाट विराटनगर बाहिरिए पनि लोकेशले लिग चरणका ७ इनिङ्समा उत्कृष्ट प्रदर्शन गर्दै कुल २४२ रन जोड्ने क्रममा सर्वाधिक १८ छक्का प्रहार गरेका हुन्। चौका प्रहार गर्ने मामिलामा भने लोकेश […]",
+      "published": "2026-11-17T00:03:59+00:00"
+    },
+    {
+      "source": "Khabarhub",
+      "title": "आज २०८३ साल मङ्सिर १ गते मंगलबारको राशिफल",
+      "url": "https://khabarhub.com/2026/17/1048412/",
+      "summary": "काठमाडौँ – २०८३ साल मङ्सिर १ गते मंगलबार सन् २०२६ नोभेम्बर १७ तारिख। कार्तिक शुक्ल पक्षको अष्टमी तिथि। भौमा अष्टमी व्रत । नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको फलादेशः मेष […]",
+      "published": "2026-11-17T00:01:28+00:00"
+    },
+    {
+      "source": "Ratopati",
+      "title": "सामूहिक फूलखेतीले दिलाएको सफलता...",
+      "url": "https://www.ratopati.com/story/605674/the-success-of-collective-flower-farming",
+      "summary": "तनहुँ । तिहारमा सयपत्री फूलको माग बढेसँगै तनहुँको आँबुखैरेनीका किसानले रु ११ लाख बराबरको फूल बिक्री गरेका छन् । स्थानीयस्तरमै उत्पादन भएको सयपत्री फूलले बजार पाएपछि व्यावसायिक फूलखेतीमा आबद्ध किसान उत्साहित भएका छन् । आँबुखैरेनी गाउँपालिका–१",
+      "published": "2026-11-16T23:57:59+00:00"
+    },
+    {
+      "source": "गोरखापत्र दैनिक",
+      "title": "मासु बिक्री गर्न छाप अनिवार्य",
+      "url": "https://gorkhapatraonline.com/news/229295",
+      "summary": "काठमाडौँ, मङ्सिर १ गते । जारी भएको २८ वर्षपछि ‘पशु वधशाला तथा मासु जाँच ऐन, २०५५’ मङ्गलबार आजदेखि कार्यान्वयनमा आएको छ । पहिलो चरणमा काठमाडौँ, भक्तपुर र ललितपुरका २१ स्थानीय तहमा य...",
+      "published": "2026-11-16T23:56:02+00:00"
+    },
+    {
+      "source": "Ratopati",
+      "title": "मंगलबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "url": "https://www.ratopati.com/story/605673/this-is-the-foreign-exchange-rate-on-tuesday",
+      "summary": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ ९८ पैसा र बिक्रीदर १५० रुपैयाँ ५८ पैसा निर्धारण गरिएको छ",
+      "published": "2026-11-16T23:50:09+00:00"
+    },
+    {
+      "source": "Ratopati",
+      "title": "पर्यटक पर्खिरहेको डिल्पु कुण्ड",
+      "url": "https://www.ratopati.com/story/605672/dilpu-kund-waiting-for-tourists",
+      "summary": "रसुवा । हिमाली जिल्ला रसुवा प्राकृतिक सौन्दर्य, धार्मिक आस्था र जैविक विविधतामा धनी रहेको छ । यहाँको गोसाईंकुण्ड र पार्वतीकुण्डजस्ता गन्तव्य स्वदेश तथा विदेशमा परिचित रहे पनि कतिपय आकर्षक स्थल अझै प्रचारप्रसारको पर्खाइमा छन् । यस्तै",
+      "published": "2026-11-16T23:47:29+00:00"
+    },
+    {
+      "source": "Ratopati",
+      "title": "कान्ति ताल बेवारिसे, भत्कँदै संरचना",
+      "url": "https://www.ratopati.com/story/605671/kanti-lake-is-abandoned-its-structure-is-collapsing",
+      "summary": "बाँके । पर्यटकीय गन्तव्यका रूपमा विकास गर्ने उद्देश्यले करिब रु १० करोड खर्च गरेर निर्माण गरिएको नेपालगन्जको कान्ति ताल संरक्षण र व्यवस्थापनको अभावमा जीर्ण बन्दै गएको छ । उपमहानगरपालिकाले ठुलो लगानी गरेर निर्माण गरेका संरचना भत्किनुका",
+      "published": "2026-11-16T23:30:00+00:00"
+    },
+    {
+      "source": "Ratopati",
+      "title": "बहुउद्देश्यीय कभर्ड हल निर्माण गर्न देउसी, भैलो",
+      "url": "https://www.ratopati.com/story/605670/deusi-bhailo-to-construct-multi-purpose-covered-hall",
+      "summary": "खोटाङ । दिक्तेल रूपाकोट मझुवागढी नगरपालिका–१२ जालपास्थित जालपा माध्यमिक विद्यालयले ‘बहुउद्देश्यीय कभर्ड हल’ निर्माण गर्न देउसी, भैलो कार्यक्रम सञ्चालन गरिरहेको छ । नेपालीको दोस्रो ठुलो चाड तिहारको अवसर पारेर गत कात्तिक १९ गतेदेखि सुरु गरेको देउसी,",
+      "published": "2026-11-16T23:18:42+00:00"
+    },
+    {
+      "source": "Ratopati",
+      "title": "महिनाको पहिलो दिन कुन राशिका लागि शुभ ? हेर्नुहोस् आजको राशिफल",
+      "url": "https://www.ratopati.com/story/605669/which-zodiac-sign-is-auspicious-on-the-first-day-of-the-month-see-todays-horoscope",
+      "summary": "आजको पञ्चाङ्ग वि.सं.२०८३ साल मंसिर १ गते । मंगलबार । इस्वी सन् २०२६ नोभेम्बर १७ तारिख । नेपाल संवत् ११४७ । रौद्र संवत्सर । दक्षिणायन । हेमन्त ऋतु । श्रीशाके १९४८ । कार्तिक शुक्लपक्ष । तिथि–अष्टमी,",
+      "published": "2026-11-16T23:15:00+00:00"
+    },
     {
       "source": "Ratopati",
       "title": "दाङका किसान आलु रोप्न व्यस्त",
@@ -373,25 +440,11 @@
       "published": "2026-11-16T15:51:41+00:00"
     },
     {
-      "source": "Ratopati",
-      "title": "कोप-३१ को पहिलो साता : हिमाली मुद्दामा सकारात्मक उपलब्धि",
-      "url": "https://www.ratopati.com/story/605644/first-week-of-cop-31-positive-achievements-on-himalayan-issues",
-      "summary": "अन्ताल्या (टर्किए) । जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय सम्मेलन (कोप-३१) को पहिलो साता सम्पन्न हुँदा हिमाल र जलवायु परिवर्तनको मुद्दाले अन्तरराष्ट्रियस्तरमा प्राथमिकता पाएको छ । यद्यपि जलवायु वित्त, अनुकूलन, हानि तथा नोक्सानी र उत्सर्जन न्यूनीकरणका विषयमा",
-      "published": "2026-11-16T15:48:25+00:00"
-    },
-    {
       "source": "NepalNews",
       "title": "कांग्रेसले मङ्सिर १ देखि ‘हामी तयार छौँ’ अभियान चलाउने",
       "url": "https://nepalnews.com/2026/11/16/nepali-congress-to-launch-we-are-ready-campaign-from-mangsir-1/",
       "summary": "पोखरा। नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले आगामी मङ्सिर १ गतेदेखि ‘हामी तयार छौँ’ अभियान सुरु गर्ने जानकारी दिएका छन्। पोखरामा आयोजित एक कार्यक्रममा बोल्दै महामन्त्री पौडेलले पार्टीको आत्मसमीक्षा, स्पष्ट विचार, दस्तावेज र सशक्त प्रतिपक्षी भूमिका निर्वाह गर्ने उद्देश्यले उक्त अभियान सञ्चालन गर्न लागिएको बताए। पार्टीका कमीकमजोरी सुधार गर्दै सशक्त रूपमा प्रस्तुत हुन र सकारात्मक प्रतिपक्षको […]",
       "published": "2026-11-16T15:43:28+00:00"
-    },
-    {
-      "source": "Ratopati",
-      "title": "चिमखोला-सोवाङ धुरी जोड्ने पदमार्ग निर्माण",
-      "url": "https://www.ratopati.com/story/605643/construction-of-a-hiking-trail-connecting-chimkhola-sobang-axis",
-      "summary": "म्याग्दी। म्याग्दीको रघुगङ्गा गाउँपालिका-७ चिमखोलाबाट पर्यटकीयस्थल सोवाङधुरी जोड्ने पदमार्ग निर्माण भएको छ। रघुगङ्गा गाउँपालिकाको सहयोगमा सिसर्काबाट समुन्द्रि सतहदेखि तीन हजार ८४० मिटर उचाइमा रहेको सोवाङ धुरीको दृष्य अवलोकनस्थल जोड्ने पाँच किलोमिटर पदमार्ग निर्माण भएको हो। गाउँपालिकाले",
-      "published": "2026-11-16T15:38:53+00:00"
     },
     {
       "source": "NepalNews",
@@ -457,13 +510,6 @@
       "published": "2026-11-16T15:25:14+00:00"
     },
     {
-      "source": "Ratopati",
-      "title": "बेल्जियमका स्टार रोमेलु लुकाकुले लिए अन्तर्राष्ट्रिय फुटबलबाट संन्यास",
-      "url": "https://www.ratopati.com/story/605642/belgium-star-romelu-lukaku-retires-from-international-football",
-      "summary": "काठमाडाैँ। बेल्जियमका स्टार स्ट्राइकर रोमेलु लुकाकुले अन्तर्राष्ट्रिय फुटबलबाट संन्यास लिने घोषणा गरेका छन्। उनले बेल्जियमको राष्ट्रिय टोलीबाट खेल्दाका हरेक क्षण आफूले भरपूर आनन्द लिएको बताएका छन्। ३३ वर्षीय लुकाकुले सन् २०१० मा बेल्जियमको राष्ट्रिय टोलीबाट डेब्यु",
-      "published": "2026-11-16T15:22:39+00:00"
-    },
-    {
       "source": "Khabarhub",
       "title": "सार्वजनिक ऋणको ब्याज करिब एक खर्ब भुक्तान",
       "url": "https://khabarhub.com/2026/16/1048406/",
@@ -478,39 +524,11 @@
       "published": "2026-11-16T15:19:55+00:00"
     },
     {
-      "source": "Ratopati",
-      "title": "दुधको मूल्य वृद्धि गर्न किसानको माग",
-      "url": "https://www.ratopati.com/story/605641/farmers-demand-increase-in-milk-price",
-      "summary": "चितवन। किसानले दुधको मूल्य वृद्धि गर्न माग गरेका छन्। चितवन जिल्ला दुग्ध उत्पादक सहकारी सङ्घले बजारमा दानाको मूल्य वृद्धि भएसँगै दुधको मूल्य वृद्धि गर्न माग गरेका हुन्। साेमबार आयोजना गरिएको पत्रकार सम्मेलनमार्फत आयोजना गरी दुधको सङ्घका",
-      "published": "2026-11-16T15:19:44+00:00"
-    },
-    {
       "source": "NepalNews",
       "title": "नेपाल आयल निगमको घाटा १ अर्ब ६२ करोड, मूल्य यथावत",
       "url": "https://nepalnews.com/2026/11/16/nepal-oil-corporations-loss-is-1-62-billion-rupees-prices-remain-unchanged/",
       "summary": "काठमाडौ। नेपाल आयल निगम लिमिटेडले पेट्रोलियम पदार्थको खुद्रा बिक्री मूल्य यथावत राख्ने निर्णय गरेको छ। सोमबार प्रेस विज्ञप्ति जारी गर्दै निगमले हालको अवस्थामा १५ दिनमा १ अर्ब ६२ करोड ७७ लाख रुपैयाँ घाटा हुने देखिए पनि मूल्य नबढाउने जानकारी दिएको हो। इण्डियन आयल कर्पोरेशन (आईओसी) बाट आइतबार नयाँ खरिद मूल्य प्राप्त भए पनि चाडपर्व र […]",
       "published": "2026-11-16T15:17:51+00:00"
-    },
-    {
-      "source": "Ratopati",
-      "title": "राजनीतिमा मात्र होइन, बिचौलियाको पनि पुस्तान्तरण भयो : सुदन किराँती",
-      "url": "https://www.ratopati.com/story/605640/not-only-in-politics-but-also-in-middlemen-sudan-kiranti",
-      "summary": "इलाम । श्रम संस्कृति पार्टीका वरिष्ठ नेता सुदन किराँतीले मुलुकमा राजनीतिक सत्तामा मात्र नभई बिचौलियाहरूमा समेत पुस्तान्तरण भएको टिप्पणी गरेका छन् । पाँचथरको मिक्लाजुङ र इलामको माङ्सेबुङ गाउँपालिकाको संयुक्त आयोजनामा साेमबार सम्पन्न ‘हातेमालो कार्यक्रम’ लाई सम्बोधन",
-      "published": "2026-11-16T15:15:25+00:00"
-    },
-    {
-      "source": "Ratopati",
-      "title": "‘विराटनगरको मेयरमा उठ्न तीव्र दबाब छ, ईश्वरको इच्छा के छ मलाई थाहा छैन’",
-      "url": "https://www.ratopati.com/story/605639/there-is-intense-pressure-to-stand-for-mayor-of-biratnagar-i-dont-know-what-gods-will-is",
-      "summary": "विराटनगर । नेपाली कांग्रेसका केन्द्रीय सदस्य, कोशी प्रदेश सभाका सांसद तथा पूर्वमन्त्री भीम पराजुलीले छठ पर्वको अवसरमा निरन्तर २९औँ पटक दण्ड प्रणाम (दण्डवत प्रणाम) यात्रा पूरा गरेका छन् । १४ वर्षको उमेरदेखि सुरु गरेको यो कठिन",
-      "published": "2026-11-16T15:15:00+00:00"
-    },
-    {
-      "source": "गोरखापत्र दैनिक",
-      "title": "विमानस्थलबाट ६३५.९६ ग्राम सुनसहित चिनियाँ नागरिक पक्राउ",
-      "url": "https://gorkhapatraonline.com/news/229285",
-      "summary": "काठमाडौँ, कात्तिक ३० गते । त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलबाट ६३५ दशमलव ९६ ग्राम सुनजस्तो देखिने पहेँलो अर्धठोस पदार्थसहित एक जना चिनियाँ नागरिक पक्राउ परेका छन् । पक्राउ पर्नेम...",
-      "published": "2026-11-16T15:13:37+00:00"
     },
     {
       "source": "Setopati",
@@ -625,25 +643,11 @@
       "published": "2026-11-16T14:22:39+00:00"
     },
     {
-      "source": "Khabarhub",
-      "title": "पासो थापेर वन्यजन्तुको चोरीसिकार",
-      "url": "https://khabarhub.com/2026/16/1048386/",
-      "summary": "गण्डकी– अन्नपूर्ण संरक्षण क्षेत्रमा पासो थापेर वन्यजन्तु र पक्षीको अवैध चोरीसिकार हुने गरेको छ । अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले बर्सेनि ठूलो सङ्ख्यामा त्यस्ता पासो नियन्त्रणमा लिई हटाउने गरे पनि वन्यजन्तुको चोरीसिकार रोकिएको छैन । आयोजना कार्यालयको आँकडा अनुसार गत आव २०८२/८३ मा मात्र संरक्षण क्षेत्रभित्रबाट ३४३ पासो हटाइएको थियो । आव २०८१/८२ मा १७३ र […]",
-      "published": "2026-11-16T14:12:00+00:00"
-    },
-    {
       "source": "OnlineKhabar",
       "title": "रूसमा प्रचण्ड– ‘कुनै पनि देश अर्को देशको सम्मान गर्न नसक्ने गरी शक्तिशाली नबनोस्’",
       "url": "https://www.onlinekhabar.com/2026/11/2059044/prachanda-in-russia-no-country-should-become-so-powerful-that-it-cannot-respect-another-country",
       "summary": "३० कात्तिक, काठमाडौं । नेपाली कम्युनिस्ट पार्टीका संयोजक तथा पूर्वप्रधानमन्त्री पुष्पकमल दाहाल ‘प्रचण्ड’ले रसियाको मस्कोमा आयोजित ‘राष्ट्रहरूको स्वतन्त्रताका लागि’ अन्तर्राष्ट्रिय आन्दोलनको साधारण सभालाई सम्बोधन गरेका छन् । सत्तारूढ पार्टी ‘युनाइटेड रसिया’ द्वारा आयोजित यस कार्यक्रममा आयोजक दलका संयोजक V. Yakushev ले अवधारणा पत्र प्रस्तुत गरेका थिए भने रसियाली राष्ट्रपति भ्लादिमिर पुटिनले लिखित सम्बोधन पठाएका थिए […]",
       "published": "2026-11-16T13:56:03+00:00"
-    },
-    {
-      "source": "Khabarhub",
-      "title": "आजका समाचार : सूर्यलाई अर्घ्य दिएसँगै छठ सम्पन्न, रोजगारी-लगानी विस्तारमा जोड दिन अर्थमन्त्रीको आग्रह, महँगी नियन्त्रणमा सरकार असफल भएको कांग्रेसको दाबी र शेख हसिनाको गृहनगरमा तोडफोड",
-      "url": "https://khabarhub.com/2026/16/1048381/",
-      "summary": "सहयोग रकम बुझ्दै महावीरले भने- दैवी प्रकोप उद्धार कोषको पैसा दुरुपयोग हुँदैन विज्ञान, प्रविधि तथा नवप्रवर्तन मन्त्री महावीर पुनले प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा प्राप्त भएको रकमको दुरुपयोग नहुने स्पष्ट पारेका छन् । सोमबार मन्त्रालयमा नेपाली एसोसिएसन अफ ओरेगन, अमेरिकाले कोषमा गरेको सहयोग रकम बुझ्दै मन्त्री पुनले कोषको रकम पारदर्शी रुपमा नै खर्च हुने भन्दै […]",
-      "published": "2026-11-16T13:53:48+00:00"
     },
     {
       "source": "NepalNews",
@@ -1122,244 +1126,6 @@
       "published": "2026-11-10T07:57:00+00:00"
     },
     {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Login - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1scU9CS3J2WUhBYU5JcTk2dWo4RHo3Q0l1c0lRazVxWHVhUlowOVFBWklCWlZPb0s0c0FqbjI1bmE?oc=5",
-      "summary": "Login Ekantipur",
-      "published": "2026-11-04T21:34:57+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Helicopter Crash in Solu’s Feruche: One Foreigner Dead, One Injured - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGlvNVo0TTRHc2FQa1I0OTU5WWFDaHpyZXpfNG5Ub1NVZVBzclNBX0RFd0VDUmViWVpFSTVGX19Lc1R6aDZDdVFxam1URTJtcEJiOWl0emh1eEFxcEZBMTc2UEdrbFBic0JaODRmTmZKcExKb2IzbHZzc0YxcVdKUUNhV3ZVbFRxeTcxR2piSlJOM2FtWUJaS2lHV0VpQW8wd0NFcWFqdFh0NGt0clNTcWxZWm5kVjA?oc=5",
-      "summary": "Helicopter Crash in Solu’s Feruche: One Foreigner Dead, One Injured Ekantipur",
-      "published": "2026-11-03T07:36:13+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Floods Cause Damage Worth Rs 450 Million to Telecommunications Infrastructure - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGViNmh1RHRfT211VHZocVBvTkE2dG5zRjd4N2NwRUtYMUdMa0xkOGczUklXbVFGZUJMWVloRjF2Vm9ibWlvVTdVbzZwcExueWhGNmJNd3FDZFF2amRsdEtaUUdhQmVqVldxbUlVaVZlRGg4NGdXTGlyWDVPdS1IRjQzTkZqcTQ0NW1HNjl3UWFqaWwyeGUzN29UZF9nQy1tTTNsNW5vbnd1ekZDdHdMSkdOd3Y5RDg2Qzh1UDU3ZWRBNU8wNHlLMGZaV1AxQQ?oc=5",
-      "summary": "Floods Cause Damage Worth Rs 450 Million to Telecommunications Infrastructure Ekantipur",
-      "published": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Ganesh Nepali, who attempted self-immolation, passes away - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTc0YmFrZkMxbW1pMDFBRHBJeHpJY1pzVC1xSHFaaTExT3pKbzg1dXFDSmZRY25rRHRhUThUNm1GaUR3V0p6dkl3aWNIeGFaMllvZUZJYjhheHRuLUI0d0FQbExKYm5tbEU1c0stUi1abHc3akMxUno5X0xFWUNOM3JHSlVrU25WZWdBWDVNeU5QY2MycnpmbmJCR0N4bDA0R1FLdjlMQm1rUVlzMDhuOWd0SGxENmZVVlI2aVU3RUFTalNrYXVfZWtmM09SbWc?oc=5",
-      "summary": "Ganesh Nepali, who attempted self-immolation, passes away Ekantipur",
-      "published": "2026-07-10T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Why did Ganesh attempt self-immolation by pouring petrol? - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0lZTE5PZ0FWWllmSm1rYk4wbFNOQWNUdXJlaDZtSUpoa3FYdVpqVWVZTkpEQlc1azh2dkxzUTdldndzaVpiTjZpT1RsTGticjhzY2dNSHQxNFZreHZYWWU0dmVwcl9PakRXUlFpWTJ5VkdQMnVYdW1TMjJ2UVZCYnlzQ09EUWwtampjdkVsd0pSR2hDWHRfdUhISzZMM2J4YS1PcEY4MEh5ZU9WdGVNYkF6bHA5cmZhMWdV?oc=5",
-      "summary": "Why did Ganesh attempt self-immolation by pouring petrol? Ekantipur",
-      "published": "2026-07-09T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Tourism Department to investigate disappearance of guide Dawa Sherpa on Mount Everest - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGFKZ09jNk5ncnV5M2Z3eldoVGRzMUVueTdGYlVXLXRyd3JlMi1jUTJwZWRoU2RldjRBNGlYVFZSdnVEcE9VWTN3elVOSkVpVncxR2tSQmVWWXJsNE8xc3NFSWY0c0F0cUZ0WjFLUUFPQW9wQVJpekpLdVk4WlJud015QndLbUt6b2dpUzZURk1rRTRiRFJRLVF5bVYzUmxvcnFOTDFlNFhIVzdCUng5QmZUNWpwdmk2S0ZBQk9pdHJVZDdlc0hKLUVMeUFZTkZ6V0VB?oc=5",
-      "summary": "Tourism Department to investigate disappearance of guide Dawa Sherpa on Mount Everest Ekantipur",
-      "published": "2026-06-04T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Tshiring Pasang Sherpa is the youngest climber from Nepal to climb Mount Everest. - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1F4emZLY3E0RXNwWWwwTXljWE1TWVBhbXE1bkNRMUhEbEZxdFRDYmlIOEx3NW9iMEJKOG5aU3J6VDQwTVh1OWNpVUd1TzJPRmozSEE0NmFIV0EwWnFudnVia1BwZC1xWmtCTmpmZU9XV1N5YnY2cTZoSjBacU1oZTdOdGNjdGJXT0dGUllnZ3BMRWNnMHBER0ZzbDJQVlRnOVFBMm1kRmZQWHNpVzFRdnVQNTkyZFpaT2VXSlVMWUhhQVZMTGhBZFVLVXg?oc=5",
-      "summary": "Tshiring Pasang Sherpa is the youngest climber from Nepal to climb Mount Everest. Ekantipur",
-      "published": "2026-05-28T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "NewsSmart — Nepal News Chatbot that tries to have a personality - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5lSUlqbkV6NTB3dTJIVWZxS09Kdmh6NkpQWWVQQWxFbVdKSURxR2dTM3BXekNTQ09zbVpzQzJkbU8?oc=5",
-      "summary": "NewsSmart — Nepal News Chatbot that tries to have a personality Ekantipur",
-      "published": "2026-05-12T09:22:58+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Home Minister Gurung's assets: 260 ropanis of land, 89 tolas of gold and 6 kilos of silver. - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMEZIbk1qY0d5NFh4S094bmpYT1g0QXU5WFllYk5BaFhJVXY3bnoyN21USlA5eEgzb2E4UnlaQ2hQNXJqVEZKQ1dwcVNWdnZzWThHS2JpZ1RsOWZ3dHAzRXBqQkZhejV3ejNzV3ZfWU1OSWJoY3pTMzJrQjZkSHRhX1VZUVlKQ01tcExDYUVFakstdFI5dk40czVkWjZnelhNSjJveTlrRVdRVkhqYXRET2trODRqWlE3d0VFMHBxbmprTDVYMEhpeERfV1FPVUdiODVmM21lNjdEdHc?oc=5",
-      "summary": "Home Minister Gurung's assets: 260 ropanis of land, 89 tolas of gold and 6 kilos of silver. Ekantipur",
-      "published": "2026-04-12T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Digital delivery among government's 100-point priorities, cybersecurity overlooked - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vRkFRUk4zaE9qWFJjMmtQWGZrNXRRV0tqelVTTWJpZU1ZdnFRTy1rRjFESjFGSTVSVW1YNkhfdk00SkpBSXRkbm5lUTFQM0p4MmxGalc1YVpJWjJ2bC1NQXNoRTZmaDgzY1ZKekd3cU4?oc=5",
-      "summary": "Digital delivery among government's 100-point priorities, cybersecurity overlooked Ekantipur",
-      "published": "2026-03-29T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "PR Vote Results & Parliament Seat Distribution Chart - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IclpOYWEzVDJWY0xxYU1FdTlkazZtekdKYlJ4WGU1NFdDTEtIbFlweENFTmhTNkloOW1uLW1ZY3F0QkNXMnJNZ3dOVVdqbTVpNXg4bg?oc=5",
-      "summary": "PR Vote Results & Parliament Seat Distribution Chart Ekantipur",
-      "published": "2026-03-09T16:37:16+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "MPs being elected to the House of Representatives, no building to hold meetings - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFBHYlhCa3Z4RzNNeWVlNW9ldHRNYnl0R2p1T0dZel8tTU5VdnBMYk5CejdpSWxfeW9TelhTWkJIQ3kxN0xYdkV6cmxXa1k1UmpWZHp2RDhIZ0MzeUF3dFVzQnI0SGpKM0FvVVM3VXRod2hOdnM4dUJVd183RTFvMWdkTnk1Z2VZczQtWERQQ2g4MmgzM2RldDVEckJWc3Yzb3dCMUFxTDVLeUhFOVRUZFJCb1ljS25zck9MNTFNVHN4OWs4V2Q5N0tEQmUyZWc?oc=5",
-      "summary": "MPs being elected to the House of Representatives, no building to hold meetings Ekantipur",
-      "published": "2026-03-08T08:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Vote counting in the final phase, what are the results? - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DWktxbUxRTlZJWjVMSERvUFRDdXZPWFVudWJ4YjA4d01JYTdVSndZRHpyN1YtMEt1T0NsZDFMTkVvR2Y2NW94bXdjVlpFbHJHdGVtUndWNUpIdlpFbFNubzEtWkpqdmlwVkNRRTJDb0FxWlNNM3VEVA?oc=5",
-      "summary": "Vote counting in the final phase, what are the results? Ekantipur",
-      "published": "2026-03-05T08:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Electric vehicle imports decreased compared to last year - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjBnSlB5RGV4M0FGYjJXXzB4cl85UG1ndkN3Z1BnZ2xxUnNOaEZackVQa3ZaVUxVbW5sM0FlZ0x6dkdubXFoQ1otdTZyeDdueDFESXh3eHRVMWFKQm83YS1jQTNBLVR0SmdjbG9ldUZrbXRkNUlPVGFIdklsbWYtS1NFdVVUR01nNk9CT2ZfTTR1ckRVWUJFX3ZsTTVacDRWU2dvSmNLb1JJZ29YTmp2SDN3?oc=5",
-      "summary": "Electric vehicle imports decreased compared to last year Ekantipur",
-      "published": "2026-03-03T08:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Sunsari-4 : Province 1 - Nepal Election Latest Updates and Result for Federal Parliament - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XUTN2cnFGY2VJcjJWVUo2ZkJJN09ROEZNWnZCZk5jUGZpX1JKNmliYTJ2VVVmYmtGcHltbmc5NWxleDJnT2VpazZ3V0pxVVhSRGZXc3lhQ19pc2VJdVI3Uk9Bay1XQ25ZTEhvMHlEdnVxRUFBeVl0cHZaU2U?oc=5",
-      "summary": "Sunsari-4 : Province 1 - Nepal Election Latest Updates and Result for Federal Parliament Ekantipur",
-      "published": "2026-03-01T19:36:27+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Balendra Shah - Nepal Election 2082 - Latest Election Updates And Results for Federal Parliament - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVFFkVEZ1U1kzZVA2YjY2aDdTVDhQUGhEZXJBM29lcnpHc0tEbUY5OFpsX2R0d3pSRHBCUUFYV2N1NFlQR3JYQkJMXzRwcktXQWp6VQ?oc=5",
-      "summary": "Balendra Shah - Nepal Election 2082 - Latest Election Updates And Results for Federal Parliament Ekantipur",
-      "published": "2026-02-20T13:02:09+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Election - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MTDJaY1pON0dUM3pqaTBnclFOaWM1ZWhhYXdDUi1UX0FfWHRvTlhzOWhSYTVORHRVVFYyRFRic2NSdlhuWXJJWmVWNkhMLTNwa1lfS1RGZ2FiRS1JVDRzbkFR?oc=5",
-      "summary": "Election Ekantipur",
-      "published": "2026-02-18T09:42:39+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Kasto छ ? - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBUaXZhY2t0cGJlR3RZb29rT2czMTE2cGQta3N3SEdYNl9Ka1dpazQwMTdKRGc0T3hES0hYTDRDVlc?oc=5",
-      "summary": "Kasto छ ? Ekantipur",
-      "published": "2026-01-27T11:09:41+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Terms of Service - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2czJQbHBqNzJUYWtqOWRJdks2YTUxMGRyNVh1YV9xWGVtTmhJakgxaG9kdk9yWFgzS0M2QlVFd3BSdkZTckIwbzdkaWo?oc=5",
-      "summary": "Terms of Service Ekantipur",
-      "published": "2025-12-23T08:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "E-voting is possible but challenging for Nepalis living abroad - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXp6VFp1VUlodTRxcHhRRm4yWFR1TDNrRm1GOWFBVFQwV2dkcERSUzlnRHBNVUVDb1VUZVdRalMxelZqazRvMG1pb2paYTZtTzdETW1DSnFRVHZzZy1UM1kzSWE5Y3U0WVBsLUxYRnZyeUZtNkFGVko5ZHp4ektZd3RIWUpxdjExRDFid3MyM3hVamFrY1NpNmxtblppekk1OWxaRlE1Y0k0dWdacVQzZWJKTHlxVjZKMHc?oc=5",
-      "summary": "E-voting is possible but challenging for Nepalis living abroad Ekantipur",
-      "published": "2025-11-09T08:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Sudan Scam: Immunity to political, administrative officials - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaU5hZzhxVGxUekZrTW0xcEFWZXY4MHhReUZvamtzcnhZOE5TQjloYTI1ei1OOEg5WFhNb3NFUUVZWjdmSUlPWF9qdTZ5SGxCelFWWGh0UjMtTFBQM0J2UlNKejJHdGRCTHhxOTlhckxIZ3FhdGgydkYzZFFFMDlJVmZOVlVJTjNIQVQzcklPdGVlLTlUZ1BzMFgtWlYtWk5VbUI2UTZJYm85eDdTR2VwVA?oc=5",
-      "summary": "Sudan Scam: Immunity to political, administrative officials Ekantipur",
-      "published": "2025-10-11T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "[LIVE] What is happening in the movement? What is happening where? - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmVweXBWXzFlTll4bkxyTG9TcS0yV3pKclZjMEdnLXNCd1NpVjNpQXVqd2JmZDQ5Wl9pMGtobGNoM3QxQnRtZ2ZSZ21UU0FSWU96QXk1X19ZeGxzSVo0NEJ1RmRFMG1qVkpTNWVWU0VINkdQRmJUbVg1aEs1MnQyYWVBeHlrcFNSS0RaR09jUkFKTEZjdExtbkVNZ2FJVTBBN0VLaW9QallGenppeXk2ZmstMjktdF9BTDE2cjVBZ28?oc=5",
-      "summary": "[LIVE] What is happening in the movement? What is happening where? Ekantipur",
-      "published": "2025-09-08T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "जेन-जीको प्रदर्शनमा प्रहरी दमन : के गर्दै छ मानव अधिकार आयोग ? - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQdmpvTGZRUkRTVGd0Y2xZRjBZcVhzLUdxemJPMWtfX0tBUWY2ZC1Sc2VhNDc1QnRwbi1ORnNyNW1fMGxvWGtsd0ZpeUFCZVFORWNJdzlYUURQRHZTVnQzNnM2djVvVWtySFhtMF96dFQyTWJOWUxvM1lLM0RicUhrZkRweGNKbDVMNlZzcGJxbTM3S0c2TUZmMF9QQXBXLTVkclRlUFgwQ2JsaXpreXJJSU5rQ3NoTkVKOVlHWjVhczBGSHVEQnZzX1JSNTJvOHlCcXY0UkNNbFJSMXpvbU8zWjdKR2VKd01mZTRFeVVCNmctY2w1TmFkbXpacFVNU3lpSkhrZ2dRVExNLTFJTlJJRXJhcDdicDloTjdVcUZFcVM2SUtXbU0yb3ctWUs2dF9YLUQtcnhVRQ?oc=5",
-      "summary": "जेन-जीको प्रदर्शनमा प्रहरी दमन : के गर्दै छ मानव अधिकार आयोग ? Ekantipur",
-      "published": "2025-09-08T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Supreme Court's interpretation of step-son - ”equal right to property of any source” - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWlp1S09xQ1R5SDFMQ1ZoQkJKM3RmVDNNQ21xSmJaeFhjbkVRdTE3TjU3UlZoRjBnT2Q3ZDhBelFZY3ZUVWd0dTdBWlpXRXdDWVhmZHNFcjZZem11UDAzZG9EelY3SlJFd0NUSnVfZ1N2NnE1OV9ab3NtTFg2REI1TUJacXk5cWllcEU3RzBGTGxVNk9hN1hkNTNsQXBRTnNuUS1oTGdYVFlRLUg3eXU2MW5TWi1McmZabkUxQXFzVS1US2FfSjNQb1R4SQ?oc=5",
-      "summary": "Supreme Court's interpretation of step-son - ”equal right to property of any source” Ekantipur",
-      "published": "2025-08-22T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Demonstration demanding to stop construction of Upper Tamor hydropower project - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3M4UU5DMlBLVlVDRTI5V1RKbHlCcmtHdExxVThHZmhjOUY2YmxkT3dNaVR2OWItWm5Cd1NtNy05aURjRmZpc2ZfOTZRcWFWZmp1MTkzYVdtQjU0WEdUTXJTbnk2VzE0dTFNLTlzQlkwbmdHc2xHYXV3RkMyVThiWlM2TGk2d0RCZUt4NG1tRzN4NldqZVltbTY5TnMybWN5cUtCNkFHbVpuNmhLaUtPRnRmcVRpUXJybVp4bDNGLWRhWWRuc2NlMnVQbjVqb3Bv?oc=5",
-      "summary": "Demonstration demanding to stop construction of Upper Tamor hydropower project Ekantipur",
-      "published": "2025-07-18T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Rinku Sada case: Panchayati ward member sent to jail, 1.5 lakh bail demanded from 6 people - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX18tUDcwUkVvSV9QemtZUVphSGhxUEVGLTVmYkh4a1lXWVBTWm0xRS14OG1NSUY4NGppRjBJMHplTWYxWkdSVDRaRWt6ckl4QVhLaGZpa3c4UEdkaEFsT29sN0VYdUhMRU0ySks0ZHRKWkFhZlB0UTFaRFRTSWlzblVfWDNxMm1fUmhmR2ZTWE1TejZiZE9BVzJNQWlCa0o5TXBZaVFQWTVuWnRNRzVlZVFKT1dIOThNTWphdnFkREgzcGF1cnJwSEFKWGMtNEU4Ri14X0xMZzBIeWM?oc=5",
-      "summary": "Rinku Sada case: Panchayati ward member sent to jail, 1.5 lakh bail demanded from 6 people Ekantipur",
-      "published": "2025-03-26T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Torture of Nepali workers in Korea - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWE5oeFdtekZsM0hKTThwUWxKemZhTmctSi0zV2xsQTZKU29LejMtb2xjazN0YlhEcERvdW5NTGRMeDE3MFk3S2VHVl95T0NuNmp2Z1VRZU9TNXlUTVVJWXdzUWpzWkFqcktaclRyajFzeHdBOXVVR1lEVzVEcERHaUNhRVlEY0xhREZwZG5fOA?oc=5",
-      "summary": "Torture of Nepali workers in Korea Ekantipur",
-      "published": "2025-02-26T08:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "2700 doctors registered in one year, 2300 migrated abroad - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlhKTlBaZUhoVnRyN2JjR19OUmNHek5uY0F5NWNEMmlCbEpwZXdYdzl2QUM3STQ5dHdHRTNQak5oZ2ZWZE9jWnJDU2szcGlzRU5vTWR6bnVkY2szUUZieXhMYk10UUI2ZGFhVlJNQ1hheTZ2b2ktTG9NTllIZnJWck5NUDlXVGxQdXJ2RjVCTmVRTTA5YW1Ed0MzQmlNcHZ3QW51UnZuUFNWZGlq?oc=5",
-      "summary": "2700 doctors registered in one year, 2300 migrated abroad Ekantipur",
-      "published": "2025-01-15T08:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Nepal Premier League 2026 Schedule, Results & Points Table - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5fSzJwcnZZNDgtRTU2MkI4UDRMdFZFOFg0RVNJSkpjdkpGMUltVFBOZHMyMVg5LS1xOENRTWpB?oc=5",
-      "summary": "Nepal Premier League 2026 Schedule, Results & Points Table Ekantipur",
-      "published": "2024-12-09T08:19:59+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "No national identity card is required to receive old age allowance and pension - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcG5kakhiWGsxOFU4QTVNWFVHSjNhcVZJU0lGS1VSSjBSZFhVaXYwWF9kSG15S3RpLXNwbk1PTnZzT0lOZVZVb1Zfb2t2TlNlVjlvT19qS1NhLWFHNWR3a0hkUUs4dmh6em1MckJKbHNNSGpmaXUtUlN4b1BFNjdkQnRINGZ5MFFmeGVXcTJuUGtTUm5oWExJODRCMGs3Mm5hNE5Vemt1SXYtRHBQRzhKTVZKcDZrcl8ySFZTU0xhdVJoM2FBOVE?oc=5",
-      "summary": "No national identity card is required to receive old age allowance and pension Ekantipur",
-      "published": "2024-07-12T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "मेड इन नेपाल: Yarsa's Ludo Entertaining 20 Crores - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRXplUF8wZWxJT0JSQ3V1QVpQZnVOaUxRUE5Sakd4UnlHS2l0UC13Z0NXa2ZsdmhQNlB5VjVPQlk0elZwT0pPcG5PTTVmOHpKSF8zNDlZb2Y1SVZuc21qMTYxNGVzTlZRd1F5M0NMQkhFMExveldiVG1hMkNLVGdaYndwZ2NvVnlyTVAxN2d4bzdTcGs?oc=5",
-      "summary": "मेड इन नेपाल: Yarsa's Ludo Entertaining 20 Crores Ekantipur",
-      "published": "2024-06-02T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Privacy Policy - कान्तिपुर - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZQ3ZCdkhzLVVvRlNnWjE5UmtWYmtwa3NoSVpfbVpFZ0pUTjRSSS1uNl9vSlY0aHBmRV9XeTBiSzNWdjd6MTBJbkdBbw?oc=5",
-      "summary": "Privacy Policy - कान्तिपुर Ekantipur",
-      "published": "2023-05-05T07:00:00+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Banke - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iem9QMTdXdzNIM2ZNQmc2S191MnZNdW11SGRlYmRVcTl2OUNxX0J5RHlFMGlSZzJCODZnb0tXVDNneU00c3RfNnhEaHJ0Q1Q3dHlWRVBNc29KZThJZ0tmcU45TG9pc2hteFVZOTUtSDc4Y1VYTG0xWWNBazk?oc=5",
-      "summary": "Banke Ekantipur",
-      "published": "2022-11-22T02:41:18+00:00"
-    },
-    {
-      "source": "कान्तिपुर दैनिक",
-      "title": "Bagmati- Nepal Election Latest Updates and Federal Parliament - Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80dEpYdFU0SnNJQWV5U3haXy1tZHRER3J2ajdFbzRTVjMyNUNTUWxHNkZ0YmdJSFU2WlBHTVVEUHg3WUVRaHB1T2ZPbXNqZGhIckE?oc=5",
-      "summary": "Bagmati- Nepal Election Latest Updates and Federal Parliament Ekantipur",
-      "published": "2022-11-21T01:15:13+00:00"
-    },
-    {
       "source": "The Kathmandu Post",
       "title": "Saudi employers face Rs4m fines for allowing workers to take outside jobs",
       "url": "https://kathmandupost.com/national/2026/11/16/saudi-employers-face-rs4m-fines-for-allowing-workers-to-take-outside-jobs",
@@ -1560,6 +1326,83 @@
       "title": "Why drying Madhesh is a disaster in the making",
       "url": "https://kathmandupost.com/columns/2026/11/15/why-drying-madhesh-is-a-disaster-in-the-making",
       "summary": "Climate change is triggering multiple disasters simultaneously across the country, yet some remain far less visible than others.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Kathmandu to face Chitwan in NPL Eliminator after loss to Pokhara",
+      "url": "https://kathmandupost.com/sports/2026/11/15/kathmandu-to-face-chitwan-in-npl-eliminator-after-loss-to-pokhara",
+      "summary": "Kathmandu finish third with a 55-run defeat, while Kushal Bhurtel misses a century by one run as Pokhara post a record 224.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
+      "url": "https://kathmandupost.com/science-technology/2026/11/15/spacex-starship-returns-to-landing-pad-from-orbit-acing-test-for-reusable-rockets",
+      "summary": "The spacecraft completed a 22-hour orbital flight before being caught by mechanical arms at its Texas launch tower, marking a major step towards SpaceX’s goal of developing fully reusable rockets.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Three dead, two injured in Mugu jeep crash",
+      "url": "https://kathmandupost.com/karnali-province/2026/11/15/three-dead-two-injured-in-mugu-jeep-crash",
+      "summary": "The jeep plunged about 600 metres off the road in Chhayanath Rara Municipality while travelling from Surkhet to Rara.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Nepal sets up accreditation centre to ease testing and certification",
+      "url": "https://kathmandupost.com/money/2026/11/15/nepal-sets-up-accreditation-centre-to-ease-testing-and-certification",
+      "summary": "The agency aims to reduce testing costs, strengthen quality assurance and help Nepali products gain international recognition, but exporters say it could take up to three years to secure global accreditation.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Bhurtel falls one run short as Pokhara post record NPL total",
+      "url": "https://kathmandupost.com/cricket/2026/11/15/bhurtel-falls-one-run-short-as-pokhara-post-record-npl-total",
+      "summary": "Kushal Bhurtel hits 99 off 51 balls as Pokhara Avengers pile up 224 for three against Kathmandu Gorkhas, the highest total in the competition’s history.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Changing farming practices threaten food and habitats of migratory birds",
+      "url": "https://kathmandupost.com/national/2026/11/15/changing-farming-practices-threaten-food-and-habitats-of-migratory-birds",
+      "summary": "The expansion of winter crops, shrinking wetlands, and rising use of pesticide are putting the survival of thousands of birds arriving in Nepal from Tibet, Mongolia, and Siberia at risk.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "India approves weekly train service linking Janakpur and Ayodhya",
+      "url": "https://kathmandupost.com/national/2026/11/15/india-approves-weekly-train-service-linking-janakpur-and-ayodhya",
+      "summary": "The 604-km cross-border service will connect two major Ramayana pilgrimage destinations, with stops in Bihar and Uttar Pradesh. The launch date and fares are yet to be announced.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Karnali sign off with consolation win as Chitwan finish fourth",
+      "url": "https://kathmandupost.com/cricket/2026/11/15/karnali-sign-off-with-consolation-win-as-chitwan-finish-fourth",
+      "summary": "The Rhinos, already through to the playoffs, end the league stage on seven points after falling 24 runs short of a 154-run target.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Tinkar villagers face seven-hour walk for medical care",
+      "url": "https://kathmandupost.com/sudurpaschim-province/2026/11/15/tinkar-villagers-face-seven-hour-walk-for-medical-care",
+      "summary": "With no health post in the border village, residents must take the sick across the border into India or walk seven hours to the nearest health facility. A community health centre built four years ago remains unused.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "url": "https://kathmandupost.com/world/2026/11/15/top-scorer-on-south-korean-tax-exam-confesses-to-cheating-with-ai",
+      "summary": "Han says he used a microcamera to photograph exam questions and an AI tool to find the answers, raising fresh concerns about cheating ahead of Thursday’s national college entrance exam.",
+      "published": ""
+    },
+    {
+      "source": "The Kathmandu Post",
+      "title": "Bhattarai urges Prime Minister Shah to put five issues on agenda for India visit",
+      "url": "https://kathmandupost.com/national/2026/11/15/bhattarai-urges-prime-minister-shah-to-put-five-issues-on-agenda-for-india-visit",
+      "summary": "In an interview with Kantipur, the former prime minister says Nepal should press India on the border dispute, trade deficit, air routes and hydropower, while seeking trilateral cooperation on the Himalayan climate crisis.",
       "published": ""
     }
   ]
