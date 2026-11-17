@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T18:22:52.046936+00:00",
-  "total": 1871,
-  "generated_from_news": 1818,
+  "updated": "2026-11-17T19:32:13.033147+00:00",
+  "total": 1876,
+  "generated_from_news": 1823,
   "questions": [
     {
       "id": "constitution-001",
@@ -30770,24 +30770,6 @@
       "news_date": "2026-11-17"
     },
     {
-      "id": "news-topic-10ddf28826598b2789",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — १२ बजे १२ समाचार : बजेटको चार महिना, रातो–निलो सिलिन्डर बनाउने नीतिबाट पछि हट्यो निगम",
-      "options": [
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "अर्थतन्त्र तथा बजेट",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605904/12-oclock-12-news-four-months-into-the-budget-the-corporation-backtracked-on-the-policy-of-making-red-blue-cylinders",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-10ddf28826598b2789",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -30939,6 +30921,144 @@
       "source": "https://gorkhapatraonline.com/news/229414",
       "news_source": "गोरखापत्र दैनिक",
       "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-cf704a7e05c55a3240",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘The Cliff’ Group to expand investment by Rs 4.25 billion, build the world’s tallest bungee jump in Kathmandu - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०९-१५",
+        "ई.सं. २०२६-०९-१६",
+        "ई.सं. २०२६-०९-१७",
+        "ई.सं. २०२६-०९-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०९-१७ हो।",
+      "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN2swSFZTcjJ6Zzl0R3ozcjZfeUd4UFdlc2VIa0FPdmpldWN6SWVhNHFOeVUyYlVIZWV2TWZEdlc0SWVmV3dxVXhsWkVIOUpDbDk0S25kQUdzZ2ZidWpVbUJNbVZtMjV2d3NyQlFoQW4ybk1ncVhmVEpxNzNsNGxsUHdTUnFVMlQ0ck9pdUJJTTlCTU11a3RuRmtUbGJtOHZDUEZKWTU3UndmZWZ5Qzc5dGY2Y0tmc3c1cER0MHBXNG5BM21iRUd4NWtlMU5DbnpvT1dIM3VuMmowT3hBN19iLUhGejBmWU0?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-09-17"
+    },
+    {
+      "id": "news-source-cf704a7e05c55a3240",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘The Cliff’ Group to expand investment by Rs 4.25 billion, build the world’s tallest bungee jump in Kathmandu - Ekantipur",
+      "options": [
+        "Himal Press",
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक",
+        "Khabarhub"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN2swSFZTcjJ6Zzl0R3ozcjZfeUd4UFdlc2VIa0FPdmpldWN6SWVhNHFOeVUyYlVIZWV2TWZEdlc0SWVmV3dxVXhsWkVIOUpDbDk0S25kQUdzZ2ZidWpVbUJNbVZtMjV2d3NyQlFoQW4ybk1ncVhmVEpxNzNsNGxsUHdTUnFVMlQ0ck9pdUJJTTlCTU11a3RuRmtUbGJtOHZDUEZKWTU3UndmZWZ5Qzc5dGY2Y0tmc3c1cER0MHBXNG5BM21iRUd4NWtlMU5DbnpvT1dIM3VuMmowT3hBN19iLUhGejBmWU0?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-09-17"
+    },
+    {
+      "id": "news-date-590e764a29c8f701c0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — फोहर बिक्रीबाट व्यास नगरपालिकालाई नौ लाख आम्दानी",
+      "options": [
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://www.ratopati.com/story/605906/byas-municipality-earns-rs-9-lakh-from-garbage-sale",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-590e764a29c8f701c0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — फोहर बिक्रीबाट व्यास नगरपालिकालाई नौ लाख आम्दानी",
+      "options": [
+        "Himalkhabar",
+        "Nepal Samaya",
+        "Ratopati",
+        "Setopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605906/byas-municipality-earns-rs-9-lakh-from-garbage-sale",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-160d95b673d45d20bb",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://www.ratopati.com/story/605905/postal-road-is-changing-the-face-of-a-remote-village",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-topic-160d95b673d45d20bb",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "options": [
+        "पूर्वाधार तथा यातायात",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605905/postal-road-is-changing-the-face-of-a-remote-village",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-160d95b673d45d20bb",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "options": [
+        "Nepal Samaya",
+        "Ratopati",
+        "The Kathmandu Post",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605905/postal-road-is-changing-the-face-of-a-remote-village",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-topic-10ddf28826598b2789",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — १२ बजे १२ समाचार : बजेटको चार महिना, रातो–निलो सिलिन्डर बनाउने नीतिबाट पछि हट्यो निगम",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "अर्थतन्त्र तथा बजेट",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605904/12-oclock-12-news-four-months-into-the-budget-the-corporation-backtracked-on-the-policy-of-making-red-blue-cylinders",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17",
+      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-topic-e212354b4762751460",
@@ -31713,40 +31833,6 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-date-cf704a7e05c55a3240",
-      "topic": "समाचारको मिति",
-      "level": "समसामयिक",
-      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘The Cliff’ Group to expand investment by Rs 4.25 billion, build the world’s tallest bungee jump in Kathmandu - Ekantipur",
-      "options": [
-        "ई.सं. २०२६-०९-१५",
-        "ई.सं. २०२६-०९-१६",
-        "ई.सं. २०२६-०९-१७",
-        "ई.सं. २०२६-०९-१८"
-      ],
-      "answer": 2,
-      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०९-१७ हो।",
-      "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN2swSFZTcjJ6Zzl0R3ozcjZfeUd4UFdlc2VIa0FPdmpldWN6SWVhNHFOeVUyYlVIZWV2TWZEdlc0SWVmV3dxVXhsWkVIOUpDbDk0S25kQUdzZ2ZidWpVbUJNbVZtMjV2d3NyQlFoQW4ybk1ncVhmVEpxNzNsNGxsUHdTUnFVMlQ0ck9pdUJJTTlCTU11a3RuRmtUbGJtOHZDUEZKWTU3UndmZWZ5Qzc5dGY2Y0tmc3c1cER0MHBXNG5BM21iRUd4NWtlMU5DbnpvT1dIM3VuMmowT3hBN19iLUhGejBmWU0?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2026-09-17"
-    },
-    {
-      "id": "news-source-cf704a7e05c55a3240",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘The Cliff’ Group to expand investment by Rs 4.25 billion, build the world’s tallest bungee jump in Kathmandu - Ekantipur",
-      "options": [
-        "Himal Press",
-        "OnlineKhabar",
-        "कान्तिपुर दैनिक",
-        "Khabarhub"
-      ],
-      "answer": 2,
-      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
-      "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN2swSFZTcjJ6Zzl0R3ozcjZfeUd4UFdlc2VIa0FPdmpldWN6SWVhNHFOeVUyYlVIZWV2TWZEdlc0SWVmV3dxVXhsWkVIOUpDbDk0S25kQUdzZ2ZidWpVbUJNbVZtMjV2d3NyQlFoQW4ybk1ncVhmVEpxNzNsNGxsUHdTUnFVMlQ0ck9pdUJJTTlCTU11a3RuRmtUbGJtOHZDUEZKWTU3UndmZWZ5Qzc5dGY2Y0tmc3c1cER0MHBXNG5BM21iRUd4NWtlMU5DbnpvT1dIM3VuMmowT3hBN19iLUhGejBmWU0?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2026-09-17"
     }
   ]
 }
