@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T17:29:18.483485+00:00",
-  "total": 1859,
-  "generated_from_news": 1806,
+  "updated": "2026-11-17T18:22:52.046936+00:00",
+  "total": 1871,
+  "generated_from_news": 1818,
   "questions": [
     {
       "id": "constitution-001",
@@ -30430,24 +30430,6 @@
       "news_date": "2026-11-17"
     },
     {
-      "id": "news-topic-e212354b4762751460",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — युएईमा अलपत्र नेपालीलाई दुई दिनभित्र स्वदेश फर्काइने गृहमन्त्रीको प्रतिबद्धता",
-      "options": [
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalnews.com/2026/11/17/home-minister-commits-to-repatriating-nepalis-stranded-in-uae-within-two-days/",
-      "news_source": "NepalNews",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-e212354b4762751460",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -30771,6 +30753,212 @@
       "news_date": "2026-11-17"
     },
     {
+      "id": "news-date-10ddf28826598b2789",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — १२ बजे १२ समाचार : बजेटको चार महिना, रातो–निलो सिलिन्डर बनाउने नीतिबाट पछि हट्यो निगम",
+      "options": [
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://www.ratopati.com/story/605904/12-oclock-12-news-four-months-into-the-budget-the-corporation-backtracked-on-the-policy-of-making-red-blue-cylinders",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-topic-10ddf28826598b2789",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — १२ बजे १२ समाचार : बजेटको चार महिना, रातो–निलो सिलिन्डर बनाउने नीतिबाट पछि हट्यो निगम",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "अर्थतन्त्र तथा बजेट",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605904/12-oclock-12-news-four-months-into-the-budget-the-corporation-backtracked-on-the-policy-of-making-red-blue-cylinders",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-10ddf28826598b2789",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — १२ बजे १२ समाचार : बजेटको चार महिना, रातो–निलो सिलिन्डर बनाउने नीतिबाट पछि हट्यो निगम",
+      "options": [
+        "Ratopati",
+        "गोरखापत्र दैनिक",
+        "Himalkhabar",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605904/12-oclock-12-news-four-months-into-the-budget-the-corporation-backtracked-on-the-policy-of-making-red-blue-cylinders",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-5ba28f28467a35fae1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ताप्लेजुङमा मनाइयो चासोक तङ्नाम (फोटोफिचर)",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://gorkhapatraonline.com/news/229401",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-5ba28f28467a35fae1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ताप्लेजुङमा मनाइयो चासोक तङ्नाम (फोटोफिचर)",
+      "options": [
+        "NepalNews",
+        "Himal Press",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229401",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-160b020a26c4d7a6ae",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — २७ लाख मूल्यको सामान बरामद",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://gorkhapatraonline.com/news/229416",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-160b020a26c4d7a6ae",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — २७ लाख मूल्यको सामान बरामद",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Setopati",
+        "Khabarhub",
+        "Himalkhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229416",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-9cf0ee6be2bc3ff1e7",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सहयोग जुटाएर प्रहरी प्रमुखको कार्यालय निर्माण",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://gorkhapatraonline.com/news/229415",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-9cf0ee6be2bc3ff1e7",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सहयोग जुटाएर प्रहरी प्रमुखको कार्यालय निर्माण",
+      "options": [
+        "NepalNews",
+        "Himal Press",
+        "Himalkhabar",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229415",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-239480c81565e4039a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — राप्ती प्रतिष्ठानमा खरिदमा पनि प्रतिस्पर्धा गराइने",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://gorkhapatraonline.com/news/229414",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-239480c81565e4039a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — राप्ती प्रतिष्ठानमा खरिदमा पनि प्रतिस्पर्धा गराइने",
+      "options": [
+        "Setopati",
+        "NepalNews",
+        "गोरखापत्र दैनिक",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229414",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-topic-e212354b4762751460",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — युएईमा अलपत्र नेपालीलाई दुई दिनभित्र स्वदेश फर्काइने गृहमन्त्रीको प्रतिबद्धता",
+      "options": [
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/17/home-minister-commits-to-repatriating-nepalis-stranded-in-uae-within-two-days/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-17",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-f508f541f128255108",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31072,24 +31260,6 @@
       "answer": 3,
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.ratopati.com/story/605880/discussion-in-uttargaya-rural-municipality-on-the-problems-and-rehabilitation-of-bhotekoshi-flood-victims",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-6cb57e3ac391ecf673",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मलेसियाको मानव विकास सूचकाङ्कमा स्थिरता, शिक्षा सूचकाङ्कमा गिरावट",
-      "options": [
-        "स्वास्थ्य",
-        "विज्ञान तथा प्रविधि",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605874/malaysias-human-development-index-remains-stable-education-index-declines",
       "news_source": "Ratopati",
       "news_date": "2026-11-17",
       "question_basis": "headline_keyword_classification"
@@ -31543,6 +31713,40 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-date-cf704a7e05c55a3240",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘The Cliff’ Group to expand investment by Rs 4.25 billion, build the world’s tallest bungee jump in Kathmandu - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०९-१५",
+        "ई.सं. २०२६-०९-१६",
+        "ई.सं. २०२६-०९-१७",
+        "ई.सं. २०२६-०९-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०९-१७ हो।",
+      "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN2swSFZTcjJ6Zzl0R3ozcjZfeUd4UFdlc2VIa0FPdmpldWN6SWVhNHFOeVUyYlVIZWV2TWZEdlc0SWVmV3dxVXhsWkVIOUpDbDk0S25kQUdzZ2ZidWpVbUJNbVZtMjV2d3NyQlFoQW4ybk1ncVhmVEpxNzNsNGxsUHdTUnFVMlQ0ck9pdUJJTTlCTU11a3RuRmtUbGJtOHZDUEZKWTU3UndmZWZ5Qzc5dGY2Y0tmc3c1cER0MHBXNG5BM21iRUd4NWtlMU5DbnpvT1dIM3VuMmowT3hBN19iLUhGejBmWU0?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-09-17"
+    },
+    {
+      "id": "news-source-cf704a7e05c55a3240",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘The Cliff’ Group to expand investment by Rs 4.25 billion, build the world’s tallest bungee jump in Kathmandu - Ekantipur",
+      "options": [
+        "Himal Press",
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक",
+        "Khabarhub"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN2swSFZTcjJ6Zzl0R3ozcjZfeUd4UFdlc2VIa0FPdmpldWN6SWVhNHFOeVUyYlVIZWV2TWZEdlc0SWVmV3dxVXhsWkVIOUpDbDk0S25kQUdzZ2ZidWpVbUJNbVZtMjV2d3NyQlFoQW4ybk1ncVhmVEpxNzNsNGxsUHdTUnFVMlQ0ck9pdUJJTTlCTU11a3RuRmtUbGJtOHZDUEZKWTU3UndmZWZ5Qzc5dGY2Y0tmc3c1cER0MHBXNG5BM21iRUd4NWtlMU5DbnpvT1dIM3VuMmowT3hBN19iLUhGejBmWU0?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-09-17"
     }
   ]
 }
