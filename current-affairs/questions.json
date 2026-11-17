@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T21:42:33.041298+00:00",
-  "total": 1881,
-  "generated_from_news": 1828,
+  "updated": "2026-11-17T22:44:18.704918+00:00",
+  "total": 1885,
+  "generated_from_news": 1832,
   "questions": [
     {
       "id": "constitution-001",
@@ -31091,6 +31091,74 @@
       "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnlPeUJta2RvaWR0dktGMXpiQmk3a0lVRlZTZ3JxUTRMRUhhalc4Ny1kck82YmVaZ2lIck5FQUoyS2tlNTJWVTlJeTN4aGhwNDhlTzZsbDUyb0NoeGVlQXcyMmJ1UW1jMFJ4Nzc1MlBKNkZuVlhra3RFRWFPaEtPQ0pCT3FEdmYxeGttM3NkZzRscHRwdUk4TEkyV3lDQ2l2SWJ5dHhyMkRZMXhva3ZOTFhVX0Q3amlRa1phWDFQaWt0a3RiMjBsZnF1Si1oakR6Y1g2Q1pZZGY0dHF4?oc=5",
       "news_source": "कान्तिपुर दैनिक",
       "news_date": "2026-08-21"
+    },
+    {
+      "id": "news-date-4cfecb3eb29c531310",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — हालान्डको दुई गोलसँगै डेनमार्कविरुद्ध नर्वेको नाटकीय जित",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://www.ratopati.com/story/605909/haaland-scores-twice-to-give-norway-dramatic-win-over-denmark",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-4cfecb3eb29c531310",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — हालान्डको दुई गोलसँगै डेनमार्कविरुद्ध नर्वेको नाटकीय जित",
+      "options": [
+        "OnlineKhabar",
+        "Himal Press",
+        "Setopati",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605909/haaland-scores-twice-to-give-norway-dramatic-win-over-denmark",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-db5f4523233608bb87",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — रोमाञ्चक खेलमा वेल्समाथि पोर्चुगलको जित, समूह ‘डी को शीर्ष स्थानमा कायमै",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://www.ratopati.com/story/605908/portugal-beat-wales-in-thrilling-match-remain-top-of-group-d",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-db5f4523233608bb87",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — रोमाञ्चक खेलमा वेल्समाथि पोर्चुगलको जित, समूह ‘डी को शीर्ष स्थानमा कायमै",
+      "options": [
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "Khabarhub",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605908/portugal-beat-wales-in-thrilling-match-remain-top-of-group-d",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
     },
     {
       "id": "news-topic-ba953fcfe002302441",
