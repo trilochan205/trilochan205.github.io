@@ -1,9 +1,64 @@
 {
+  "id": "/",
   "name": "Trilochan Subedi",
   "short_name": "Trilochan",
+  "description": "Trilochan Subedi को आधिकारिक वेबसाइट, नेपाली कविता, लेख, समाचार, लोकसेवा तयारी र नेपाली पात्रो।",
+  "lang": "ne",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#f7f5ef",
   "theme_color": "#172235",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "categories": [
+    "education",
+    "news",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "नेपाली पात्रो",
+      "short_name": "पात्रो",
+      "url": "/calendar.html",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "लोकसेवा समसामयिक",
+      "short_name": "लोकसेवा",
+      "url": "/current-affairs.html",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "कविता",
+      "short_name": "कविता",
+      "url": "/poems.html",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
 }
