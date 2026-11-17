@@ -35,3 +35,30 @@ ICC को आधिकारिक घोषणाअनुसार आठ ट
 - [UN-Habitat: प्रतिवेदन सार्वजनिक गरिएको विवरण](https://unhabitat.org.np/featured_news_detail/nepal-releases-national-water-and-sanitation-status-report)
 - [ICC: Qualifier Play-off को आधिकारिक विवरण र खेल तालिका](https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/details-confirmed-for-cricket-world-cup-qualifier-playoff)
 - [ICC: २०२७ विश्वकप छनोटको ढाँचा](https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/path-to-2027-world-cup-qualifier-format-confirmed)
+
+## ३. मौद्रिक सञ्चालन: नेपाल राष्ट्र बैंकको पछिल्लो सारांश
+
+नेपाल राष्ट्र बैंकले १४ नोभेम्बर २०२६ मा आर्थिक वर्ष २०८३/८४ को मौद्रिक सञ्चालन सारांश अद्यावधिक गरेको छ (तथ्याङ्क २०८३/०७/२८ सम्म)।
+
+- तरलता प्रशोचनका कुल **१०० कारोबार**: सामान्य उपकरण २७ पटक र अन्तरबैंक दर करिडोरअन्तर्गत ७३ पटक।
+- कुल प्रस्ताव रकम **रु. ९,८०,७०० करोड** र कुल कारोबार **रु. ९,६९,१३० करोड**।
+- अन्तरबैंक दर करिडोरअन्तर्गत Standing Deposit Facility (SDF) **७३ पटक** सञ्चालन; प्रस्ताव तथा कारोबार दुवै रु. ८,३४,१०० करोड।
+- तरलता प्रवाह गर्ने Repo, Outright Purchase, Overnight Repo र Standing Liquidity Facility मा उक्त सारांश अवधिमा कारोबार देखिएको छैन।
+
+**परीक्षाका लागि अवधारणा:** निक्षेप संकलन र SDF जस्ता उपकरणले बैंकिङ प्रणालीको अतिरिक्त तरलता सोस्छन्; Repo र SLF जस्ता उपकरणले तरलता उपलब्ध गराउँछन्।
+
+## ४. अन्तर्राष्ट्रिय दिवस: इस्लामिक कला दिवस
+
+UNESCO ले प्रत्येक वर्ष **१८ नोभेम्बर** मा अन्तर्राष्ट्रिय इस्लामिक कला दिवस मनाउँछ। UNESCO को ४०औँ महासम्मेलनले सन् २०१९ मा यो दिवस घोषणा गरेको हो। यसले इस्लामिक कलाका ऐतिहासिक तथा समकालीन अभिव्यक्ति र सभ्यतामा तिनको योगदानबारे जनचेतना बढाउने उद्देश्य राख्छ।
+
+## ५. नेपाल–भारत कूटनीतिक सम्बन्ध
+
+भारतका विदेश सचिव विक्रम मिस्रीले नेपालको विदेश सचिव अमृतबहादुर रायको निमन्त्रणामा **४–५ नोभेम्बर २०२६** मा नेपालको दुईदिने औपचारिक भ्रमण गरेका थिए। भ्रमणका क्रममा दुवै पक्षले व्यापार, विकास साझेदारी, जलविद्युत्, भौतिक सम्पर्क, सीमा व्यवस्थापन, ऊर्जा, डिजिटल सम्पर्क, कृत्रिम बुद्धिमत्ता र खेलकुदलगायत सहकार्यका विषयमा छलफल गरेका थिए।
+
+## थप आधिकारिक स्रोतहरू
+
+- [नेपाल राष्ट्र बैंक: १४ नोभेम्बरको मौद्रिक सञ्चालन सारांश (PDF)](https://www.nrb.org.np/contents/uploads/2026/11/Monetary-Operation-Summary-as-on-2083.07.28.pdf)
+- [UNESCO: International Day of Islamic Art](https://www.unesco.org/en/days/islamic-art)
+- [परराष्ट्र मन्त्रालय: भारतका विदेश सचिवको भ्रमणसम्बन्धी संयुक्त प्रेस विज्ञप्ति](https://www.mofa.gov.np/content/1918/joint-press-release-on-the-official-visit/)
+- [UNICEF: Nepal Multiple Indicator Cluster Survey 2024–25](https://www.unicef.org/nepal/reports/multiple-indicator-cluster-survey-2024-25)
+
