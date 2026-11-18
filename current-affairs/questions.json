@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T23:40:43.104414+00:00",
-  "total": 1900,
-  "generated_from_news": 1847,
+  "updated": "2026-11-18T00:52:02.740297+00:00",
+  "total": 1948,
+  "generated_from_news": 1895,
   "questions": [
     {
       "id": "constitution-001",
@@ -31348,24 +31348,6 @@
       "news_date": "2026-11-17"
     },
     {
-      "id": "news-topic-98b229a1caabae6635",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोप–३१ मा कार्बन व्यापारको अभिलेख राख्ने अन्तरराष्ट्रिय ‘रजिस्ट्री’ सार्वजनिक",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "अर्थतन्त्र तथा बजेट"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605912/international-registry-to-record-carbon-trading-unveiled-at-cop31",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-98b229a1caabae6635",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -31400,6 +31382,1017 @@
       "news_date": "2026-11-17"
     },
     {
+      "id": "news-source-8e3f7948941889baaf",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
+      "options": [
+        "Ratopati",
+        "Nepal Samaya",
+        "The Kathmandu Post",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605910/nepal-proposes-to-operate-a-mountain-climate-program-from-2027",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-501f58f86bee0de356",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — फोहर बिक्रीबाट व्यास नगरपालिकालाई नौ लाख आम्दानी",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/18/1048818/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-501f58f86bee0de356",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — फोहर बिक्रीबाट व्यास नगरपालिकालाई नौ लाख आम्दानी",
+      "options": [
+        "Himal Press",
+        "Nepal Samaya",
+        "Setopati",
+        "Khabarhub"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/18/1048818/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-0967f2c6e6ada34199",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — देशका विभिन्न भागबाट लागुऔषधसहित २१ जना पक्राउ",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/605921/21-people-arrested-with-drugs-from-various-parts-of-the-country",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-0967f2c6e6ada34199",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — देशका विभिन्न भागबाट लागुऔषधसहित २१ जना पक्राउ",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605921/21-people-arrested-with-drugs-from-various-parts-of-the-country",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-24a36c024b09010d87",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सर्‍यो एमाले केन्द्रीय कमिटी बैठकको मिति",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://himalpress.com/2026/11/uml-central-committee-meeting-date-postponed/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-24a36c024b09010d87",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सर्‍यो एमाले केन्द्रीय कमिटी बैठकको मिति",
+      "options": [
+        "Nepal Samaya",
+        "Khabarhub",
+        "Himal Press",
+        "OnlineKhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/uml-central-committee-meeting-date-postponed/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-7cf4e0e3a2d67e5439",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://gorkhapatraonline.com/news/229420",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-7cf4e0e3a2d67e5439",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229420",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-7cf4e0e3a2d67e5439",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रधानमन्त्रीको भारत भ्रमण तयारी तीव्र",
+      "options": [
+        "NepalNews",
+        "Khabarhub",
+        "गोरखापत्र दैनिक",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229420",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-68f95c26369b8e5071",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कस्तो रहला मौसम?",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://himalpress.com/2026/11/how-was-the-weather-2/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-68f95c26369b8e5071",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कस्तो रहला मौसम?",
+      "options": [
+        "शिक्षा",
+        "वातावरण तथा विपद्",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/how-was-the-weather-2/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-68f95c26369b8e5071",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कस्तो रहला मौसम?",
+      "options": [
+        "Himal Press",
+        "Nepal Samaya",
+        "NepalNews",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/how-was-the-weather-2/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-e20744246caaadc317",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059938/nepal-proposes-to-operate-a-mountain-climate-program-from-2027",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-e20744246caaadc317",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "वातावरण तथा विपद्"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059938/nepal-proposes-to-operate-a-mountain-climate-program-from-2027",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-e20744246caaadc317",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
+      "options": [
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक",
+        "Khabarhub",
+        "OnlineKhabar"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059938/nepal-proposes-to-operate-a-mountain-climate-program-from-2027",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-daaa933773b8af91e4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — इलिमिनेटरमा आज चितवन र काठमाण्डु खेल्दै, जित्ने टोलीले सुदूरपश्चिमसँग खेल्ने",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/605920/chitwan-and-kathmandu-are-playing-in-the-eliminator-today-the-winning-team-will-play-against-sudurpaschim",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-daaa933773b8af91e4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — इलिमिनेटरमा आज चितवन र काठमाण्डु खेल्दै, जित्ने टोलीले सुदूरपश्चिमसँग खेल्ने",
+      "options": [
+        "Setopati",
+        "Himalkhabar",
+        "Himal Press",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605920/chitwan-and-kathmandu-are-playing-in-the-eliminator-today-the-winning-team-will-play-against-sudurpaschim",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-b2792b9823005b1e56",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ढोरपाटनका नगर प्रमुखलाई आठ वर्ष जेल सजाय",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://gorkhapatraonline.com/news/229419",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-b2792b9823005b1e56",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ढोरपाटनका नगर प्रमुखलाई आठ वर्ष जेल सजाय",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Ratopati",
+        "Himal Press",
+        "Himalkhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229419",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-a309a5a086f8f17830",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — निजामती कर्मचारीको ट्रेड युनियन खारेजीसम्बन्धी विवाद संवैधानिक इजलासमा",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/18/1048816/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-a309a5a086f8f17830",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — निजामती कर्मचारीको ट्रेड युनियन खारेजीसम्बन्धी विवाद संवैधानिक इजलासमा",
+      "options": [
+        "Khabarhub",
+        "OnlineKhabar",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/18/1048816/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-345d13ccc29d2c8053",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विदेशको रोजगारी छाडेर गाउँमै भैँसीपालन, घिउ बेचेर वार्षिक तीन लाख बचत",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059933/leaving-foreign-employment-raising-buffaloes-in-the-village-and-selling-ghee-to-save-rs-3-lakh-annually",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-345d13ccc29d2c8053",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विदेशको रोजगारी छाडेर गाउँमै भैँसीपालन, घिउ बेचेर वार्षिक तीन लाख बचत",
+      "options": [
+        "OnlineKhabar",
+        "Ratopati",
+        "Himalkhabar",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059933/leaving-foreign-employment-raising-buffaloes-in-the-village-and-selling-ghee-to-save-rs-3-lakh-annually",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-823e5c671f46f07536",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — यी दुई प्रदेशका हिमाली भेगमा वर्षा र हिमपातको सम्भावना",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.setopati.com/social/402798",
+      "news_source": "Setopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-823e5c671f46f07536",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — यी दुई प्रदेशका हिमाली भेगमा वर्षा र हिमपातको सम्भावना",
+      "options": [
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "वातावरण तथा विपद्",
+        "शिक्षा"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.setopati.com/social/402798",
+      "news_source": "Setopati",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-823e5c671f46f07536",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — यी दुई प्रदेशका हिमाली भेगमा वर्षा र हिमपातको सम्भावना",
+      "options": [
+        "OnlineKhabar",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक",
+        "Setopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/social/402798",
+      "news_source": "Setopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-09b001cf0083a31122",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी दुई प्रदेशमा हल्का वर्षाको सम्भावना",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/605919/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-09b001cf0083a31122",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी दुई प्रदेशमा हल्का वर्षाको सम्भावना",
+      "options": [
+        "Himal Press",
+        "Ratopati",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605919/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-7d7f42772dfb6276bc",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/18/1048813/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-7d7f42772dfb6276bc",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "पूर्वाधार तथा यातायात",
+        "शिक्षा"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/18/1048813/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-7d7f42772dfb6276bc",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "options": [
+        "Nepal Samaya",
+        "कान्तिपुर दैनिक",
+        "NepalNews",
+        "Khabarhub"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/18/1048813/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-0c955853b0cbaf7b48",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पहाडी तथा हिमाली क्षेत्रमा आंशिक बदली",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://gorkhapatraonline.com/news/229418",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-0c955853b0cbaf7b48",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पहाडी तथा हिमाली क्षेत्रमा आंशिक बदली",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Khabarhub"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229418",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-87dcb46f3396a50888",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — निजामती ट्रेड युनियनको विवाद संवैधानिक इजलासमा",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059927/civil-service-trade-union-dispute-in-constitutional-court",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-87dcb46f3396a50888",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — निजामती ट्रेड युनियनको विवाद संवैधानिक इजलासमा",
+      "options": [
+        "Himal Press",
+        "Khabarhub",
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059927/civil-service-trade-union-dispute-in-constitutional-court",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-1a27517d763ee38e50",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — अमेरिकामा जागिर छाडेर आफ्नै कम्पनी चलाइरहेका श्रीमान–श्रीमती",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.setopati.com/global/america/402793",
+      "news_source": "Setopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-1a27517d763ee38e50",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — अमेरिकामा जागिर छाडेर आफ्नै कम्पनी चलाइरहेका श्रीमान–श्रीमती",
+      "options": [
+        "Himal Press",
+        "NepalNews",
+        "Himalkhabar",
+        "Setopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/global/america/402793",
+      "news_source": "Setopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-1db208ab791b26a0ac",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कस्तो रहला आजको मौसम ?",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059925/how-was-the-weather-today-3",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-1db208ab791b26a0ac",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कस्तो रहला आजको मौसम ?",
+      "options": [
+        "वातावरण तथा विपद्",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059925/how-was-the-weather-today-3",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-1db208ab791b26a0ac",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कस्तो रहला आजको मौसम ?",
+      "options": [
+        "Ratopati",
+        "OnlineKhabar",
+        "Nepal Samaya",
+        "Himal Press"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059925/how-was-the-weather-today-3",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-4f0b66ae6a2151b9df",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पश्चिमी वायुको आंशिक प्रभाव, हिमाली क्षेत्रमा हल्का वर्षा र हिमपातको सम्भावना",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/18/1048810/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-4f0b66ae6a2151b9df",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — पश्चिमी वायुको आंशिक प्रभाव, हिमाली क्षेत्रमा हल्का वर्षा र हिमपातको सम्भावना",
+      "options": [
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "वातावरण तथा विपद्"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/18/1048810/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-4f0b66ae6a2151b9df",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पश्चिमी वायुको आंशिक प्रभाव, हिमाली क्षेत्रमा हल्का वर्षा र हिमपातको सम्भावना",
+      "options": [
+        "Nepal Samaya",
+        "OnlineKhabar",
+        "Khabarhub",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/18/1048810/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-142808a5cad1ea3333",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कुन विदेशी मुद्राको विनिमयदर कति ?",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059929/what-is-the-exchange-rate-of-which-foreign-currency-3",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-142808a5cad1ea3333",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कुन विदेशी मुद्राको विनिमयदर कति ?",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Khabarhub",
+        "Himal Press"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059929/what-is-the-exchange-rate-of-which-foreign-currency-3",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-e9704a23ac5fb8f3b3",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — यस्तो छ आजको विदेशी मुद्रा विनिमयदर",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/18/1048808/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-e9704a23ac5fb8f3b3",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — यस्तो छ आजको विदेशी मुद्रा विनिमयदर",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Himalkhabar",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/18/1048808/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-627ec591161305fe58",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बुधबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/605918/this-is-the-foreign-exchange-rate-on-wednesday",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-627ec591161305fe58",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बुधबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "options": [
+        "Ratopati",
+        "NepalNews",
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605918/this-is-the-foreign-exchange-rate-on-wednesday",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-1d4e8df28ca83be292",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएल : काठमाण्डु र चितवन आज इलिमिनेटरमा भिड्दै",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/18/1048797/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-1d4e8df28ca83be292",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएल : काठमाण्डु र चितवन आज इलिमिनेटरमा भिड्दै",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Himalkhabar",
+        "OnlineKhabar",
+        "Khabarhub"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/18/1048797/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-2d4a413a5475cd53a9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विदेशको रोजगारी छाडेर गाउँमै भैँसीपालन, घ्यू बेचेर वार्षिक तीन लाख बचत",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/605917/leaving-foreign-employment-raising-buffaloes-in-the-village-and-saving-rs-3-lakh-annually-by-selling-ghee",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-2d4a413a5475cd53a9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विदेशको रोजगारी छाडेर गाउँमै भैँसीपालन, घ्यू बेचेर वार्षिक तीन लाख बचत",
+      "options": [
+        "Khabarhub",
+        "Nepal Samaya",
+        "NepalNews",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/605917/leaving-foreign-employment-raising-buffaloes-in-the-village-and-saving-rs-3-lakh-annually-by-selling-ghee",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-ec55cc6cf131220cd5",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आज २०८३ साल मङ्सिर २ गते बुधबारको राशिफल",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://khabarhub.com/2026/18/1048792/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-ec55cc6cf131220cd5",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आज २०८३ साल मङ्सिर २ गते बुधबारको राशिफल",
+      "options": [
+        "Khabarhub",
+        "Himalkhabar",
+        "OnlineKhabar",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/18/1048792/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-date-7a21a8dc74f32180d1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — स्थानीय तहका प्रवक्ता नै सूचनाबारे बेखबर",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१५",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१७ हो।",
+      "source": "https://gorkhapatraonline.com/news/229417",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-source-7a21a8dc74f32180d1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — स्थानीय तहका प्रवक्ता नै सूचनाबारे बेखबर",
+      "options": [
+        "Ratopati",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229417",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-17"
+    },
+    {
+      "id": "news-topic-98b229a1caabae6635",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोप–३१ मा कार्बन व्यापारको अभिलेख राख्ने अन्तरराष्ट्रिय ‘रजिस्ट्री’ सार्वजनिक",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "अर्थतन्त्र तथा बजेट"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/605912/international-registry-to-record-carbon-trading-unveiled-at-cop31",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-17",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-8e3f7948941889baaf",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31416,23 +32409,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-17",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-8e3f7948941889baaf",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
-      "options": [
-        "Ratopati",
-        "Nepal Samaya",
-        "The Kathmandu Post",
-        "कान्तिपुर दैनिक"
-      ],
-      "answer": 0,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/605910/nepal-proposes-to-operate-a-mountain-climate-program-from-2027",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-17"
     },
     {
       "id": "news-topic-ba953fcfe002302441",
@@ -31579,24 +32555,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-72224bd21755c01b48",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्रीको भारत भ्रमण : नेपालगञ्ज दिल्ली सिधा हवाई उडानका लागि ध्यानाकर्षण",
-      "options": [
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/17/1048791/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-b8e920e144bd5a5e0a",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31615,24 +32573,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-41f2ef5a8bd7fd3cd5",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नीतिमै विज्ञान जोड्न नेपालको आग्रह",
-      "options": [
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229410",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-33b9cfc06605bbb7cf",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31647,24 +32587,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2059787/aig-job-loss-from-former-ceo-of-investment-board-to-leaders-brother-arrested",
       "news_source": "OnlineKhabar",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-d60361b12d61d25642",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नेत्र चिकित्सा सम्मेलन: चार वरिष्ठ नेत्ररोग विशेषज्ञलाई लाइफटाइम अचिभमेन्ट अवार्ड",
-      "options": [
-        "शिक्षा",
-        "विज्ञान तथा प्रविधि",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229409",
-      "news_source": "गोरखापत्र दैनिक",
       "news_date": "2026-11-17",
       "question_basis": "headline_keyword_classification"
     },
@@ -31754,24 +32676,6 @@
       "answer": 1,
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.ratopati.com/story/605892/prime-ministers-visit-to-india-attention-drawn-to-nepalgunj-delhi-direct-flight",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-25168c3670bdcc7ce2",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विपद् सूचना प्रणालीलाई स्थानीय तहसम्म विस्तार गरिने",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "वातावरण तथा विपद्"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/605890/disaster-information-system-to-be-expanded-to-the-local-level",
       "news_source": "Ratopati",
       "news_date": "2026-11-17",
       "question_basis": "headline_keyword_classification"
@@ -31934,60 +32838,6 @@
       "answer": 3,
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2059747/machhapuchhre-bank-and-taptapsend-sign-remittance-service-operation-agreement",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-42faa3bffad8fffadf",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सुरक्षित यात्राका लागि चाङ्गानले सार्वजनिक गर्‍यो चालक सहायताको नयाँ प्रविधि",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2059714/changan-unveils-new-driver-assistance-technology-for-safer-travel",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-d690a5436ed8b95de4",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सबैभन्दा बढी कर तिर्ने बैंकमा नबिल नवौँ पटक सम्मानित",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "अर्थतन्त्र तथा बजेट",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2059692/nabil-honored-for-ninth-time-as-the-bank-that-pays-the-highest-tax",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-0e2282ee916492eae4",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सार्क चेम्बर पर्यटन समिति संयोजकमा चन्द्र ढकाल चयन",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2059670/chandra-dhakal-elected-as-saarc-chamber-tourism-committee-coordinator",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-17",
       "question_basis": "headline_keyword_classification"
@@ -32186,42 +33036,6 @@
       "answer": 3,
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://himalpress.com/2026/11/financial-crimes-are-increasing-due-to-misuse-of-technology-what-does-the-inspector-general-of-police-say/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-fe86050a2ebb3c59cf",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — माध्यमिक तहको लाइसेन्स खुल्यो, यी योग्यता पुगेकाले दिन पाउनेछन् परीक्षा",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/secondary-level-license-is-open-those-who-meet-these-qualifications-will-be-able-to-take-the-exam/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-17",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-089960c45aa8ef2730",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — जब्दीघाटमा ६७ करोड ४५ लाख ६९ हजार १५० लागतमा दुई लेनको पुल बन्ने",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "पूर्वाधार तथा यातायात"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/a-two-lane-bridge-will-be-built-in-jabdighat-at-a-cost-of-rs-674-569150/",
       "news_source": "Himal Press",
       "news_date": "2026-11-17",
       "question_basis": "headline_keyword_classification"
