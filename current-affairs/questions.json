@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T19:49:27.972938+00:00",
-  "total": 1896,
-  "generated_from_news": 1824,
+  "updated": "2026-11-18T20:45:28.261695+00:00",
+  "total": 1898,
+  "generated_from_news": 1826,
   "questions": [
     {
       "id": "constitution-001",
@@ -31072,24 +31072,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-53f11e4cce6a9b2c86",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोप–३३ सम्म जलवायु लक्ष्य कार्यान्वयनमा तीव्रता दिन आग्रह",
-      "options": [
-        "वातावरण तथा विपद्",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606152/urges-to-accelerate-implementation-of-climate-goals-by-cop-33",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-53f11e4cce6a9b2c86",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -31122,24 +31104,6 @@
       "source": "https://www.ratopati.com/story/606151/revenue-collection-exceeding-target",
       "news_source": "Ratopati",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-f3c1df342c33ad3589",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — लक्ष्यभन्दा बढी राजस्व सङ्कलन",
-      "options": [
-        "स्वास्थ्य",
-        "अर्थतन्त्र तथा बजेट",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606151/revenue-collection-exceeding-target",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-f3c1df342c33ad3589",
@@ -31176,6 +31140,127 @@
       "news_date": "2026-11-18"
     },
     {
+      "id": "news-source-4c2a50cb9f17567d70",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — धनगढीमा खाना महोत्सव आयोजना हुने",
+      "options": [
+        "Ratopati",
+        "Himal Press",
+        "OnlineKhabar",
+        "Himalkhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606150/food-festival-to-be-held-in-dhangadhi",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-0bfa71adc405258156",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पूजाआजाका सामग्री शुद्ध हुनुपर्नेमा जोड",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606155/emphasis-on-purity-of-worship-materials",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-0bfa71adc405258156",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पूजाआजाका सामग्री शुद्ध हुनुपर्नेमा जोड",
+      "options": [
+        "Ratopati",
+        "Khabarhub",
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606155/emphasis-on-purity-of-worship-materials",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-e782cfce50856bf039",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — यौनजन्य हिंसाविरुद्ध सचेतना कक्षा",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606153/awareness-class-against-sexual-violence",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-e782cfce50856bf039",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — यौनजन्य हिंसाविरुद्ध सचेतना कक्षा",
+      "options": [
+        "Ratopati",
+        "Setopati",
+        "गोरखापत्र दैनिक",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606153/awareness-class-against-sexual-violence",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-53f11e4cce6a9b2c86",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोप–३३ सम्म जलवायु लक्ष्य कार्यान्वयनमा तीव्रता दिन आग्रह",
+      "options": [
+        "वातावरण तथा विपद्",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606152/urges-to-accelerate-implementation-of-climate-goals-by-cop-33",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-f3c1df342c33ad3589",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — लक्ष्यभन्दा बढी राजस्व सङ्कलन",
+      "options": [
+        "स्वास्थ्य",
+        "अर्थतन्त्र तथा बजेट",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606151/revenue-collection-exceeding-target",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-4c2a50cb9f17567d70",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31192,23 +31277,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-18",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-4c2a50cb9f17567d70",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — धनगढीमा खाना महोत्सव आयोजना हुने",
-      "options": [
-        "Ratopati",
-        "Himal Press",
-        "OnlineKhabar",
-        "Himalkhabar"
-      ],
-      "answer": 0,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/606150/food-festival-to-be-held-in-dhangadhi",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18"
     },
     {
       "id": "news-topic-2259efc8596cd57541",
@@ -31643,24 +31711,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-877dd18e963fb67506",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एमबीबीएस एकीकृत प्रवेश परीक्षाको नतिजा सार्वजनिक (नतिजासहित)",
-      "options": [
-        "शिक्षा",
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606124/mbbs-integrated-entrance-exam-results-published",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-e721639fb076260928",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31675,24 +31725,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://khabarhub.com/2026/18/1049146/",
       "news_source": "Khabarhub",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-99f2e43bf731d005a4",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — 'कन्काई पुल अलपत्र पार्नु हुँदैन, सदनमा आवाज उठाउनेछौँ'",
-      "options": [
-        "स्वास्थ्य",
-        "पूर्वाधार तथा यातायात",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606123/kankai-bridge-should-not-be-abandoned-we-will-raise-our-voice-in-the-house",
-      "news_source": "Ratopati",
       "news_date": "2026-11-18",
       "question_basis": "headline_keyword_classification"
     },
