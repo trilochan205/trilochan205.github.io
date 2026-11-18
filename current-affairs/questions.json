@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T17:50:29.082920+00:00",
-  "total": 1880,
-  "generated_from_news": 1808,
+  "updated": "2026-11-18T18:43:57.021727+00:00",
+  "total": 1888,
+  "generated_from_news": 1816,
   "questions": [
     {
       "id": "constitution-001",
@@ -30919,6 +30919,126 @@
       "news_date": "2026-11-18"
     },
     {
+      "id": "news-date-6f9b8c82afdaa068da",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — डिसेम्बर ३ मा रिलिज हुँदै वेब सिरिज ‘पञ्चायत सिजन ५’",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606149/web-series-panchayat-season-5-to-be-released-on-december-3",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-6f9b8c82afdaa068da",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — डिसेम्बर ३ मा रिलिज हुँदै वेब सिरिज ‘पञ्चायत सिजन ५’",
+      "options": [
+        "Himal Press",
+        "OnlineKhabar",
+        "Himalkhabar",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606149/web-series-panchayat-season-5-to-be-released-on-december-3",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-ce63c412364d692102",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भारतीय टिमलाई आईसीसीको जरिवाना, म्याच फिको ३५ प्रतिशत काटिने",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606148/icc-fines-indian-team-deducts-35-percent-of-match-fee",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-ce63c412364d692102",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भारतीय टिमलाई आईसीसीको जरिवाना, म्याच फिको ३५ प्रतिशत काटिने",
+      "options": [
+        "Khabarhub",
+        "कान्तिपुर दैनिक",
+        "Ratopati",
+        "The Kathmandu Post"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606148/icc-fines-indian-team-deducts-35-percent-of-match-fee",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-2259efc8596cd57541",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — १२ बजे १२ समाचार : पूर्वमन्त्री मुछिएको ठगी प्रकरणको फेहरिस्तदेखि ओलीमा अहंकार घटेनसम्म",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606147/12-oclock-12-news-from-the-list-of-fraud-cases-involving-former-ministers-to-olis-arrogance",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-2259efc8596cd57541",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — १२ बजे १२ समाचार : पूर्वमन्त्री मुछिएको ठगी प्रकरणको फेहरिस्तदेखि ओलीमा अहंकार घटेनसम्म",
+      "options": [
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606147/12-oclock-12-news-from-the-list-of-fraud-cases-involving-former-ministers-to-olis-arrogance",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-2259efc8596cd57541",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — १२ बजे १२ समाचार : पूर्वमन्त्री मुछिएको ठगी प्रकरणको फेहरिस्तदेखि ओलीमा अहंकार घटेनसम्म",
+      "options": [
+        "Setopati",
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606147/12-oclock-12-news-from-the-list-of-fraud-cases-involving-former-ministers-to-olis-arrogance",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
       "id": "news-topic-829868e9d642713752",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31423,24 +31543,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-87469260b877a7074a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बर्दियाका ग्रामीण क्षेत्रमा सडक तथा पुल निर्माणको तयारी",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "पूर्वाधार तथा यातायात",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606118/preparations-for-construction-of-roads-and-bridges-in-rural-areas-of-bardiya",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-808f5a6f4d93eee1b9",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31871,6 +31973,40 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-date-401d0f2cda17b54cd0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Jeffrey Epstein's 'suicide note' released after court order - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०५-०८",
+        "ई.सं. २०२६-०५-०६",
+        "ई.सं. २०२६-०५-०७",
+        "ई.सं. २०२६-०५-०५"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०५-०७ हो।",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ZwblY1bmNaQmEtaGxXVEd6dlF6OW5wYnM5b2VRcTVUaVBiai1uSFluR05FSU5ZS1BGazEwOTZZTTNDMXNSOUR5LUtvVXZuUGpuS0o4QWlsaWFZdlJtRWdpaFF1Z1NtUlNEWWhtWG1wY2VjZ3Q0eUtBNHdpTDI4SnpxTUhjSVFXRVlaYVRJandtekVEcnYzcmdXU2VNOVZFaFBrNFJwQk9FdGxJNFE?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-05-07"
+    },
+    {
+      "id": "news-source-401d0f2cda17b54cd0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Jeffrey Epstein's 'suicide note' released after court order - Ekantipur",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "OnlineKhabar",
+        "The Kathmandu Post",
+        "Himalkhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ZwblY1bmNaQmEtaGxXVEd6dlF6OW5wYnM5b2VRcTVUaVBiai1uSFluR05FSU5ZS1BGazEwOTZZTTNDMXNSOUR5LUtvVXZuUGpuS0o4QWlsaWFZdlJtRWdpaFF1Z1NtUlNEWWhtWG1wY2VjZ3Q0eUtBNHdpTDI4SnpxTUhjSVFXRVlaYVRJandtekVEcnYzcmdXU2VNOVZFaFBrNFJwQk9FdGxJNFE?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-05-07"
     }
   ]
 }
