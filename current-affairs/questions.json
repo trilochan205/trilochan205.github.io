@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T21:43:53.626420+00:00",
-  "total": 1902,
-  "generated_from_news": 1830,
+  "updated": "2026-11-18T22:43:49.219031+00:00",
+  "total": 1909,
+  "generated_from_news": 1837,
   "questions": [
     {
       "id": "constitution-001",
@@ -31276,6 +31276,91 @@
       "news_date": "2026-11-18"
     },
     {
+      "id": "news-source-e5a5e6a6582766ea12",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
+      "options": [
+        "Khabarhub",
+        "Himalkhabar",
+        "The Kathmandu Post",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606156/270-million-climate-finance-commitment-at-cop-more-donors-awaited",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-4599aab804b9af62f9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — परम्परागत खेतीभन्दा उखु खेतीमा दोब्बर आम्दानी",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606159/sugarcane-farming-yields-double-the-income-compared-to-traditional-farming",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-4599aab804b9af62f9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — परम्परागत खेतीभन्दा उखु खेतीमा दोब्बर आम्दानी",
+      "options": [
+        "Setopati",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606159/sugarcane-farming-yields-double-the-income-compared-to-traditional-farming",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-81c13518011ab49edd",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एपिएफ महिला गोल्डकपको फाइनलमा",
+      "options": [
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606160/into-the-finals-of-the-apf-womens-gold-cup",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-81c13518011ab49edd",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एपिएफ महिला गोल्डकपको फाइनलमा",
+      "options": [
+        "Ratopati",
+        "The Kathmandu Post",
+        "NepalNews",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606160/into-the-finals-of-the-apf-womens-gold-cup",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
       "id": "news-topic-e5a5e6a6582766ea12",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31292,23 +31377,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-18",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-e5a5e6a6582766ea12",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
-      "options": [
-        "Khabarhub",
-        "Himalkhabar",
-        "The Kathmandu Post",
-        "Ratopati"
-      ],
-      "answer": 3,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/606156/270-million-climate-finance-commitment-at-cop-more-donors-awaited",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18"
     },
     {
       "id": "news-topic-53f11e4cce6a9b2c86",
@@ -31738,24 +31806,6 @@
       "answer": 0,
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.ratopati.com/story/606130/six-people-including-former-minister-arrested-for-fraud-and-organized-crime",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-769969f7c8b3ed1dff",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारततर्फ थप ६१५.०२ मेगावाट विद्युत् निर्यात गर्न स्वीकृति",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "अर्थतन्त्र तथा बजेट",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606129/approval-to-export-an-additional-61502-mw-of-electricity-to-india",
       "news_source": "Ratopati",
       "news_date": "2026-11-18",
       "question_basis": "headline_keyword_classification"
@@ -32245,6 +32295,74 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-date-965671567f01d0bb72",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Nominations for 8 categories of Extreme Energy Radio Kantipur National Music Awards-2082 announced - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०७-०१",
+        "ई.सं. २०२६-०७-०३",
+        "ई.सं. २०२६-०७-०२",
+        "ई.सं. २०२६-०६-३०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०७-०२ हो।",
+      "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM2x0bjBMeUQ2bkIycVJDMzlJV004Rjc5djEwMmZLY2lodDR0aDNXUnZycmNVbjE3cDJvdDhSY2dWMzA5LW9pMDJLYmswYUpKVERtSjUwZXdVWF9jUC14YTNLeC1HLXl1aG1iVW1rallNY3pWUkNtNDNSUVpFcVRLendsVFlXNEh2N2lXQm9aTDJTZFUwa1gyMWd1RHIwMURjODd0cUQwMXFUOTVEU2xMd2ZYcy01b1BrWmFSSG1mQkIySngwb1A0LU9PbHJVWngyUmNkM2FZenptM0h2UzBYWm9obUhxbWFUcTI1NWtCeHE?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-07-02"
+    },
+    {
+      "id": "news-source-965671567f01d0bb72",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Nominations for 8 categories of Extreme Energy Radio Kantipur National Music Awards-2082 announced - Ekantipur",
+      "options": [
+        "NepalNews",
+        "Khabarhub",
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM2x0bjBMeUQ2bkIycVJDMzlJV004Rjc5djEwMmZLY2lodDR0aDNXUnZycmNVbjE3cDJvdDhSY2dWMzA5LW9pMDJLYmswYUpKVERtSjUwZXdVWF9jUC14YTNLeC1HLXl1aG1iVW1rallNY3pWUkNtNDNSUVpFcVRLendsVFlXNEh2N2lXQm9aTDJTZFUwa1gyMWd1RHIwMURjODd0cUQwMXFUOTVEU2xMd2ZYcy01b1BrWmFSSG1mQkIySngwb1A0LU9PbHJVWngyUmNkM2FZenptM0h2UzBYWm9obUhxbWFUcTI1NWtCeHE?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-07-02"
+    },
+    {
+      "id": "news-date-63c0c18cca3aae0eed",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Embassy invites Indian content creators to visit Nepal to promote tourism - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०५-२५",
+        "ई.सं. २०२६-०५-२२",
+        "ई.सं. २०२६-०५-२४",
+        "ई.सं. २०२६-०५-२३"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०५-२४ हो।",
+      "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUZnOHc0SVJCS21YM2ZVTmlLQ1FhRk16Nk84VFIyUVluTGUwRzB1U1d4WDBtZzJBSUY4WHZaR1pQUm1nVV9aWUR3YU1HZElWN2hQRVpzckVKX0c3RTJqclZhV201djhzQ19VMzR2WXJ4c1ZzUWh0emVWNHJMNVFXQWhKMUZXU0swRkpjWjlmN19CYkw5T3NHU3lBNUh0WE9FNGlBeVdCTklFbFhiREt2WjJIWWJyRVJJdGNQcmx6bGNNMU0?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-05-24"
+    },
+    {
+      "id": "news-source-63c0c18cca3aae0eed",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Embassy invites Indian content creators to visit Nepal to promote tourism - Ekantipur",
+      "options": [
+        "OnlineKhabar",
+        "The Kathmandu Post",
+        "कान्तिपुर दैनिक",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUZnOHc0SVJCS21YM2ZVTmlLQ1FhRk16Nk84VFIyUVluTGUwRzB1U1d4WDBtZzJBSUY4WHZaR1pQUm1nVV9aWUR3YU1HZElWN2hQRVpzckVKX0c3RTJqclZhV201djhzQ19VMzR2WXJ4c1ZzUWh0emVWNHJMNVFXQWhKMUZXU0swRkpjWjlmN19CYkw5T3NHU3lBNUh0WE9FNGlBeVdCTklFbFhiREt2WjJIWWJyRVJJdGNQcmx6bGNNMU0?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-05-24"
     }
   ]
 }
