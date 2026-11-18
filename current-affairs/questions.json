@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T07:29:31+05:45",
-  "total": 63,
+  "updated": "2026-11-18T07:48:27+05:45",
+  "total": 72,
   "generated_from_news": 0,
   "questions": [
     {
@@ -947,6 +947,141 @@
       "answer": 0,
       "explanation": "ICC को १५ नोभेम्बर २०२६ को विवरणअनुसार १० टोली दुई समूहमा पाँच–पाँच विभाजित हुनेछन्। राउन्ड-रोबिनपछि सेमिफाइनल र फाइनलसहित कुल २३ खेल हुनेछन्; शीर्ष चार टोली विश्वकपमा छनोट हुनेछन्।",
       "source": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/path-to-2027-world-cup-qualifier-format-confirmed"
+    },
+    {
+      "id": "officer-2026-11-18-cop31-venue",
+      "topic": "जलवायु परिवर्तन तथा अन्तर्राष्ट्रिय सम्मेलन",
+      "level": "अधिकृत तह",
+      "question": "UNFCCC को आधिकारिक विवरणअनुसार COP31 सन् २०२६ मा कहाँ र कुन अवधिमा आयोजना भइरहेको छ?",
+      "options": [
+        "Antalya, Türkiye — ९–२० नोभेम्बर २०२६",
+        "Baku, Azerbaijan — ९–२० नोभेम्बर २०२६",
+        "Antalya, Türkiye — २०–३० नोभेम्बर २०२६",
+        "Istanbul, Türkiye — ४–१४ डिसेम्बर २०२६"
+      ],
+      "answer": 0,
+      "explanation": "UNFCCC का अनुसार COP31 ९ देखि २० नोभेम्बर २०२६ सम्म Türkiye को Antalya EXPO Center, Soğucaksu मा आयोजना भइरहेको छ।",
+      "source": "https://unfccc.int/cop31/ifp"
+    },
+    {
+      "id": "officer-2026-11-18-cop31-sessions",
+      "topic": "जलवायु परिवर्तन तथा अन्तर्राष्ट्रिय शासन",
+      "level": "अधिकृत तह",
+      "question": "COP31 सँगै UNFCCC प्रक्रियाअन्तर्गत कुन तीन सम्मेलन सत्रहरू समावेश छन्?",
+      "options": [
+        "COP31, CMP21 र CMA8",
+        "COP31, CMP20 र CMA8",
+        "COP30, CMP21 र CMA7",
+        "COP31, CMP21 र CMA7"
+      ],
+      "answer": 0,
+      "explanation": "UNFCCC को आधिकारिक विवरणमा ३१औँ COP, क्योटो प्रोटोकलअन्तर्गत २१औँ CMP र पेरिस सम्झौताअन्तर्गत ८औँ CMA सत्र समावेश छन्।",
+      "source": "https://unfccc.int/cop31/ifp"
+    },
+    {
+      "id": "officer-2026-11-18-cop31-presidency-roles",
+      "topic": "जलवायु कूटनीति तथा नेतृत्व",
+      "level": "अधिकृत तह",
+      "question": "COP31 को अध्यक्ष र वार्ता अध्यक्षको भूमिकाबारे कुन जोडी सही छ?",
+      "options": [
+        "Türkiye का Murat Kurum — COP31 अध्यक्ष; Australia का Chris Bowen — वार्ता अध्यक्ष",
+        "Australia का Chris Bowen — COP31 अध्यक्ष; Türkiye का Murat Kurum — वार्ता अध्यक्ष",
+        "UNFCCC का Simon Stiell — COP31 अध्यक्ष; Murat Kurum — वार्ता अध्यक्ष",
+        "Türkiye का Murat Kurum — वार्ता अध्यक्ष; Simon Stiell — COP31 अध्यक्ष"
+      ],
+      "answer": 0,
+      "explanation": "UNFCCC को उद्घाटन विवरणले Türkiye का Murat Kurum लाई COP31 President र Australia का Chris Bowen लाई President of COP31 Negotiations भनेर उल्लेख गरेको छ।",
+      "source": "https://unfccc.int/news/cop31-must-supercharge-solutions-un-climate-chief-on-opening-day-of-cop31"
+    },
+    {
+      "id": "officer-2026-11-18-cop31-cover-decision",
+      "topic": "जलवायु कूटनीति तथा बहुपक्षीय वार्ता",
+      "level": "अधिकृत तह",
+      "question": "COP31 का वार्ता अध्यक्ष Chris Bowen ले १६ नोभेम्बर २०२६ को पत्रकार सम्मेलनमा कुन महत्त्वपूर्ण मस्यौदा सार्वजनिक भएको जानकारी दिए?",
+      "options": [
+        "अध्यक्षताद्वारा तयार गरिएको निर्णयको पहिलो मस्यौदा (cover decision)",
+        "पेरिस सम्झौता खारेज गर्ने अन्तिम प्रस्ताव",
+        "सबै देशका लागि बाध्यकारी विश्वव्यापी कार्बन करको अन्तिम पाठ",
+        "COP31 को अन्तिम निर्णय सर्वसम्मतिले पारित भएको घोषणा"
+      ],
+      "answer": 0,
+      "explanation": "१६ नोभेम्बरको पत्रकार सम्मेलनमा वार्ता अध्यक्षले अध्यक्षताद्वारा तयार गरिएको cover decision को पहिलो मस्यौदा सार्वजनिक गरिएको बताए; यसको उद्देश्य पक्षहरूलाई छलफल र वार्ताका लागि समय दिनु थियो।",
+      "source": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations"
+    },
+    {
+      "id": "officer-2026-11-18-toilet-day-theme",
+      "topic": "दिगो विकास लक्ष्य तथा सरसफाइ",
+      "level": "अधिकृत तह",
+      "question": "विश्व शौचालय दिवस २०२६ को अभियानको नारा र मुख्य नीतिगत जोड कुन हो?",
+      "options": [
+        "“Safe toilets. Equal futures.” — सरसफाइ र लैङ्गिक समानता",
+        "“One Health, one action” — प्रतिजैविक प्रतिरोध नियन्त्रण",
+        "“My day, my rights, my future” — बाल अधिकार",
+        "“Water for Peace” — अन्तरदेशीय जलस्रोत व्यवस्थापन"
+      ],
+      "answer": 0,
+      "explanation": "UN DESA का अनुसार २०२६ को विश्व शौचालय दिवस अभियानले सुरक्षित सरसफाइ र लैङ्गिक समानताको सम्बन्धमा जोड दिँदै “Safe toilets. Equal futures.” नारा अघि सारेको छ।",
+      "source": "https://desapublications.un.org/un-desa-voice/more-from-undesa/november-2026/world-toilet-day-2026-safe-toilets-equal-futures"
+    },
+    {
+      "id": "officer-2026-11-18-toilet-day-statistics",
+      "topic": "विश्व सरसफाइ तथ्याङ्क तथा SDGs",
+      "level": "अधिकृत तह",
+      "question": "UN DESA को विश्व शौचालय दिवस २०२६ सम्बन्धी विवरणअनुसार सुरक्षित शौचालय, खुला दिसा र आधारभूत सरसफाइ सेवासम्बन्धी सही तथ्यसमूह कुन हो?",
+      "options": [
+        "३.४ अर्ब सुरक्षित शौचालयविहीन; ३५४ मिलियन खुला दिसा गर्ने; १.७ अर्ब आधारभूत सरसफाइ सेवाविहीन",
+        "१.७ अर्ब सुरक्षित शौचालयविहीन; ३.४ अर्ब खुला दिसा गर्ने; ३५४ मिलियन आधारभूत सरसफाइ सेवाविहीन",
+        "३५४ मिलियन सुरक्षित शौचालयविहीन; १.७ अर्ब खुला दिसा गर्ने; ३.४ अर्ब आधारभूत सरसफाइ सेवाविहीन",
+        "३.४ अर्ब सुरक्षित शौचालयविहीन; १.७ अर्ब खुला दिसा गर्ने; ३५४ मिलियन आधारभूत सरसफाइ सेवाविहीन"
+      ],
+      "answer": 0,
+      "explanation": "UN DESA को २०२६ विवरणअनुसार ३.४ अर्ब मानिस सुरक्षित शौचालयविहीन छन्, तीमध्ये ३५४ मिलियन खुला दिसा गर्छन् र १.७ अर्ब मानिस आधारभूत स्वच्छता सेवाविहीन छन्।",
+      "source": "https://desapublications.un.org/un-desa-voice/more-from-undesa/november-2026/world-toilet-day-2026-safe-toilets-equal-futures"
+    },
+    {
+      "id": "officer-2026-11-18-toilet-day-sdg",
+      "topic": "दिगो विकास लक्ष्य तथा अन्तर्राष्ट्रिय दिवस",
+      "level": "अधिकृत तह",
+      "question": "विश्व शौचालय दिवसबारे सही कथनहरूको समूह छान्नुहोस्: (१) हरेक वर्ष १९ नोभेम्बरमा मनाइन्छ। (२) UN-Water ले समन्वय गर्छ। (३) SDG 6 सँग सम्बन्धित छ।",
+      "options": [
+        "१, २ र ३ सबै सही",
+        "१ र २ मात्र सही",
+        "२ र ३ मात्र सही",
+        "१ र ३ मात्र सही"
+      ],
+      "answer": 0,
+      "explanation": "विश्व शौचालय दिवस हरेक वर्ष १९ नोभेम्बरमा मनाइन्छ, UN-Water ले समन्वय गर्छ र यसको उद्देश्य SDG 6 अन्तर्गत सबैका लागि पानी तथा सरसफाइमा प्रगति गराउनु हो।",
+      "source": "https://www.un.org/en/observances/toilet-day/background"
+    },
+    {
+      "id": "officer-2026-11-18-childrens-day-theme",
+      "topic": "बालअधिकार तथा अन्तर्राष्ट्रिय दिवस",
+      "level": "अधिकृत तह",
+      "question": "UNICEF ले सन् २०२६ को विश्व बाल दिवसका लागि घोषणा गरेको मिति र अभियान नारा कुन हो?",
+      "options": [
+        "२० नोभेम्बर — “My day, my rights, my future”",
+        "१९ नोभेम्बर — “Safe toilets. Equal futures.”",
+        "१८ नोभेम्बर — “One Health, one action: Prevent AMR now”",
+        "१० डिसेम्बर — “Dignity, Freedom and Justice for All”"
+      ],
+      "answer": 0,
+      "explanation": "UNICEF का अनुसार विश्व बाल दिवस २० नोभेम्बरमा मनाइन्छ र २०२६ को अभियान नारा “My day, my rights, my future” हो।",
+      "source": "https://www.unicef.org/parenting/world-childrens-day-toolkit"
+    },
+    {
+      "id": "officer-2026-11-18-crc-chronology",
+      "topic": "अन्तर्राष्ट्रिय मानवअधिकार तथा बालअधिकार",
+      "level": "अधिकृत तह",
+      "question": "बालअधिकारसम्बन्धी संयुक्त राष्ट्रसंघीय घोषणापत्र र बालअधिकार महासन्धिको ऐतिहासिक क्रम कुन हो?",
+      "options": [
+        "१९५९: बालअधिकार घोषणापत्र; १९८९: बालअधिकार महासन्धि ग्रहण; १९९०: महासन्धि लागू",
+        "१९५९: बालअधिकार महासन्धि लागू; १९८९: घोषणापत्र ग्रहण; १९९०: महासन्धि हस्ताक्षर",
+        "१९५९: बालअधिकार घोषणापत्र; १९८९: महासन्धि लागू; १९९०: महासन्धि ग्रहण",
+        "१९५९: महासन्धि ग्रहण; १९८९: महासन्धि लागू; १९९०: वैकल्पिक प्रोटोकल ग्रहण"
+      ],
+      "answer": 0,
+      "explanation": "संयुक्त राष्ट्र महासभाले २० नोभेम्बर १९५९ मा बालअधिकार घोषणापत्र र २० नोभेम्बर १९८९ मा बालअधिकार महासन्धि ग्रहण गरेको थियो। महासन्धि २ सेप्टेम्बर १९९० मा लागू भयो।",
+      "source": "https://legal.un.org/avl/ha/crc/crc.html"
     }
   ]
 }
