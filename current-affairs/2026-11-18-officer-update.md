@@ -1,8 +1,8 @@
 ---
-title: "अधिकृत तह दैनिक अपडेट: NRB मौद्रिक सञ्चालन, AMR र ICC छनोट ढाँचा"
+title: "अधिकृत तह दैनिक अपडेट: NRB, AMR, COP31 र अन्तर्राष्ट्रिय दिवस"
 date: "२०८३ मंसिर २ · १८ नोभेम्बर २०२६"
-category: "अर्थतन्त्र, स्वास्थ्य तथा अन्तर्राष्ट्रिय खेलकुद"
-source: "https://www.nrb.org.np/contents/uploads/2026/10/Current-Macroeconomic-and-Financial-Situation-English-Based-on-Two-Months-data-of-2026.27.pdf"
+category: "अर्थतन्त्र, स्वास्थ्य, जलवायु कूटनीति तथा अन्तर्राष्ट्रिय दिवस"
+source: "https://unfccc.int/cop31"
 image: ""
 ---
 
@@ -62,3 +62,48 @@ ICC को १५ नोभेम्बर २०२६ को विवरण�
 - [WHO: Antimicrobial resistance तथ्यपत्र](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance)
 - [ICC: पुरुष विश्वकप २०२७ Qualifier को ढाँचा](https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/path-to-2027-world-cup-qualifier-format-confirmed)
 
+
+## ५. COP31: Antalya मा जलवायु वार्ता र पहिलो मस्यौदा निर्णय
+
+UNFCCC को आधिकारिक विवरणअनुसार **COP31 ९–२० नोभेम्बर २०२६** मा Türkiye को Antalya EXPO Center, Soğucaksu मा आयोजना भइरहेको छ। यस सम्मेलन प्याकेजमा UNFCCC को ३१औँ Conference of the Parties (COP31), क्योटो प्रोटोकलअन्तर्गत २१औँ CMP (CMP21) र पेरिस सम्झौताअन्तर्गत ८औँ CMA (CMA8) सत्र समावेश छन्।
+
+**नेतृत्व र वार्ताको अवस्था**
+- Türkiye का **Murat Kurum** COP31 अध्यक्ष हुन्; Australia का **Chris Bowen** वार्ता अध्यक्ष हुन्।
+- १६ नोभेम्बर २०२६ को पत्रकार सम्मेलनमा वार्ता अध्यक्षले अध्यक्षताद्वारा तयार गरिएको निर्णयको पहिलो मस्यौदा (presidency-led cover decision) सार्वजनिक गरिएको बताए।
+- मस्यौदा चाँडै सार्वजनिक गर्नुको उद्देश्य पक्षहरूलाई छलफल, परामर्श र वार्ताका लागि पर्याप्त समय दिनु थियो; उक्त पाठ पहिलो मस्यौदा थियो, अन्तिम निर्णय होइन।
+- सम्मेलनको बहुपक्षीय वार्तामा जलवायु वित्त, अनुकूलन, न्यूनीकरण, ऊर्जा रूपान्तरण र पेरिस सम्झौताको कार्यान्वयनजस्ता विषय महत्त्वपूर्ण छन्।
+
+**अधिकृत तहका लागि अवधारणा:** COP भनेको UNFCCC का पक्ष राष्ट्रहरूको सम्मेलन हो; CMP ले Kyoto Protocol र CMA ले Paris Agreement का पक्षहरूको बैठकलाई जनाउँछ।
+
+## ६. विश्व शौचालय दिवस २०२६: सुरक्षित सरसफाइ र लैङ्गिक समानता
+
+संयुक्त राष्ट्रसंघले हरेक वर्ष **१९ नोभेम्बर** मा विश्व शौचालय दिवस मनाउँछ। UN-Water ले समन्वय गर्ने यो दिवस सन् २०१३ देखि संयुक्त राष्ट्रसंघीय रूपमा मनाइँदै आएको छ र SDG 6 (Clean Water and Sanitation) सँग प्रत्यक्ष सम्बन्धित छ।
+
+सन् २०२६ को अभियान नारा **“Safe toilets. Equal futures.”** हो। यस वर्षको जोड सुरक्षित सरसफाइले महिला तथा बालिकाको स्वास्थ्य, सुरक्षा, मर्यादा, शिक्षा र सार्वजनिक जीवनमा सहभागितालाई कसरी बलियो बनाउँछ भन्नेमा छ।
+
+**UN DESA को २०२६ विवरणका प्रमुख विश्व तथ्याङ्क**
+- **३.४ अर्ब** मानिस सुरक्षित शौचालयको पहुँचबाहिर छन्।
+- तीमध्ये **३५४ मिलियन** मानिस खुला दिसा गर्छन्।
+- **१.७ अर्ब** मानिससँग घरमा आधारभूत स्वच्छता सेवा उपलब्ध छैन।
+- सन् २०१५ यता १.२ अर्ब मानिसले सुरक्षित शौचालयमा पहुँच प्राप्त गरेका छन्।
+
+**परीक्षोपयोगी भिन्नता:** सुरक्षित शौचालयको पहुँच, खुला दिसा गर्ने जनसंख्या र आधारभूत स्वच्छता सेवाको अभाव फरक सूचक हुन्; यी तथ्यलाई एउटै श्रेणीमा मिसाउनु हुँदैन।
+
+## ७. विश्व बाल दिवस २०२६ र बालअधिकार महासन्धि
+
+UNICEF ले **२० नोभेम्बर** मा विश्व बाल दिवस मनाउँछ। सन् २०२६ को अभियान नारा **“My day, my rights, my future”** हो। यसले बालबालिकाको आवाज सुन्ने, उनीहरूलाई असर गर्ने निर्णयमा सहभागिता गराउने र अधिकारको संरक्षणमा जोड दिन्छ।
+
+**बालअधिकारसम्बन्धी ऐतिहासिक क्रम**
+- २० नोभेम्बर १९५९: संयुक्त राष्ट्र महासभाद्वारा Declaration of the Rights of the Child ग्रहण।
+- २० नोभेम्बर १९८९: Convention on the Rights of the Child (CRC) ग्रहण तथा हस्ताक्षरका लागि खुला।
+- २ सेप्टेम्बर १९९०: CRC लागू।
+
+## आज थपिएका आधिकारिक प्राथमिक स्रोतहरू
+
+- [UNFCCC: COP31 सहभागी सूचना, सत्र, मिति र स्थल](https://unfccc.int/cop31/ifp)
+- [UNFCCC: COP31 उद्घाटन वक्तव्य तथा अध्यक्ष/वार्ता अध्यक्षको भूमिका](https://unfccc.int/news/cop31-must-supercharge-solutions-un-climate-chief-on-opening-day-of-cop31)
+- [UNFCCC: १६ नोभेम्बरको वार्ता अध्यक्षको पत्रकार सम्मेलन प्रतिलिपि](https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations)
+- [UN DESA: World Toilet Day 2026 — Safe Toilets. Equal Futures.](https://desapublications.un.org/un-desa-voice/more-from-undesa/november-2026/world-toilet-day-2026-safe-toilets-equal-futures)
+- [संयुक्त राष्ट्रसंघ: World Toilet Day पृष्ठ](https://www.un.org/en/observances/toilet-day)
+- [UNICEF: World Children’s Day 2026 Toolkit](https://www.unicef.org/parenting/world-childrens-day-toolkit)
+- [UN Legal: Convention on the Rights of the Child — ऐतिहासिक विवरण](https://legal.un.org/avl/ha/crc/crc.html)
