@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T20:45:28.261695+00:00",
-  "total": 1898,
-  "generated_from_news": 1826,
+  "updated": "2026-11-18T21:43:53.626420+00:00",
+  "total": 1902,
+  "generated_from_news": 1830,
   "questions": [
     {
       "id": "constitution-001",
@@ -31225,6 +31225,92 @@
       "news_date": "2026-11-18"
     },
     {
+      "id": "news-date-1789d2a8f70e440fad",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भौगर्भिक सम्मेलन आजदेखि",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१६"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606157/geological-conference-from-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-1789d2a8f70e440fad",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भौगर्भिक सम्मेलन आजदेखि",
+      "options": [
+        "Nepal Samaya",
+        "Himalkhabar",
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606157/geological-conference-from-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-e5a5e6a6582766ea12",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://www.ratopati.com/story/606156/270-million-climate-finance-commitment-at-cop-more-donors-awaited",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-topic-e5a5e6a6582766ea12",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
+      "options": [
+        "वातावरण तथा विपद्",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606156/270-million-climate-finance-commitment-at-cop-more-donors-awaited",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-e5a5e6a6582766ea12",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
+      "options": [
+        "Khabarhub",
+        "Himalkhabar",
+        "The Kathmandu Post",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606156/270-million-climate-finance-commitment-at-cop-more-donors-awaited",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-18"
+    },
+    {
       "id": "news-topic-53f11e4cce6a9b2c86",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31689,24 +31775,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://himalpress.com/2026/11/governments-preparations-to-call-a-parliamentary-session/",
       "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-8f2ebb3fee0b068c75",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — अस्ट्रेलियामा लैङ्गिक पारिश्रमिक असमानता घट्दै",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606125/mbbs-entrance-exam-results-announced-with-results",
-      "news_source": "Ratopati",
       "news_date": "2026-11-18",
       "question_basis": "headline_keyword_classification"
     },
