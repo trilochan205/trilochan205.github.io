@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T17:27:56.940773+00:00",
-  "total": 1828,
-  "generated_from_news": 1747,
+  "updated": "2026-11-19T18:21:01.557659+00:00",
+  "total": 1845,
+  "generated_from_news": 1764,
   "questions": [
     {
       "id": "constitution-001",
@@ -29830,24 +29830,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-2152242de7c0d997fa",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — आयात निर्यातको सहजताका लागि भारतसँग धाम्रा र मुन्द्रा बन्दरगाहको माग गर्नुपर्छ : अध्यक्ष अग्रवाल [भिडियो]",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "अर्थतन्त्र तथा बजेट",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalsamaya.com/detail/147916",
-      "news_source": "Nepal Samaya",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-2152242de7c0d997fa",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -29948,24 +29930,6 @@
       "source": "https://www.ratopati.com/story/606377/medical-education-commission-releases-results-of-bds-integrated-entrance-examination",
       "news_source": "Ratopati",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-712d8e69c72a463926",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — चिकित्सा शिक्षा आयोगद्वारा बीडीएस एकीकृत प्रवेश परीक्षाको नतिजा सार्वजनिक",
-      "options": [
-        "वातावरण तथा विपद्",
-        "शिक्षा",
-        "विज्ञान तथा प्रविधि",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606377/medical-education-commission-releases-results-of-bds-integrated-entrance-examination",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-712d8e69c72a463926",
@@ -30070,6 +30034,451 @@
       "news_date": "2026-11-19"
     },
     {
+      "id": "news-source-43f8d6b59539fa5a0c",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सरकार फेर्न गुण्डु धाउन थाले कोशीका एमाले नेताहरू",
+      "options": [
+        "Nepal Samaya",
+        "NepalNews",
+        "OnlineKhabar",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2061525/uml-leaders-from-koshi-started-to-go-to-the-goondu-to-change-the-government",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-e985cdc80aba85e0fc",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बालेन सरकारबारे चिनियाँ बुझाइ– ‘बीआरआई उच्चारण गर्न अनिच्छुक छ’",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2061514/chinese-understanding-of-the-balen-government-reluctant-to-utter-the-word-bri",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-e985cdc80aba85e0fc",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बालेन सरकारबारे चिनियाँ बुझाइ– ‘बीआरआई उच्चारण गर्न अनिच्छुक छ’",
+      "options": [
+        "Nepal Samaya",
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक",
+        "The Kathmandu Post"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2061514/chinese-understanding-of-the-balen-government-reluctant-to-utter-the-word-bri",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-21cdbb01f3d57a67a2",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — १२ बजे १२ समाचार : भ्रष्टाचार प्रकरणमा तानिँदै नेकपाका नेताहरू, सुनको मूल्य निरन्तर ओरालो",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606375/12-oclock-12-news-ncp-leaders-being-dragged-into-corruption-cases-gold-prices-continue-to-fall",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-21cdbb01f3d57a67a2",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — १२ बजे १२ समाचार : भ्रष्टाचार प्रकरणमा तानिँदै नेकपाका नेताहरू, सुनको मूल्य निरन्तर ओरालो",
+      "options": [
+        "Nepal Samaya",
+        "Himal Press",
+        "Ratopati",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606375/12-oclock-12-news-ncp-leaders-being-dragged-into-corruption-cases-gold-prices-continue-to-fall",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-faa55c04c3432d2fce",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — काठमाडौंमा मङ्सिर ७ देखि जलवायु कार्य सप्ताह हुदैँ [भिडियो]",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalsamaya.com/detail/147922",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-faa55c04c3432d2fce",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — काठमाडौंमा मङ्सिर ७ देखि जलवायु कार्य सप्ताह हुदैँ [भिडियो]",
+      "options": [
+        "वातावरण तथा विपद्",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalsamaya.com/detail/147922",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-faa55c04c3432d2fce",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — काठमाडौंमा मङ्सिर ७ देखि जलवायु कार्य सप्ताह हुदैँ [भिडियो]",
+      "options": [
+        "Ratopati",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक",
+        "Himal Press"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147922",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-0574f5f52aedf7c707",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सुरक्षण मुद्रण केन्द्रद्वारा राहत कोषमा एक करोड पाँच लाख सहयोग",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229613",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-0574f5f52aedf7c707",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सुरक्षण मुद्रण केन्द्रद्वारा राहत कोषमा एक करोड पाँच लाख सहयोग",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Setopati",
+        "Khabarhub",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229613",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-086eca35ac491e49c5",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आगलागीबाट बालआश्रममा एक करोड बढीको क्षति",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606379/fire-damages-orphanage-by-over-rs-10-million",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-086eca35ac491e49c5",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आगलागीबाट बालआश्रममा एक करोड बढीको क्षति",
+      "options": [
+        "NepalNews",
+        "गोरखापत्र दैनिक",
+        "Ratopati",
+        "Setopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606379/fire-damages-orphanage-by-over-rs-10-million",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c2254089559ff9304b",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एन्फामाथिको प्रतिबन्ध फुकुवा गर्न फिफा सकारात्मक",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalnews.com/2026/11/19/fifa-positive-to-lift-ban-on-anfa/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c2254089559ff9304b",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एन्फामाथिको प्रतिबन्ध फुकुवा गर्न फिफा सकारात्मक",
+      "options": [
+        "Khabarhub",
+        "Setopati",
+        "OnlineKhabar",
+        "NepalNews"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/19/fifa-positive-to-lift-ban-on-anfa/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-08b51f79055ed08333",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — लर्ड्समा बंगलादेश र स्कटल्यान्डसँग खेल्दै नेपाल [भिडियो]",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalsamaya.com/detail/147921",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-08b51f79055ed08333",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — लर्ड्समा बंगलादेश र स्कटल्यान्डसँग खेल्दै नेपाल [भिडियो]",
+      "options": [
+        "Setopati",
+        "OnlineKhabar",
+        "Nepal Samaya",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147921",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-8708d41691a1b265ff",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपाल–भारत सम्बन्ध त्यति गहिरो बनिसकेको छैन प्रधानमन्त्रीले थोरै समझदारी बढाउनुहोला : प्राडा बराल [भिडियो]",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalsamaya.com/detail/147920",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-8708d41691a1b265ff",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नेपाल–भारत सम्बन्ध त्यति गहिरो बनिसकेको छैन प्रधानमन्त्रीले थोरै समझदारी बढाउनुहोला : प्राडा बराल [भिडियो]",
+      "options": [
+        "राजनीति तथा शासन",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalsamaya.com/detail/147920",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-8708d41691a1b265ff",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपाल–भारत सम्बन्ध त्यति गहिरो बनिसकेको छैन प्रधानमन्त्रीले थोरै समझदारी बढाउनुहोला : प्राडा बराल [भिडियो]",
+      "options": [
+        "Nepal Samaya",
+        "Khabarhub",
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147920",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c0abb8318d9f714c56",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — महाकाली र जोगबुढा नदीमा वेब क्यामरा जडान",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229612",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c0abb8318d9f714c56",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — महाकाली र जोगबुढा नदीमा वेब क्यामरा जडान",
+      "options": [
+        "Himal Press",
+        "गोरखापत्र दैनिक",
+        "The Kathmandu Post",
+        "Khabarhub"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229612",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-1f75b8bc9362576f50",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — चार वर्षदेखि नबढेको दूधको मूल्य बढाउन डेरी क्षेत्रका सरोकारवालाको सहमति [भिडियो]",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalsamaya.com/detail/147919",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-1f75b8bc9362576f50",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — चार वर्षदेखि नबढेको दूधको मूल्य बढाउन डेरी क्षेत्रका सरोकारवालाको सहमति [भिडियो]",
+      "options": [
+        "Himal Press",
+        "Setopati",
+        "NepalNews",
+        "Nepal Samaya"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147919",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-29c72b2fe8935d610f",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — मानव बेचबिखनसम्बन्धी विधेयकमा लुपहोल नराख्न सभापति अवस्थीको जोड [भिडियो]",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalsamaya.com/detail/147918",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-29c72b2fe8935d610f",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — मानव बेचबिखनसम्बन्धी विधेयकमा लुपहोल नराख्न सभापति अवस्थीको जोड [भिडियो]",
+      "options": [
+        "Nepal Samaya",
+        "Setopati",
+        "The Kathmandu Post",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147918",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-712d8e69c72a463926",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — चिकित्सा शिक्षा आयोगद्वारा बीडीएस एकीकृत प्रवेश परीक्षाको नतिजा सार्वजनिक",
+      "options": [
+        "वातावरण तथा विपद्",
+        "शिक्षा",
+        "विज्ञान तथा प्रविधि",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606377/medical-education-commission-releases-results-of-bds-integrated-entrance-examination",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-43f8d6b59539fa5a0c",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -30086,23 +30495,6 @@
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-19",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-43f8d6b59539fa5a0c",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सरकार फेर्न गुण्डु धाउन थाले कोशीका एमाले नेताहरू",
-      "options": [
-        "Nepal Samaya",
-        "NepalNews",
-        "OnlineKhabar",
-        "Himalkhabar"
-      ],
-      "answer": 2,
-      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
-      "source": "https://www.onlinekhabar.com/2026/11/2061525/uml-leaders-from-koshi-started-to-go-to-the-goondu-to-change-the-government",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19"
     },
     {
       "id": "news-topic-3af14be9f35ba69322",
@@ -30123,23 +30515,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-date-e985cdc80aba85e0fc",
-      "topic": "समाचारको मिति",
-      "level": "समसामयिक",
-      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बालेन सरकारबारे चिनियाँ बुझाइ– ‘बीआरआई उच्चारण गर्न अनिच्छुक छ’",
-      "options": [
-        "ई.सं. २०२६-११-१७",
-        "ई.सं. २०२६-११-२०",
-        "ई.सं. २०२६-११-१८",
-        "ई.सं. २०२६-११-१९"
-      ],
-      "answer": 3,
-      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
-      "source": "https://www.onlinekhabar.com/2026/11/2061514/chinese-understanding-of-the-balen-government-reluctant-to-utter-the-word-bri",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19"
-    },
-    {
       "id": "news-topic-e985cdc80aba85e0fc",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -30156,23 +30531,6 @@
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-19",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-e985cdc80aba85e0fc",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बालेन सरकारबारे चिनियाँ बुझाइ– ‘बीआरआई उच्चारण गर्न अनिच्छुक छ’",
-      "options": [
-        "Nepal Samaya",
-        "OnlineKhabar",
-        "कान्तिपुर दैनिक",
-        "The Kathmandu Post"
-      ],
-      "answer": 1,
-      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
-      "source": "https://www.onlinekhabar.com/2026/11/2061514/chinese-understanding-of-the-balen-government-reluctant-to-utter-the-word-bri",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19"
     },
     {
       "id": "news-topic-0471098a871b9d040c",
@@ -30499,24 +30857,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-0325b8e57adfeecac1",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — चालु आवको तीन महिनाः मुद्रास्फीति ६.३७ प्रतिशत",
-      "options": [
-        "अर्थतन्त्र तथा बजेट",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalsamaya.com/detail/147914",
-      "news_source": "Nepal Samaya",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-3224b864c97273e18e",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -30643,24 +30983,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-746faacd3f2975d7f2",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्री बालेनको भारत भ्रमण : हवाई रुटमा अड्कियो कुरा",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606351/prime-minister-balens-visit-to-india-things-get-stuck-on-the-air-route",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-59d6583dbda17bdc03",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -30733,24 +31055,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-85cc56d9fc1791806e",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सरकारको नीति कार्यान्वयनपछि परिचय फेर्दै हुलाक",
-      "options": [
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति",
-        "शिक्षा"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229602",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-bf9dfe40a6093db666",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -30765,24 +31069,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2061222/shovel-workers-will-receive-a-daily-wage-of-rs-1700-from-mangsir-minister-lamsal",
       "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-663916a42a234802d8",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मधेसलाई सरकारले विशेष प्राथमिकतामा राखेको छ : मन्त्री लम्साल",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalsamaya.com/detail/147912",
-      "news_source": "Nepal Samaya",
       "news_date": "2026-11-19",
       "question_basis": "headline_keyword_classification"
     },
