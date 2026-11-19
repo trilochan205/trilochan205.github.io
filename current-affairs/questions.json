@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T03:20:19.168419+00:00",
-  "total": 552,
-  "generated_from_news": 471,
+  "updated": "2026-11-19T04:30:05.882618+00:00",
+  "total": 657,
+  "generated_from_news": 576,
   "questions": [
     {
       "id": "constitution-001",
@@ -1270,24 +1270,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-8906be36249eec97d2",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रमको भारत भ्रमण र जनअपेक्षा",
-      "options": [
-        "कूटनीति तथा अन्तर्राष्ट्रिय सम्बन्ध",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229538",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-8906be36249eec97d2",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -1422,24 +1404,6 @@
       "source": "https://www.onlinekhabar.com/2026/11/2060753/nepali-students-in-the-uk-decrease-due-to-strict-immigration-policy",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-32b6557429c8afc6ae",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — अध्यागमन कडाइ नीतिले बेलायतमा घटे नेपाली विद्यार्थी",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060753/nepali-students-in-the-uk-decrease-due-to-strict-immigration-policy",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-32b6557429c8afc6ae",
@@ -1610,24 +1574,6 @@
       "source": "https://www.onlinekhabar.com/2026/11/2060746/2060746",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-b740fb1d827fe5c580",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — लाइभ टिभी बहसमै पत्रकार र राजनीतिक विश्लेषकबीच कुटाकुट",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060746/2060746",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-b740fb1d827fe5c580",
@@ -1834,24 +1780,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-53d39ef73527efed30",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मौलिक संस्कृति र परम्परागत सीपलाई उद्यमसँग जोड्दै व्यासको बेनीकोट",
-      "options": [
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/19/1049195/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-53d39ef73527efed30",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -1954,24 +1882,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-ec4532705778dadc9a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — अनुगमन प्रभावकारी नहुँदा खुलमखुला बिक्री भइरहेका छन् गुणस्तरहीन औषधि",
-      "options": [
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606178/substandard-medicines-are-being-sold-openly-due-to-ineffective-monitoring",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-ec4532705778dadc9a",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -2038,24 +1948,6 @@
       "source": "https://gorkhapatraonline.com/news/229534",
       "news_source": "गोरखापत्र दैनिक",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-e89c9238471a64588a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — थारू समुदायको मौलिक वास्तुकला संरक्षणको पहल",
-      "options": [
-        "शिक्षा",
-        "विज्ञान तथा प्रविधि",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229534",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-e89c9238471a64588a",
@@ -2194,24 +2086,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-32ca5f35b30f1eef71",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बाजुरामा अनियन्त्रित ट्याक्टर सडकबाट १५० मिटर तल खस्यो, चालक घाइते",
-      "options": [
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606177/out-of-control-tractor-falls-150-meters-off-road-in-bajura-driver-injured",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-32ca5f35b30f1eef71",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -2278,24 +2152,6 @@
       "source": "https://www.ratopati.com/story/606176/political-conflict-intensifies-in-bangladesh-bomb-blast-in-dhaka-565-arrested",
       "news_source": "Ratopati",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-201ea40b4111180b27",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बङ्गलादेशमा राजनीतिक द्वन्द्व चर्कियो: ढाकामा बम विस्फोट, ५६५ जना पक्राउ",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606176/political-conflict-intensifies-in-bangladesh-bomb-blast-in-dhaka-565-arrested",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-201ea40b4111180b27",
@@ -2604,24 +2460,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-a42b537b6c0391dc58",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
-      "options": [
-        "वातावरण तथा विपद्",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalnews.com/2026/11/19/270-million-climate-finance-commitment-at-cop-more-donors-awaited/",
-      "news_source": "NepalNews",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-a42b537b6c0391dc58",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -2894,24 +2732,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-cda5ef294ecbdefd33",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मध्यावधि निर्वाचनमा रिपब्लिकनको हारपछि मस्कले भने– धेरै पैसा खर्च गरेर मूर्खता गरेछु",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606173/musk-said-after-republicans-defeat-in-midterm-elections-i-was-foolish-to-spend-a-lot-of-money",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-cda5ef294ecbdefd33",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -2978,24 +2798,6 @@
       "source": "https://khabarhub.com/2026/19/1049189/",
       "news_source": "Khabarhub",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-3b025f7bba60c4b31f",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भरतपुर अस्पतालमा बिरामीको घुइँचो : गत वर्षभन्दा १० हजारले बढे सेवाग्राही",
-      "options": [
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/19/1049189/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-3b025f7bba60c4b31f",
@@ -3200,24 +3002,6 @@
       "source": "https://www.onlinekhabar.com/2026/11/2060711/444-meter-long-suspension-bridge-in-operation-in-syangja-reducing-one-hour-journey-to-15-minutes",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-5ee810c7426c982fa0",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — स्याङ्जामा ४४४ मिटर लामो झोलुङ्गे पुल सञ्चालनमा, एक घण्टाको यात्रा १५ मिनेटमा",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060711/444-meter-long-suspension-bridge-in-operation-in-syangja-reducing-one-hour-journey-to-15-minutes",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-5ee810c7426c982fa0",
@@ -3594,24 +3378,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-d3cf40c5ff1fdbd2a7",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — तराईमा हुस्सु लाग्ने, पहाडी र हिमाली क्षेत्रमा मौसम सफा रहने",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "वातावरण तथा विपद्"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalsamaya.com/detail/147901",
-      "news_source": "Nepal Samaya",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-d3cf40c5ff1fdbd2a7",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -3780,24 +3546,6 @@
       "source": "https://nepalnews.com/2026/11/19/birgunj-customs-office-collects-revenue-above-target/",
       "news_source": "NepalNews",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-8f9d1849d2575e7a9c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — वीरगञ्ज भन्सार कार्यालयद्वारा लक्ष्यभन्दा बढी राजस्व संकलन",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "अर्थतन्त्र तथा बजेट",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalnews.com/2026/11/19/birgunj-customs-office-collects-revenue-above-target/",
-      "news_source": "NepalNews",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-8f9d1849d2575e7a9c",
@@ -4106,24 +3854,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-fde37794088d3fdb5e",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — स्थानीय तह चुनावबारे दलहरुसँग छलफल गर्दै निर्वाचन आयोग",
-      "options": [
-        "राजनीति तथा शासन",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060692/election-commission-in-discussions-with-parties-regarding-local-elections",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-fde37794088d3fdb5e",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -4158,24 +3888,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-9ca6c28422ffbefe22",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — यसकारण पक्राउ परे दुई पूर्वमन्त्रीसहित ६ उच्च पदस्थ",
-      "options": [
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/this-is-why-6-high-ranking-officials-including-two-former-ministers-were-arrested/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-9ca6c28422ffbefe22",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -4208,24 +3920,6 @@
       "source": "https://www.ratopati.com/story/606167/patient-pressure-increases-at-bharatpur-hospital",
       "news_source": "Ratopati",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-962dbd09def4a0c8dc",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भरतपुर अस्पतालमा बिरामीको चाप बढ्यो",
-      "options": [
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606167/patient-pressure-increases-at-bharatpur-hospital",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-962dbd09def4a0c8dc",
@@ -4294,24 +3988,6 @@
       "source": "https://nepalnews.com/2026/11/19/todays-weather-hazy-in-the-terai-and-partly-cloudy-in-some-mountainous-areas/",
       "news_source": "NepalNews",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-c4b931df2cafe66a6e",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — आजको मौसम: तराईमा हुस्सु र केही हिमाली क्षेत्रमा आंशिक बदली",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "वातावरण तथा विपद्",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalnews.com/2026/11/19/todays-weather-hazy-in-the-terai-and-partly-cloudy-in-some-mountainous-areas/",
-      "news_source": "NepalNews",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-c4b931df2cafe66a6e",
@@ -4620,24 +4296,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-165d1eea9b4aa86e6d",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — वीरगञ्ज भन्सारको राजस्व संकलन लक्ष्यभन्दा बढी",
-      "options": [
-        "समाज तथा संस्कृति",
-        "अर्थतन्त्र तथा बजेट",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060691/birgunj-customs-revenue-collection-exceeds-target",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-165d1eea9b4aa86e6d",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -4706,24 +4364,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-5fcf67e1ed78e1b77a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — आजको मौसम पूर्वानुमान : तराईमा हुस्सु र उपत्यकामा तुवाँलो",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "वातावरण तथा विपद्"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/19/1049175/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-5fcf67e1ed78e1b77a",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -4758,24 +4398,6 @@
       "news_date": "2026-11-19"
     },
     {
-      "id": "news-topic-cdbba8ba723931a06c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नेपालमा पश्चिमी वायुका साथै ‘अक्वान’ चक्रवातको आंशिक प्रभाव, कस्तो रहला आजको मौसम ?",
-      "options": [
-        "स्वास्थ्य",
-        "वातावरण तथा विपद्",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606162/partial-impact-of-cyclone-akwan-along-with-westerly-winds-in-nepal-what-will-be-the-weather-like-today",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-cdbba8ba723931a06c",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -4808,24 +4430,6 @@
       "source": "https://nepalsamaya.com/detail/147904",
       "news_source": "Nepal Samaya",
       "news_date": "2026-11-19"
-    },
-    {
-      "id": "news-topic-a608cacc3f7a8238de",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मलेसिया श्रमिक ठगी प्रकरण : दुई पूर्वमन्त्रीसहित ६ जना पक्राउ",
-      "options": [
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalsamaya.com/detail/147904",
-      "news_source": "Nepal Samaya",
-      "news_date": "2026-11-19",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-a608cacc3f7a8238de",
@@ -5134,24 +4738,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-e5a5e6a6582766ea12",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
-      "options": [
-        "वातावरण तथा विपद्",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606156/270-million-climate-finance-commitment-at-cop-more-donors-awaited",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-e5a5e6a6582766ea12",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -5254,24 +4840,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-53f11e4cce6a9b2c86",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोप–३३ सम्म जलवायु लक्ष्य कार्यान्वयनमा तीव्रता दिन आग्रह",
-      "options": [
-        "वातावरण तथा विपद्",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606152/urges-to-accelerate-implementation-of-climate-goals-by-cop-33",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-53f11e4cce6a9b2c86",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -5338,24 +4906,6 @@
       "source": "https://www.onlinekhabar.com/2026/11/2059935/nepal-is-unhappy-when-india-does-not-buy-electricity-from-chinese-contractors-seeking-permission-for-balens-visit",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-f562d343644c6eb646",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — चिनियाँ ठेकेदार संलग्न विद्युत् पनि भारतले नकिन्दा नेपाल असन्तुष्ट, बालेनको भ्रमणमा निर्यातको स्वीकृति मागिँदै",
-      "options": [
-        "शिक्षा",
-        "अर्थतन्त्र तथा बजेट",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2059935/nepal-is-unhappy-when-india-does-not-buy-electricity-from-chinese-contractors-seeking-permission-for-balens-visit",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-f562d343644c6eb646",
@@ -5460,24 +5010,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-54447032530d032480",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारतमा १० लाख नेपाली श्रमिक, प्रधानमन्त्रीको भ्रमणमा सधैं बेवास्ता",
-      "options": [
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060651/one-million-nepali-workers-in-india-always-ignored-during-prime-ministers-visit",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-54447032530d032480",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -5544,24 +5076,6 @@
       "source": "https://www.onlinekhabar.com/2026/11/2060395/on-what-basis-did-the-special-court-that-found-the-minister-innocent-find-the-perpetrator-guilty",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-ac5e7089aa6c66e2ec",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मन्त्रीलाई निर्दोष ठहर गर्ने विशेष अदालतले के आधारमा कार्यान्वयनकर्तालाई दोषी देख्यो ?",
-      "options": [
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060395/on-what-basis-did-the-special-court-that-found-the-minister-innocent-find-the-perpetrator-guilty",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-ac5e7089aa6c66e2ec",
@@ -5666,24 +5180,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-0376f73a91b7e0abe5",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — द्रुतमार्गमा सेना र निर्माण कम्पनीलाई सरकारको खबरदारी, ३ वर्षमा सकिएला आधा काम ?",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060476/government-warns-army-and-construction-companies-on-fast-track-half-of-the-work-will-be-completed-in-3-years",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-0376f73a91b7e0abe5",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -5752,24 +5248,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-fd7d44209a63ff9170",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बालेनको भ्रमण पूर्वसन्ध्यामा भारतले दियो ६१५ मेगावाट विद्युत् निर्यात अनुमति",
-      "options": [
-        "अर्थतन्त्र तथा बजेट",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060677/india-grants-permission-to-export-an-additional-615-megawatts-of-electricity-on-the-eve-of-balens-visit",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-fd7d44209a63ff9170",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -5836,24 +5314,6 @@
       "source": "https://himalpress.com/2026/11/prime-minister-balens-visit-to-india-towards-economic-cooperation-overcoming-old-misunderstandings/",
       "news_source": "Himal Press",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-aa34a755461e80343d",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्री बालेनको भारत भ्रमण : पुराना असमझदारी चिर्दै आर्थिक सहकार्यतर्फ",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/prime-minister-balens-visit-to-india-towards-economic-cooperation-overcoming-old-misunderstandings/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-aa34a755461e80343d",
@@ -5958,24 +5418,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-1b1f658d50024c4a00",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — राष्ट्रिय भेलामा ओलीको सन्देश : एमाले फेरि उठ्छ, सरकारमा फर्कन्छ",
-      "options": [
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060617/olis-message-at-the-national-gathering-uml-will-rise-again-return-to-government",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-1b1f658d50024c4a00",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -6008,24 +5450,6 @@
       "source": "https://www.onlinekhabar.com/2026/11/2060664/malaysia-labor-fraud-case-6-people-including-two-former-ministers-arrested",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-f827fab2c7d7ca42b9",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मलेसिया श्रमिक ठगी प्रकरण : दुई पूर्वमन्त्रीसहित ६ जना पक्राउ",
-      "options": [
-        "शिक्षा",
-        "राजनीति तथा शासन",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2060664/malaysia-labor-fraud-case-6-people-including-two-former-ministers-arrested",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-f827fab2c7d7ca42b9",
@@ -6094,24 +5518,6 @@
       "source": "https://himalpress.com/2026/11/governments-preparations-to-call-a-parliamentary-session/",
       "news_source": "Himal Press",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-e102332533d006bb56",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — संसद् अधिवेशन आह्वान गर्ने सरकारको तयारी",
-      "options": [
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/governments-preparations-to-call-a-parliamentary-session/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-e102332533d006bb56",
@@ -6250,24 +5656,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-63457f2be03e1bc9fa",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — तातोपानी नाका तत्काल खुलाउन चिनियाँ पक्षसँग परराष्ट्रमन्त्रीको आग्रह",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/foreign-minister-urges-chinese-side-to-immediately-open-tatopani-border-crossing/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-63457f2be03e1bc9fa",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -6300,24 +5688,6 @@
       "source": "https://himalpress.com/2026/11/foreign-investment-commitments-drop-by-46-7-percent/",
       "news_source": "Himal Press",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-0f4f58e66ec7567b9c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विदेशी लगानी प्रतिबद्धता ४६.७ प्रतिशतले घट्यो",
-      "options": [
-        "शिक्षा",
-        "अर्थतन्त्र तथा बजेट",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/foreign-investment-commitments-drop-by-46-7-percent/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-0f4f58e66ec7567b9c",
@@ -6454,24 +5824,6 @@
       "source": "https://himalpress.com/2026/11/government-calls-for-proposals-to-develop-innovative-technology-to-control-monkey-terror/",
       "news_source": "Himal Press",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-fceff05429922c984c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बाँदर आतंक नियन्त्रणका लागि नवीन प्रविधि विकास गर्न प्रस्ताव आह्वान",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/government-calls-for-proposals-to-develop-innovative-technology-to-control-monkey-terror/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-fceff05429922c984c",
@@ -6644,24 +5996,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-d03be54de62194864a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘प्रचण्ड बाजे’ भनेर ‘भाइरल’ बनेकी किशोरीको पहलमा बन्यो पुल",
-      "options": [
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "पूर्वाधार तथा यातायात"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/bridge-built-on-the-initiative-of-a-teenager-who-went-viral-as-prachanda-baje/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-d03be54de62194864a",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -6764,24 +6098,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-36efb7af1fd7746831",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्री शाहको भारत भ्रमणको तयारीबारे भारतीय राजदूतसँग छलफल",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/discussion-with-indian-ambassador-on-preparations-for-prime-minister-shahs-visit-to-india/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-36efb7af1fd7746831",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -6814,24 +6130,6 @@
       "source": "https://himalpress.com/2026/11/teachers-and-students-of-jeevan-jyoti-secondary-school-harvesting-rice-under-the-earning-while-studying-program/",
       "news_source": "Himal Press",
       "news_date": "2026-11-18"
-    },
-    {
-      "id": "news-topic-5615b0542888fb8525",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘पढ्दै कमाउँदै’ कार्यक्रमअन्तर्गत धान काट्दै जीवनज्योति माविका शिक्षक, विद्यार्थी",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/teachers-and-students-of-jeevan-jyoti-secondary-school-harvesting-rice-under-the-earning-while-studying-program/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-5615b0542888fb8525",
@@ -7072,24 +6370,6 @@
       "news_date": "2026-11-18"
     },
     {
-      "id": "news-topic-bd0b3a39e5caad777b",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विद्यार्थीका माग सम्बोधन गर्ने सहमति, नेशनल मेडिकल कलेजका रेजिडेन्ट डाक्टरको आन्दोलन स्थगित",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://himalpress.com/2026/11/agreement-to-address-student-demands-national-medical-college-resident-doctors-protest-postponed/",
-      "news_source": "Himal Press",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-bd0b3a39e5caad777b",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -7190,24 +6470,6 @@
       "source": "https://www.himalkhabar.com/145019",
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15"
-    },
-    {
-      "id": "news-topic-9b6bcbae1099ba85fe",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कर्णालीको कहर कम गर्ने सडक सञ्जाल",
-      "options": [
-        "शिक्षा",
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.himalkhabar.com/145019",
-      "news_source": "Himalkhabar",
-      "news_date": "2026-11-15",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-9b6bcbae1099ba85fe",
@@ -9263,6 +8525,2525 @@
       "answer": 3,
       "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
       "source": "https://kathmandupost.com/climate-environment/2026/11/17/nepali-youth-press-cop31-presidency-for-grants-to-rebuild-after-disasters",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-date-c8a47019a56df572d1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कार्यकर्ता अनुशासनमा नबसेपछि ओलीले भने– एमालेको राष्ट्रिय भेला हाटबजार होइन",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606192/after-workers-failed-to-maintain-discipline-oli-said-umls-national-gathering-is-not-a-bazaar",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c8a47019a56df572d1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कार्यकर्ता अनुशासनमा नबसेपछि ओलीले भने– एमालेको राष्ट्रिय भेला हाटबजार होइन",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Nepal Samaya",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606192/after-workers-failed-to-maintain-discipline-oli-said-umls-national-gathering-is-not-a-bazaar",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-2843b9533c83c03da8",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पुल नबन्दा सधैँ सास्ती",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229555",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-2843b9533c83c03da8",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — पुल नबन्दा सधैँ सास्ती",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "पूर्वाधार तथा यातायात"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229555",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-2843b9533c83c03da8",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पुल नबन्दा सधैँ सास्ती",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229555",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-ab295b0c76aae365bb",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कम्युनिष्टका छोराको औसत गुनासो",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.himalkhabar.com/145025",
+      "news_source": "Himalkhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-ab295b0c76aae365bb",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कम्युनिष्टका छोराको औसत गुनासो",
+      "options": [
+        "OnlineKhabar",
+        "Himalkhabar",
+        "Setopati",
+        "Ratopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Himalkhabar हो।",
+      "source": "https://www.himalkhabar.com/145025",
+      "news_source": "Himalkhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-7b2f0ab7d0cb8c815a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — उद्योगी व्यवसायीको सानो टोली लैजाने तयारी",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606191/preparations-to-take-a-small-team-of-industrialists-and-businessmen",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-7b2f0ab7d0cb8c815a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — उद्योगी व्यवसायीको सानो टोली लैजाने तयारी",
+      "options": [
+        "Ratopati",
+        "OnlineKhabar",
+        "Setopati",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606191/preparations-to-take-a-small-team-of-industrialists-and-businessmen",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-ede64360cff2fc02ac",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भीमफेदीमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, ७ जना घाइते",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229554",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-ede64360cff2fc02ac",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भीमफेदीमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, ७ जना घाइते",
+      "options": [
+        "Himal Press",
+        "OnlineKhabar",
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229554",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-a0ff82c64b017f4e59",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भीमफेदी जिप दुर्घटना अपडेट : तीन जनाको मृत्यु",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060800/bhimphedi-jeep-accident-update-three-people-killed",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-a0ff82c64b017f4e59",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भीमफेदी जिप दुर्घटना अपडेट : तीन जनाको मृत्यु",
+      "options": [
+        "The Kathmandu Post",
+        "Himalkhabar",
+        "OnlineKhabar",
+        "Setopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060800/bhimphedi-jeep-accident-update-three-people-killed",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-cbc99a932c6f5db679",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — धान काट्ने मेसिनमा मोटरसाइकल ठोक्किँदा दुई युवकको मृत्यु",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049223/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-cbc99a932c6f5db679",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — धान काट्ने मेसिनमा मोटरसाइकल ठोक्किँदा दुई युवकको मृत्यु",
+      "options": [
+        "Ratopati",
+        "Khabarhub",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049223/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-29d90e26a587ebe0fb",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भीमफेदीमा सडकबाट भैसे खोलामा खस्यो गाडी, ३ जनाको मृत्यु",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.setopati.com/social/402894",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-29d90e26a587ebe0fb",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भीमफेदीमा सडकबाट भैसे खोलामा खस्यो गाडी, ३ जनाको मृत्यु",
+      "options": [
+        "स्वास्थ्य",
+        "पूर्वाधार तथा यातायात",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.setopati.com/social/402894",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-29d90e26a587ebe0fb",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भीमफेदीमा सडकबाट भैसे खोलामा खस्यो गाडी, ३ जनाको मृत्यु",
+      "options": [
+        "Himal Press",
+        "OnlineKhabar",
+        "NepalNews",
+        "Setopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/social/402894",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-30f2e28d2cdd877948",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नाका स्तरोन्नतिलाई भ्रमण कार्यसूचीमा समेट्न आग्रह",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229553",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-30f2e28d2cdd877948",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नाका स्तरोन्नतिलाई भ्रमण कार्यसूचीमा समेट्न आग्रह",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "The Kathmandu Post",
+        "Setopati",
+        "Himalkhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229553",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c58997492d20fef186",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आगामी निर्वाचनमा फासीवादी, पपुलिस्ट र लोकतान्त्रिक शक्तिबिच भीषण सङ्घर्ष हुनेछ : बादल",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606190/there-will-be-a-fierce-struggle-between-fascist-populist-and-democratic-forces-in-the-upcoming-elections-badal",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c58997492d20fef186",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आगामी निर्वाचनमा फासीवादी, पपुलिस्ट र लोकतान्त्रिक शक्तिबिच भीषण सङ्घर्ष हुनेछ : बादल",
+      "options": [
+        "Nepal Samaya",
+        "The Kathmandu Post",
+        "Ratopati",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606190/there-will-be-a-fierce-struggle-between-fascist-populist-and-democratic-forces-in-the-upcoming-elections-badal",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-59562284ca1ba1f7ea",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भीमफेदीमा फेरि गाडी दुर्घटना : १० जना घाइते",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://himalpress.com/2026/11/another-vehicle-accident-in-bhimphedi-10-injured/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-59562284ca1ba1f7ea",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भीमफेदीमा फेरि गाडी दुर्घटना : १० जना घाइते",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "NepalNews",
+        "Himal Press",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/another-vehicle-accident-in-bhimphedi-10-injured/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-9ecfb4d0982bdf9892",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — रिपब्लिकन उम्मेदवारलाई सघाउन ५० करोड डलर खर्च गर्नु मूर्खता थियो : एलन मस्क",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060790/spending-500-million-to-support-republican-candidate-was-foolish-elon-musk",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-9ecfb4d0982bdf9892",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — रिपब्लिकन उम्मेदवारलाई सघाउन ५० करोड डलर खर्च गर्नु मूर्खता थियो : एलन मस्क",
+      "options": [
+        "OnlineKhabar",
+        "Himal Press",
+        "Setopati",
+        "The Kathmandu Post"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060790/spending-500-million-to-support-republican-candidate-was-foolish-elon-musk",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-1fd4eb12cc09c79b95",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भैंसेमा दुर्घटना भएको सुमोका चालकले भने– झ्याप्प आँखा बन्द भयो, केही देखिनँ",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606189/sumo-driver-who-crashed-in-buffalo-says-his-eyes-suddenly-closed-he-couldnt-see-anything",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-1fd4eb12cc09c79b95",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भैंसेमा दुर्घटना भएको सुमोका चालकले भने– झ्याप्प आँखा बन्द भयो, केही देखिनँ",
+      "options": [
+        "Ratopati",
+        "The Kathmandu Post",
+        "Nepal Samaya",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606189/sumo-driver-who-crashed-in-buffalo-says-his-eyes-suddenly-closed-he-couldnt-see-anything",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c8e816f7034b8b2299",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — धान उत्पादनमा वृद्धि",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229552",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c8e816f7034b8b2299",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — धान उत्पादनमा वृद्धि",
+      "options": [
+        "Setopati",
+        "NepalNews",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229552",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-b1105027dffce2a2e8",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — घरधनी पर्खिरहेका रित्ता घर : बसाइँसराइको चपेटामा नुवाकोट",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060639/empty-houses-waiting-for-owners-nuwakot-in-the-grip-of-displacement",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-b1105027dffce2a2e8",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — घरधनी पर्खिरहेका रित्ता घर : बसाइँसराइको चपेटामा नुवाकोट",
+      "options": [
+        "OnlineKhabar",
+        "Ratopati",
+        "NepalNews",
+        "Nepal Samaya"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060639/empty-houses-waiting-for-owners-nuwakot-in-the-grip-of-displacement",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-d09206466916a15fb0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘मृत्यु मार्ग’",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalnews.com/2026/11/19/death-road/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-d09206466916a15fb0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘मृत्यु मार्ग’",
+      "options": [
+        "NepalNews",
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/19/death-road/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c69e9f3e8326178bce",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपाली गाउँ जान भारतकै भर",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229551",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c69e9f3e8326178bce",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपाली गाउँ जान भारतकै भर",
+      "options": [
+        "Setopati",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक",
+        "OnlineKhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229551",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-f1417645196cf299d8",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — धान काट्ने मेसिनमा मोटरसाइकल ठोक्कियो, दुई युवकको मृत्यु",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606188/two-youths-die-after-motorcycle-crashes-into-rice-harvester",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-f1417645196cf299d8",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — धान काट्ने मेसिनमा मोटरसाइकल ठोक्कियो, दुई युवकको मृत्यु",
+      "options": [
+        "Himal Press",
+        "Ratopati",
+        "Khabarhub",
+        "Nepal Samaya"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606188/two-youths-die-after-motorcycle-crashes-into-rice-harvester",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-5ce97571146b28ce5c",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — हेटौँडाबाट काठमाडौँ आउँदै गरेको जिप राप्ती खोलामा खस्यो, १० जना घाइते",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049218/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-5ce97571146b28ce5c",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — हेटौँडाबाट काठमाडौँ आउँदै गरेको जिप राप्ती खोलामा खस्यो, १० जना घाइते",
+      "options": [
+        "Nepal Samaya",
+        "Khabarhub",
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049218/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-b6df6bcd2f5cd1ae65",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — डायलासिस मेसिन र जनशक्ति अभावले बिरामी मर्कामा",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229550",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-b6df6bcd2f5cd1ae65",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — डायलासिस मेसिन र जनशक्ति अभावले बिरामी मर्कामा",
+      "options": [
+        "Ratopati",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक",
+        "The Kathmandu Post"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229550",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-45a549e117b6fba4de",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सिरहामा ७ ग्राम खैरो हेरोइनसहित २४ वर्षीय युवक पक्राउ",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606187/24-year-old-youth-arrested-with-7-grams-of-brown-heroin-in-siraha",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-45a549e117b6fba4de",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सिरहामा ७ ग्राम खैरो हेरोइनसहित २४ वर्षीय युवक पक्राउ",
+      "options": [
+        "Nepal Samaya",
+        "Ratopati",
+        "Khabarhub",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606187/24-year-old-youth-arrested-with-7-grams-of-brown-heroin-in-siraha",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-3d41dd7a8715925aea",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — मंसिर ८ गते पुनर्गठन दिवस मनाउँदै विप्लवको पार्टी",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060785/biplavs-party-celebrating-reorganization-day-on-november-21",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-3d41dd7a8715925aea",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — मंसिर ८ गते पुनर्गठन दिवस मनाउँदै विप्लवको पार्टी",
+      "options": [
+        "OnlineKhabar",
+        "Setopati",
+        "गोरखापत्र दैनिक",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060785/biplavs-party-celebrating-reorganization-day-on-november-21",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-52e15185d803025ce3",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पर्यटकीय आकर्षण बन्दै कर्णाली पुल",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229549",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-52e15185d803025ce3",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — पर्यटकीय आकर्षण बन्दै कर्णाली पुल",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "पूर्वाधार तथा यातायात",
+        "शिक्षा"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229549",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-52e15185d803025ce3",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पर्यटकीय आकर्षण बन्दै कर्णाली पुल",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Ratopati",
+        "Khabarhub",
+        "Setopati"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229549",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-a01ac7010a994de648",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एमालेको राष्ट्रिय भेला : दोस्रो दिनको बन्द सत्र सुरु",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606186/uml-national-gathering-second-days-closed-session-begins",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-a01ac7010a994de648",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एमालेको राष्ट्रिय भेला : दोस्रो दिनको बन्द सत्र सुरु",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "The Kathmandu Post",
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606186/uml-national-gathering-second-days-closed-session-begins",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-6e8f0ab14bd6eadb8b",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बंगलादेशमा तनाव चुलियो, मोहम्मद युनुसको घरमा आगजनी",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049215/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-6e8f0ab14bd6eadb8b",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बंगलादेशमा तनाव चुलियो, मोहम्मद युनुसको घरमा आगजनी",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "The Kathmandu Post",
+        "Nepal Samaya",
+        "Khabarhub"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049215/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-4a72d2824ec9d25614",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भीमफेदीमा जिप दुर्घटना हुँदा १० जना घाइते, दुईको अवस्था अचेत",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060779/9-injured-two-unconscious-in-jeep-accident-in-bhimphedi",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-4a72d2824ec9d25614",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भीमफेदीमा जिप दुर्घटना हुँदा १० जना घाइते, दुईको अवस्था अचेत",
+      "options": [
+        "Himalkhabar",
+        "Setopati",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060779/9-injured-two-unconscious-in-jeep-accident-in-bhimphedi",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-04878d2aa0c63bdec4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — दुई हजारभन्दा बढी मतदाताको नाम हटाइयो",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229548",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-04878d2aa0c63bdec4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — दुई हजारभन्दा बढी मतदाताको नाम हटाइयो",
+      "options": [
+        "Himalkhabar",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक",
+        "Ratopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229548",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-082a4a7bcc95906837",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — चितुवा र दुम्सीको आतंकले किसान चिन्तित",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalnews.com/2026/11/19/farmers-worried-about-leopard-and-hyena-threat/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-082a4a7bcc95906837",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — चितुवा र दुम्सीको आतंकले किसान चिन्तित",
+      "options": [
+        "Ratopati",
+        "NepalNews",
+        "Himal Press",
+        "OnlineKhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/19/farmers-worried-about-leopard-and-hyena-threat/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-7588400ec983c6d0e4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — इन्धन चोरी गर्ने एक व्यक्तिसहित दुई ट्याङ्कर प्रहरी नियन्त्रणमा",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229547",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-7588400ec983c6d0e4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — इन्धन चोरी गर्ने एक व्यक्तिसहित दुई ट्याङ्कर प्रहरी नियन्त्रणमा",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Khabarhub",
+        "कान्तिपुर दैनिक",
+        "NepalNews"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229547",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-1c189c973c29c0d173",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — घोराही–तुलसीपुर चार लेन सडक : एक वर्षमा १७ प्रतिशत प्रगति",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229546",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-1c189c973c29c0d173",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — घोराही–तुलसीपुर चार लेन सडक : एक वर्षमा १७ प्रतिशत प्रगति",
+      "options": [
+        "शिक्षा",
+        "पूर्वाधार तथा यातायात",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229546",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-1c189c973c29c0d173",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — घोराही–तुलसीपुर चार लेन सडक : एक वर्षमा १७ प्रतिशत प्रगति",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Ratopati",
+        "Himal Press",
+        "NepalNews"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229546",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-20eae32ae384120abb",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विद्युत प्राधिकरणले अगाडि बढायाे पीपीए, पहिलो चरणमा एक हजार मेगावाट क्षमताका सरकारी कम्पनीसँग हुने",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606185/nepal-electricity-authority-moves-forward-with-ppa-first-phase-to-be-with-government-company-with-1000-mw-capacity",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-20eae32ae384120abb",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विद्युत प्राधिकरणले अगाडि बढायाे पीपीए, पहिलो चरणमा एक हजार मेगावाट क्षमताका सरकारी कम्पनीसँग हुने",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606185/nepal-electricity-authority-moves-forward-with-ppa-first-phase-to-be-with-government-company-with-1000-mw-capacity",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-20eae32ae384120abb",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विद्युत प्राधिकरणले अगाडि बढायाे पीपीए, पहिलो चरणमा एक हजार मेगावाट क्षमताका सरकारी कम्पनीसँग हुने",
+      "options": [
+        "Khabarhub",
+        "Ratopati",
+        "Setopati",
+        "Nepal Samaya"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606185/nepal-electricity-authority-moves-forward-with-ppa-first-phase-to-be-with-government-company-with-1000-mw-capacity",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-616c208317ac331770",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — राप्रपामा ४० वर्षमुनिका २० युवा केन्द्रीय सदस्य निर्वाचित गर्ने प्रस्ताव",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060776/proposal-to-elect-20-young-people-under-the-age-of-40-to-central-committee-members-in-rpp",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-616c208317ac331770",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — राप्रपामा ४० वर्षमुनिका २० युवा केन्द्रीय सदस्य निर्वाचित गर्ने प्रस्ताव",
+      "options": [
+        "Himalkhabar",
+        "कान्तिपुर दैनिक",
+        "NepalNews",
+        "OnlineKhabar"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060776/proposal-to-elect-20-young-people-under-the-age-of-40-to-central-committee-members-in-rpp",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c3cebfcfac13e5f38c",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बक्यौता तिर्न र अनुमतिपत्र नवीकरण गर्न २९ कम्पनीलाई प्राधिकरणको १५ दिने अल्टिमेटम",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049210/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c3cebfcfac13e5f38c",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बक्यौता तिर्न र अनुमतिपत्र नवीकरण गर्न २९ कम्पनीलाई प्राधिकरणको १५ दिने अल्टिमेटम",
+      "options": [
+        "OnlineKhabar",
+        "The Kathmandu Post",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049210/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-bd6cbc25698bd7f4c0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ३ महिनामा कुन क्षेत्रका लगानीकर्तालाई भयो सबभन्दा धेरै घाटा?",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.setopati.com/kinmel/banking/402879",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-bd6cbc25698bd7f4c0",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ३ महिनामा कुन क्षेत्रका लगानीकर्तालाई भयो सबभन्दा धेरै घाटा?",
+      "options": [
+        "अर्थतन्त्र तथा बजेट",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.setopati.com/kinmel/banking/402879",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-bd6cbc25698bd7f4c0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ३ महिनामा कुन क्षेत्रका लगानीकर्तालाई भयो सबभन्दा धेरै घाटा?",
+      "options": [
+        "NepalNews",
+        "The Kathmandu Post",
+        "Setopati",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/kinmel/banking/402879",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-2c1f0696acd5eeaffe",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सिद्धार्थ राजमार्ग : ५० वर्षअघि भारतले बनाइदियो, विस्तारमा उसैलाई गुहार्दै सरकार",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060586/siddhartha-highway-india-built-it-50-years-ago-government-is-relying-on-it-for-expansion",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-2c1f0696acd5eeaffe",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सिद्धार्थ राजमार्ग : ५० वर्षअघि भारतले बनाइदियो, विस्तारमा उसैलाई गुहार्दै सरकार",
+      "options": [
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060586/siddhartha-highway-india-built-it-50-years-ago-government-is-relying-on-it-for-expansion",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-2c1f0696acd5eeaffe",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सिद्धार्थ राजमार्ग : ५० वर्षअघि भारतले बनाइदियो, विस्तारमा उसैलाई गुहार्दै सरकार",
+      "options": [
+        "OnlineKhabar",
+        "Setopati",
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060586/siddhartha-highway-india-built-it-50-years-ago-government-is-relying-on-it-for-expansion",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-e586c2a35a92ea32ef",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एक हजार मेगावाट क्षमताका सरकारी आयोजनासँग पिपिए हुँदै",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.setopati.com/kinmel/medical/402890",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-e586c2a35a92ea32ef",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एक हजार मेगावाट क्षमताका सरकारी आयोजनासँग पिपिए हुँदै",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.setopati.com/kinmel/medical/402890",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-e586c2a35a92ea32ef",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एक हजार मेगावाट क्षमताका सरकारी आयोजनासँग पिपिए हुँदै",
+      "options": [
+        "Setopati",
+        "Himalkhabar",
+        "Himal Press",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/kinmel/medical/402890",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-a5e050f34458aafa8e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सल्यानमा ठडियो पूर्वप्रधानमन्त्री मरिचमानको शालिक",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060757/statue-of-former-prime-minister-marichman-erected-in-salyan",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-a5e050f34458aafa8e",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सल्यानमा ठडियो पूर्वप्रधानमन्त्री मरिचमानको शालिक",
+      "options": [
+        "स्वास्थ्य",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060757/statue-of-former-prime-minister-marichman-erected-in-salyan",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-a5e050f34458aafa8e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सल्यानमा ठडियो पूर्वप्रधानमन्त्री मरिचमानको शालिक",
+      "options": [
+        "Khabarhub",
+        "Himalkhabar",
+        "Nepal Samaya",
+        "OnlineKhabar"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060757/statue-of-former-prime-minister-marichman-erected-in-salyan",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-499c502bb7882b2f0f",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — मकवानपुरको भीमफेदीमा सुमो दुर्घटना, ३ जनाको मृत्यु",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606184/vehicle-accident-in-bhaise-makawanpur-human-casualties-suspected",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-499c502bb7882b2f0f",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — मकवानपुरको भीमफेदीमा सुमो दुर्घटना, ३ जनाको मृत्यु",
+      "options": [
+        "Nepal Samaya",
+        "Ratopati",
+        "Himalkhabar",
+        "Setopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606184/vehicle-accident-in-bhaise-makawanpur-human-casualties-suspected",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-9bab8ed7c3cf8d82d2",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — दुबई भ्रमण सकेर स्वदेश फर्किए गृहमन्त्री गुरुङ",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalnews.com/2026/11/19/home-minister-gurung-returns-home-after-dubai-visit/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-9bab8ed7c3cf8d82d2",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — दुबई भ्रमण सकेर स्वदेश फर्किए गृहमन्त्री गुरुङ",
+      "options": [
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/19/home-minister-gurung-returns-home-after-dubai-visit/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-9bab8ed7c3cf8d82d2",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — दुबई भ्रमण सकेर स्वदेश फर्किए गृहमन्त्री गुरुङ",
+      "options": [
+        "NepalNews",
+        "Nepal Samaya",
+        "Himal Press",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/19/home-minister-gurung-returns-home-after-dubai-visit/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-f5ff31e7254973be8b",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — काठमाडौं र ललितपुरका विभिन्न ठाउँमा १२ दिन विद्युत अवरूद्ध हुने",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.setopati.com/social/402889",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-f5ff31e7254973be8b",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — काठमाडौं र ललितपुरका विभिन्न ठाउँमा १२ दिन विद्युत अवरूद्ध हुने",
+      "options": [
+        "Khabarhub",
+        "Setopati",
+        "NepalNews",
+        "The Kathmandu Post"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/social/402889",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-6411a565351eefc7c4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — राप्रपा महाधिवेशनबाट ४० वर्षमुनिका २० युवा केन्द्रीय सदस्य निर्वाचित गर्ने प्रस्ताव",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.setopati.com/politics/402891",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-6411a565351eefc7c4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — राप्रपा महाधिवेशनबाट ४० वर्षमुनिका २० युवा केन्द्रीय सदस्य निर्वाचित गर्ने प्रस्ताव",
+      "options": [
+        "OnlineKhabar",
+        "Khabarhub",
+        "NepalNews",
+        "Setopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/politics/402891",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-a71d5be63bd605c1df",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — रुस भ्रमण सकेर नेपाल आइपुगे प्रचण्ड",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://himalpress.com/2026/11/prachanda-arrives-in-nepal-after-visiting-russia/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-a71d5be63bd605c1df",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — रुस भ्रमण सकेर नेपाल आइपुगे प्रचण्ड",
+      "options": [
+        "Himal Press",
+        "NepalNews",
+        "Setopati",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/prachanda-arrives-in-nepal-after-visiting-russia/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-33d4ee8b96d9702d35",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एसिया–प्रशान्त सहयोगका लागि २ करोड अमेरिकी डलर खर्च गर्ने सीको घोषणा",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049207/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-33d4ee8b96d9702d35",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एसिया–प्रशान्त सहयोगका लागि २ करोड अमेरिकी डलर खर्च गर्ने सीको घोषणा",
+      "options": [
+        "Ratopati",
+        "OnlineKhabar",
+        "Khabarhub",
+        "NepalNews"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049207/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-bb5648043f4f9fca2f",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेकपा संयोजक प्रचण्ड स्वदेश फिर्ता",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606183/ncp-coordinator-prachanda-returns-home",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-bb5648043f4f9fca2f",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेकपा संयोजक प्रचण्ड स्वदेश फिर्ता",
+      "options": [
+        "Nepal Samaya",
+        "Himal Press",
+        "कान्तिपुर दैनिक",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606183/ncp-coordinator-prachanda-returns-home",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-2514ece1b40f7921fb",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपाली कांग्रेस देउवा समूहको सुनसरी सभापतिमा सन्दीप श्रेष्ठ",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalsamaya.com/detail/147907",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-2514ece1b40f7921fb",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपाली कांग्रेस देउवा समूहको सुनसरी सभापतिमा सन्दीप श्रेष्ठ",
+      "options": [
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक",
+        "NepalNews",
+        "Himalkhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147907",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-8a19b4b342ff463689",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ऊर्जामन्त्रीको निर्देशनमा सरकारी कम्पनीसँग एक हजार मेगावाटको पीपीए प्रक्रिया सुरु",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalnews.com/2026/11/19/under-the-direction-of-the-energy-minister-the-ppa-process-for-1000-mw-with-a-government-company-has-begun/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-8a19b4b342ff463689",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ऊर्जामन्त्रीको निर्देशनमा सरकारी कम्पनीसँग एक हजार मेगावाटको पीपीए प्रक्रिया सुरु",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/19/under-the-direction-of-the-energy-minister-the-ppa-process-for-1000-mw-with-a-government-company-has-begun/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-8a19b4b342ff463689",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ऊर्जामन्त्रीको निर्देशनमा सरकारी कम्पनीसँग एक हजार मेगावाटको पीपीए प्रक्रिया सुरु",
+      "options": [
+        "Setopati",
+        "NepalNews",
+        "Ratopati",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/19/under-the-direction-of-the-energy-minister-the-ppa-process-for-1000-mw-with-a-government-company-has-begun/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-288107b6fc21c9bba2",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — चितुवा र दुम्सीको आतंकले जैमिनीका किसानलाई पशुपालन र खेती गर्नै मुस्किल",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049204/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-288107b6fc21c9bba2",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — चितुवा र दुम्सीको आतंकले जैमिनीका किसानलाई पशुपालन र खेती गर्नै मुस्किल",
+      "options": [
+        "Khabarhub",
+        "कान्तिपुर दैनिक",
+        "OnlineKhabar",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049204/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-a2bf5458ad0a8017c8",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — काठमाडौँका सार्वजनिक शौचालयको बेहाल, छिर्नै मुस्किल (तस्बिरहरू)",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606182/kathmandus-public-toilets-are-in-poor-condition-making-it-difficult-to-enter-photos",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-a2bf5458ad0a8017c8",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — काठमाडौँका सार्वजनिक शौचालयको बेहाल, छिर्नै मुस्किल (तस्बिरहरू)",
+      "options": [
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक",
+        "NepalNews"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606182/kathmandus-public-toilets-are-in-poor-condition-making-it-difficult-to-enter-photos",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-66b1c09f4e29816337",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एन्थ्रोपिकले जुटायो इतिहासकै सबैभन्दा ठूलो ८१.३ अर्ब डलरको आईपीओ",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060765/anthropic-raises-81-3-billion-in-largest-ipo-in-history",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-66b1c09f4e29816337",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एन्थ्रोपिकले जुटायो इतिहासकै सबैभन्दा ठूलो ८१.३ अर्ब डलरको आईपीओ",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya",
+        "OnlineKhabar",
+        "Khabarhub"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060765/anthropic-raises-81-3-billion-in-largest-ipo-in-history",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-9c0d2e7a50f7b3b06e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ऊर्जामन्त्री श्रेष्ठले अगाडि बढाए पीपीए, पहिलो चरणमा १ हजार मेगावाट क्षमताका सरकारी कम्पनीसँग हुने",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalsamaya.com/detail/147906",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-9c0d2e7a50f7b3b06e",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ऊर्जामन्त्री श्रेष्ठले अगाडि बढाए पीपीए, पहिलो चरणमा १ हजार मेगावाट क्षमताका सरकारी कम्पनीसँग हुने",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalsamaya.com/detail/147906",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-9c0d2e7a50f7b3b06e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ऊर्जामन्त्री श्रेष्ठले अगाडि बढाए पीपीए, पहिलो चरणमा १ हजार मेगावाट क्षमताका सरकारी कम्पनीसँग हुने",
+      "options": [
+        "Himalkhabar",
+        "कान्तिपुर दैनिक",
+        "Khabarhub",
+        "Nepal Samaya"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147906",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-a626e33df88f41c6e1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — दुबई भ्रमण सकेर फर्किए गृहमन्त्री गुरुङ : सुरक्षा सम्मेलनमा गएर बूढीगण्डकी लगानीको चर्चा",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049201/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-a626e33df88f41c6e1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — दुबई भ्रमण सकेर फर्किए गृहमन्त्री गुरुङ : सुरक्षा सम्मेलनमा गएर बूढीगण्डकी लगानीको चर्चा",
+      "options": [
+        "Ratopati",
+        "Nepal Samaya",
+        "OnlineKhabar",
+        "Khabarhub"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049201/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-7a610d671f1ef381dc",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पालुङबाट भैंसेतर्फ जाँदै गरेको कारमा ११७ केजी गाँजा, चालक फरार",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060760/117-kg-of-marijuana-found-in-car-heading-from-palung-to-bhainse-driver-absconding",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-7a610d671f1ef381dc",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पालुङबाट भैंसेतर्फ जाँदै गरेको कारमा ११७ केजी गाँजा, चालक फरार",
+      "options": [
+        "Ratopati",
+        "The Kathmandu Post",
+        "कान्तिपुर दैनिक",
+        "OnlineKhabar"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060760/117-kg-of-marijuana-found-in-car-heading-from-palung-to-bhainse-driver-absconding",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-d85ad395f98c72dfd6",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — द रियल जेम्स बन्ड !",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060606/the-real-james-bond",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-d85ad395f98c72dfd6",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — द रियल जेम्स बन्ड !",
+      "options": [
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060606/the-real-james-bond",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-32b6557429c8afc6ae",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — अध्यागमन कडाइ नीतिले बेलायतमा घटे नेपाली विद्यार्थी",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060753/nepali-students-in-the-uk-decrease-due-to-strict-immigration-policy",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-b740fb1d827fe5c580",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — लाइभ टिभी बहसमै पत्रकार र राजनीतिक विश्लेषकबीच कुटाकुट",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन",
+        "शिक्षा"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060746/2060746",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-53d39ef73527efed30",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मौलिक संस्कृति र परम्परागत सीपलाई उद्यमसँग जोड्दै व्यासको बेनीकोट",
+      "options": [
+        "समाज तथा संस्कृति",
+        "विज्ञान तथा प्रविधि",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/19/1049195/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-ec4532705778dadc9a",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — अनुगमन प्रभावकारी नहुँदा खुलमखुला बिक्री भइरहेका छन् गुणस्तरहीन औषधि",
+      "options": [
+        "विज्ञान तथा प्रविधि",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606178/substandard-medicines-are-being-sold-openly-due-to-ineffective-monitoring",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-32ca5f35b30f1eef71",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बाजुरामा अनियन्त्रित ट्याक्टर सडकबाट १५० मिटर तल खस्यो, चालक घाइते",
+      "options": [
+        "पूर्वाधार तथा यातायात",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606177/out-of-control-tractor-falls-150-meters-off-road-in-bajura-driver-injured",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-201ea40b4111180b27",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बङ्गलादेशमा राजनीतिक द्वन्द्व चर्कियो: ढाकामा बम विस्फोट, ५६५ जना पक्राउ",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606176/political-conflict-intensifies-in-bangladesh-bomb-blast-in-dhaka-565-arrested",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-a42b537b6c0391dc58",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
+      "options": [
+        "वातावरण तथा विपद्",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/19/270-million-climate-finance-commitment-at-cop-more-donors-awaited/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-cda5ef294ecbdefd33",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मध्यावधि निर्वाचनमा रिपब्लिकनको हारपछि मस्कले भने– धेरै पैसा खर्च गरेर मूर्खता गरेछु",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606173/musk-said-after-republicans-defeat-in-midterm-elections-i-was-foolish-to-spend-a-lot-of-money",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-5ee810c7426c982fa0",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — स्याङ्जामा ४४४ मिटर लामो झोलुङ्गे पुल सञ्चालनमा, एक घण्टाको यात्रा १५ मिनेटमा",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "पूर्वाधार तथा यातायात",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060711/444-meter-long-suspension-bridge-in-operation-in-syangja-reducing-one-hour-journey-to-15-minutes",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-fde37794088d3fdb5e",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — स्थानीय तह चुनावबारे दलहरुसँग छलफल गर्दै निर्वाचन आयोग",
+      "options": [
+        "राजनीति तथा शासन",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060692/election-commission-in-discussions-with-parties-regarding-local-elections",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-9ca6c28422ffbefe22",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — यसकारण पक्राउ परे दुई पूर्वमन्त्रीसहित ६ उच्च पदस्थ",
+      "options": [
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/this-is-why-6-high-ranking-officials-including-two-former-ministers-were-arrested/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-962dbd09def4a0c8dc",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भरतपुर अस्पतालमा बिरामीको चाप बढ्यो",
+      "options": [
+        "समाज तथा संस्कृति",
+        "विज्ञान तथा प्रविधि",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606167/patient-pressure-increases-at-bharatpur-hospital",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-165d1eea9b4aa86e6d",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — वीरगञ्ज भन्सारको राजस्व संकलन लक्ष्यभन्दा बढी",
+      "options": [
+        "समाज तथा संस्कृति",
+        "अर्थतन्त्र तथा बजेट",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060691/birgunj-customs-revenue-collection-exceeds-target",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-f562d343644c6eb646",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — चिनियाँ ठेकेदार संलग्न विद्युत् पनि भारतले नकिन्दा नेपाल असन्तुष्ट, बालेनको भ्रमणमा निर्यातको स्वीकृति मागिँदै",
+      "options": [
+        "शिक्षा",
+        "अर्थतन्त्र तथा बजेट",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2059935/nepal-is-unhappy-when-india-does-not-buy-electricity-from-chinese-contractors-seeking-permission-for-balens-visit",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-54447032530d032480",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारतमा १० लाख नेपाली श्रमिक, प्रधानमन्त्रीको भ्रमणमा सधैं बेवास्ता",
+      "options": [
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060651/one-million-nepali-workers-in-india-always-ignored-during-prime-ministers-visit",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-ac5e7089aa6c66e2ec",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मन्त्रीलाई निर्दोष ठहर गर्ने विशेष अदालतले के आधारमा कार्यान्वयनकर्तालाई दोषी देख्यो ?",
+      "options": [
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060395/on-what-basis-did-the-special-court-that-found-the-minister-innocent-find-the-perpetrator-guilty",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-aa34a755461e80343d",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्री बालेनको भारत भ्रमण : पुराना असमझदारी चिर्दै आर्थिक सहकार्यतर्फ",
+      "options": [
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/prime-minister-balens-visit-to-india-towards-economic-cooperation-overcoming-old-misunderstandings/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-e102332533d006bb56",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — संसद् अधिवेशन आह्वान गर्ने सरकारको तयारी",
+      "options": [
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/governments-preparations-to-call-a-parliamentary-session/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-63457f2be03e1bc9fa",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — तातोपानी नाका तत्काल खुलाउन चिनियाँ पक्षसँग परराष्ट्रमन्त्रीको आग्रह",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/foreign-minister-urges-chinese-side-to-immediately-open-tatopani-border-crossing/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-0f4f58e66ec7567b9c",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विदेशी लगानी प्रतिबद्धता ४६.७ प्रतिशतले घट्यो",
+      "options": [
+        "शिक्षा",
+        "अर्थतन्त्र तथा बजेट",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/foreign-investment-commitments-drop-by-46-7-percent/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-fceff05429922c984c",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बाँदर आतंक नियन्त्रणका लागि नवीन प्रविधि विकास गर्न प्रस्ताव आह्वान",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/government-calls-for-proposals-to-develop-innovative-technology-to-control-monkey-terror/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-d03be54de62194864a",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘प्रचण्ड बाजे’ भनेर ‘भाइरल’ बनेकी किशोरीको पहलमा बन्यो पुल",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "पूर्वाधार तथा यातायात"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/bridge-built-on-the-initiative-of-a-teenager-who-went-viral-as-prachanda-baje/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-36efb7af1fd7746831",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्री शाहको भारत भ्रमणको तयारीबारे भारतीय राजदूतसँग छलफल",
+      "options": [
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/discussion-with-indian-ambassador-on-preparations-for-prime-minister-shahs-visit-to-india/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-5615b0542888fb8525",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘पढ्दै कमाउँदै’ कार्यक्रमअन्तर्गत धान काट्दै जीवनज्योति माविका शिक्षक, विद्यार्थी",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/teachers-and-students-of-jeevan-jyoti-secondary-school-harvesting-rice-under-the-earning-while-studying-program/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-18",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-9b6bcbae1099ba85fe",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कर्णालीको कहर कम गर्ने सडक सञ्जाल",
+      "options": [
+        "शिक्षा",
+        "पूर्वाधार तथा यातायात",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.himalkhabar.com/145019",
+      "news_source": "Himalkhabar",
+      "news_date": "2026-11-15",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-9fb1e50b35853ea89b",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Trump says historic summit with Xi, Putin already a ‘win’ before event",
+      "options": [
+        "OnlineKhabar",
+        "Setopati",
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/world/2026/11/19/trump-says-historic-summit-with-xi-putin-already-a-win-before-event",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-source-8251ff8ee8e3e0a6ca",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Chocolate offers a special taste of China, one bite at a time",
+      "options": [
+        "Ratopati",
+        "Himalkhabar",
+        "गोरखापत्र दैनिक",
+        "The Kathmandu Post"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/world/2026/11/19/chocolate-offers-a-special-taste-of-china-one-bite-at-a-time",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-source-86e0ed194f008b42c8",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — The Clever Glamorization of Hard Lives",
+      "options": [
+        "The Kathmandu Post",
+        "OnlineKhabar",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/columns/2026/11/19/the-clever-glamorization-of-hard-lives",
       "news_source": "The Kathmandu Post",
       "news_date": ""
     }
