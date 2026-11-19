@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T23:42:04.966208+00:00",
-  "total": 1916,
-  "generated_from_news": 1844,
+  "updated": "2026-11-19T00:53:01.763535+00:00",
+  "total": 1960,
+  "generated_from_news": 1888,
   "questions": [
     {
       "id": "constitution-001",
@@ -31565,6 +31565,828 @@
       "news_date": "2026-11-18"
     },
     {
+      "id": "news-date-f49c0ea49e7845e471",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बिहीबारका लागि कुन विदेशी मुद्राको विनिमयदर कति ?",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049177/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-f49c0ea49e7845e471",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बिहीबारका लागि कुन विदेशी मुद्राको विनिमयदर कति ?",
+      "options": [
+        "Ratopati",
+        "Khabarhub",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049177/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c4b931df2cafe66a6e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आजको मौसम: तराईमा हुस्सु र केही हिमाली क्षेत्रमा आंशिक बदली",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalnews.com/2026/11/19/todays-weather-hazy-in-the-terai-and-partly-cloudy-in-some-mountainous-areas/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-c4b931df2cafe66a6e",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — आजको मौसम: तराईमा हुस्सु र केही हिमाली क्षेत्रमा आंशिक बदली",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "वातावरण तथा विपद्",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/19/todays-weather-hazy-in-the-terai-and-partly-cloudy-in-some-mountainous-areas/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-c4b931df2cafe66a6e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आजको मौसम: तराईमा हुस्सु र केही हिमाली क्षेत्रमा आंशिक बदली",
+      "options": [
+        "Himal Press",
+        "OnlineKhabar",
+        "NepalNews",
+        "Setopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/19/todays-weather-hazy-in-the-terai-and-partly-cloudy-in-some-mountainous-areas/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-7de3ce747cb267374e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — घट्यो काठमाडौँ उपत्यकाको तापक्रम",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://himalpress.com/2026/11/temperatures-in-kathmandu-valley-drop-6/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-7de3ce747cb267374e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — घट्यो काठमाडौँ उपत्यकाको तापक्रम",
+      "options": [
+        "NepalNews",
+        "Himal Press",
+        "कान्तिपुर दैनिक",
+        "Khabarhub"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/temperatures-in-kathmandu-valley-drop-6/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-9e9a1358eb32ec0e68",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — राप्तीसोनारीका दश परिवारलाई जग्गाधनी प्रमाणपुर्जा वितरण",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606166/land-ownership-certificates-distributed-to-ten-families-in-rapti-sonari",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-9e9a1358eb32ec0e68",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — राप्तीसोनारीका दश परिवारलाई जग्गाधनी प्रमाणपुर्जा वितरण",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक",
+        "Ratopati",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606166/land-ownership-certificates-distributed-to-ten-families-in-rapti-sonari",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-c21b4940b2a4e4d0b4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — झापामा एकचालिस वर्षपछि ऐतिहासिक कोटी हवन महायज्ञ",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606165/historic-koti-havan-mahayagya-held-in-jhapa-after-41-years",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-c21b4940b2a4e4d0b4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — झापामा एकचालिस वर्षपछि ऐतिहासिक कोटी हवन महायज्ञ",
+      "options": [
+        "Himal Press",
+        "कान्तिपुर दैनिक",
+        "Ratopati",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606165/historic-koti-havan-mahayagya-held-in-jhapa-after-41-years",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-2a0ce1699896a5a7b1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपालमा ‘अक्वान’ चक्रवातको आंशिक प्रभाव, के पानी पर्ला?",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://himalpress.com/2026/11/partial-impact-of-cyclone-akwan-in-nepal-will-it-rain/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-2a0ce1699896a5a7b1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपालमा ‘अक्वान’ चक्रवातको आंशिक प्रभाव, के पानी पर्ला?",
+      "options": [
+        "Himal Press",
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक",
+        "NepalNews"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/partial-impact-of-cyclone-akwan-in-nepal-will-it-rain/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-98bcad7142402013c7",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बराह सहकारीका संस्थापक लामिछानेसहित दुई जना पक्राउ",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229512",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-98bcad7142402013c7",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बराह सहकारीका संस्थापक लामिछानेसहित दुई जना पक्राउ",
+      "options": [
+        "OnlineKhabar",
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229512",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-76923da62cb4d81164",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — संरक्षणको पर्खाइमा रसुवाको ऐतिहासिक ‘लहरेपौवा’",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606164/rasuwas-historic-laharepauwa-awaits-preservation",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-76923da62cb4d81164",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — संरक्षणको पर्खाइमा रसुवाको ऐतिहासिक ‘लहरेपौवा’",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Himal Press",
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606164/rasuwas-historic-laharepauwa-awaits-preservation",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-dd28014d9ddc55798a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — चितुवा र दुम्सीको आतङ्कले किसान चिन्तित",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606163/farmers-worried-about-leopard-and-cheetah-threat",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-dd28014d9ddc55798a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — चितुवा र दुम्सीको आतङ्कले किसान चिन्तित",
+      "options": [
+        "Himalkhabar",
+        "कान्तिपुर दैनिक",
+        "Ratopati",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606163/farmers-worried-about-leopard-and-cheetah-threat",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-143c70b16ea370d2b7",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://nepalnews.com/2026/11/19/foreign-currency-exchange-rates-set-for-today/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-143c70b16ea370d2b7",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "options": [
+        "Setopati",
+        "Nepal Samaya",
+        "कान्तिपुर दैनिक",
+        "NepalNews"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/19/foreign-currency-exchange-rates-set-for-today/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-165d1eea9b4aa86e6d",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — वीरगञ्ज भन्सारको राजस्व संकलन लक्ष्यभन्दा बढी",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060691/birgunj-customs-revenue-collection-exceeds-target",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-165d1eea9b4aa86e6d",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — वीरगञ्ज भन्सारको राजस्व संकलन लक्ष्यभन्दा बढी",
+      "options": [
+        "समाज तथा संस्कृति",
+        "अर्थतन्त्र तथा बजेट",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060691/birgunj-customs-revenue-collection-exceeds-target",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-165d1eea9b4aa86e6d",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — वीरगञ्ज भन्सारको राजस्व संकलन लक्ष्यभन्दा बढी",
+      "options": [
+        "NepalNews",
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060691/birgunj-customs-revenue-collection-exceeds-target",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-2d84a37d032b939b34",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘अकवान’ चक्रवातको आंशिक प्रभाव, केही ठाउँमा बदली, तराई मधेशमा हुस्सु",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060689/partial-impact-of-cyclone-akwan-cloudy-in-some-places-fog-in-terai-madhesh",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-2d84a37d032b939b34",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘अकवान’ चक्रवातको आंशिक प्रभाव, केही ठाउँमा बदली, तराई मधेशमा हुस्सु",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "Himalkhabar",
+        "Setopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2060689/partial-impact-of-cyclone-akwan-cloudy-in-some-places-fog-in-terai-madhesh",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-5fcf67e1ed78e1b77a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आजको मौसम पूर्वानुमान : तराईमा हुस्सु र उपत्यकामा तुवाँलो",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049175/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-5fcf67e1ed78e1b77a",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — आजको मौसम पूर्वानुमान : तराईमा हुस्सु र उपत्यकामा तुवाँलो",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "वातावरण तथा विपद्"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/19/1049175/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-5fcf67e1ed78e1b77a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आजको मौसम पूर्वानुमान : तराईमा हुस्सु र उपत्यकामा तुवाँलो",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya",
+        "कान्तिपुर दैनिक",
+        "Khabarhub"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049175/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-0739c9dcfb2f9fd9a3",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आजको मौसम सफा रहने",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229511",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-0739c9dcfb2f9fd9a3",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — आजको मौसम सफा रहने",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "वातावरण तथा विपद्"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229511",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-0739c9dcfb2f9fd9a3",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आजको मौसम सफा रहने",
+      "options": [
+        "Himal Press",
+        "Himalkhabar",
+        "गोरखापत्र दैनिक",
+        "Ratopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229511",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-ab7e4658b6922688db",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपालमा पश्चिमी वायु र अक्वान चक्रवातको प्रभाव, आज कस्तो रहला मौसम?",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.setopati.com/social/402880",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-ab7e4658b6922688db",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नेपालमा पश्चिमी वायु र अक्वान चक्रवातको प्रभाव, आज कस्तो रहला मौसम?",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "वातावरण तथा विपद्"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.setopati.com/social/402880",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-ab7e4658b6922688db",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपालमा पश्चिमी वायु र अक्वान चक्रवातको प्रभाव, आज कस्तो रहला मौसम?",
+      "options": [
+        "OnlineKhabar",
+        "Setopati",
+        "Himalkhabar",
+        "Khabarhub"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/social/402880",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-cdbba8ba723931a06c",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपालमा पश्चिमी वायुका साथै ‘अक्वान’ चक्रवातको आंशिक प्रभाव, कस्तो रहला आजको मौसम ?",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.ratopati.com/story/606162/partial-impact-of-cyclone-akwan-along-with-westerly-winds-in-nepal-what-will-be-the-weather-like-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-topic-cdbba8ba723931a06c",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नेपालमा पश्चिमी वायुका साथै ‘अक्वान’ चक्रवातको आंशिक प्रभाव, कस्तो रहला आजको मौसम ?",
+      "options": [
+        "स्वास्थ्य",
+        "वातावरण तथा विपद्",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606162/partial-impact-of-cyclone-akwan-along-with-westerly-winds-in-nepal-what-will-be-the-weather-like-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-cdbba8ba723931a06c",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपालमा पश्चिमी वायुका साथै ‘अक्वान’ चक्रवातको आंशिक प्रभाव, कस्तो रहला आजको मौसम ?",
+      "options": [
+        "The Kathmandu Post",
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606162/partial-impact-of-cyclone-akwan-along-with-westerly-winds-in-nepal-what-will-be-the-weather-like-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-236a66c15659a862e9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएल दोस्रो क्वालिफायरमा आज सुदूरपश्चिम र चितवन भिड्दै",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://khabarhub.com/2026/19/1049171/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-236a66c15659a862e9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएल दोस्रो क्वालिफायरमा आज सुदूरपश्चिम र चितवन भिड्दै",
+      "options": [
+        "Khabarhub",
+        "Nepal Samaya",
+        "OnlineKhabar",
+        "Himalkhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049171/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-851c9fe81d87575a83",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — वर्षको १ हजार भारू कमाउँथे, अहिले चलाउँछन् ७ वटा आइसक्रिम ठेला",
+      "options": [
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://www.setopati.com/nepali-brand/402796",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-851c9fe81d87575a83",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — वर्षको १ हजार भारू कमाउँथे, अहिले चलाउँछन् ७ वटा आइसक्रिम ठेला",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Setopati",
+        "Ratopati",
+        "NepalNews"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/nepali-brand/402796",
+      "news_source": "Setopati",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-2b45101455b3590d04",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — हार मानेका छैनन् वेत्रावतीवासीले",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१९ हो।",
+      "source": "https://gorkhapatraonline.com/news/229510",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-source-2b45101455b3590d04",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — हार मानेका छैनन् वेत्रावतीवासीले",
+      "options": [
+        "Himalkhabar",
+        "Setopati",
+        "Himal Press",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229510",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-19"
+    },
+    {
+      "id": "news-date-9702533cb645704e77",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बिहीबार भगवान विष्णुको पूजा गर्नुहोस्",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/19/1049169/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-9702533cb645704e77",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बिहीबार भगवान विष्णुको पूजा गर्नुहोस्",
+      "options": [
+        "The Kathmandu Post",
+        "Khabarhub",
+        "Himal Press",
+        "Setopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049169/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-date-d70c5077f1c6dbcc5e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आज २०८३ साल मङ्सिर ३ गते बिहीबार राशिफल",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-१७",
+        "ई.सं. २०२६-११-१६",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-१८ हो।",
+      "source": "https://khabarhub.com/2026/19/1049167/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
+      "id": "news-source-d70c5077f1c6dbcc5e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आज २०८३ साल मङ्सिर ३ गते बिहीबार राशिफल",
+      "options": [
+        "Khabarhub",
+        "NepalNews",
+        "गोरखापत्र दैनिक",
+        "Setopati"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/19/1049167/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-18"
+    },
+    {
       "id": "news-topic-e5a5e6a6582766ea12",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31853,24 +32675,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-f4155819de43b0d09c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — दुई पूर्वमन्त्रीसमेत फन्दामा परेको मलेसिया जाने श्रमिक ठगी प्रकरण के हो ?",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606136/what-is-the-malaysian-migrant-worker-fraud-case-that-has-even-implicated-two-former-ministers",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-237a2898d9ca23adbc",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -31903,24 +32707,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2060677/india-grants-permission-to-export-an-additional-615-megawatts-of-electricity-on-the-eve-of-balens-visit",
       "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-7dfd6c394a28ef1fb4",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विश्वकप र युरो कप विजेता स्पेनिस स्टार माटाले लिए संन्यास",
-      "options": [
-        "स्वास्थ्य",
-        "खेलकुद",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606134/world-cup-and-euro-cup-winner-spanish-star-mata-retires",
-      "news_source": "Ratopati",
       "news_date": "2026-11-18",
       "question_basis": "headline_keyword_classification"
     },
@@ -32015,24 +32801,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-e721639fb076260928",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कन्काई पुल निर्माण तत्काल अघि बढाउन माग",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "पूर्वाधार तथा यातायात",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/18/1049146/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-9bc8f346a9c897a10b",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -32065,24 +32833,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2060604/nepal-rastra-banks-expenses-increased-by-23-5-billion-rupees-as-deposits-in-banks-increased",
       "news_source": "OnlineKhabar",
-      "news_date": "2026-11-18",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-c1271e82cde31a8a2b",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — जलवायु विपद् र असुरक्षाका कारण सोमालियामा विस्थापन बढ्दै : संयुक्त राष्ट्रसङ्घ",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "वातावरण तथा विपद्"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/18/1049139/",
-      "news_source": "Khabarhub",
       "news_date": "2026-11-18",
       "question_basis": "headline_keyword_classification"
     },
