@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T20:42:02.363622+00:00",
-  "total": 1971,
-  "generated_from_news": 1882,
+  "updated": "2026-11-20T21:38:39.102927+00:00",
+  "total": 1976,
+  "generated_from_news": 1887,
   "questions": [
     {
       "id": "constitution-001",
@@ -33391,6 +33391,92 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-date-f11fabd9bc43dba87e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — FIFA bans Nepal over ANFA-Rakhep dispute - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०६-२७",
+        "ई.सं. २०२६-०६-२५",
+        "ई.सं. २०२६-०६-२६",
+        "ई.सं. २०२६-०६-२४"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०६-२६ हो।",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1JURVNsdTY3X0xGakMwbkVVOWtIek4xUE9aV2c1NDloaHBGNVY4cXdSVU5OeXhTSXBwblN4OUFoQ1ZjQmZ2bWg2SHV2bWJRTG4zbF9OdGhNV1lEQUUzMXpXam5zQzkzYTFfdkxuR3ViZkFteU1uaG50S1ppNHQ4VXMxdUNvajVzVVpvZ2l4QXRzSEJuQU4tXzdB?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-06-26"
+    },
+    {
+      "id": "news-source-f11fabd9bc43dba87e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — FIFA bans Nepal over ANFA-Rakhep dispute - Ekantipur",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "OnlineKhabar",
+        "Nepal Samaya",
+        "The Kathmandu Post"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1JURVNsdTY3X0xGakMwbkVVOWtIek4xUE9aV2c1NDloaHBGNVY4cXdSVU5OeXhTSXBwblN4OUFoQ1ZjQmZ2bWg2SHV2bWJRTG4zbF9OdGhNV1lEQUUzMXpXam5zQzkzYTFfdkxuR3ViZkFteU1uaG50S1ppNHQ4VXMxdUNvajVzVVpvZ2l4QXRzSEJuQU4tXzdB?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-06-26"
+    },
+    {
+      "id": "news-date-63828242d9bb3adcb1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Local Level Election 2079 - स्थानीय तह निर्वाचन २०७९ - Ekantipur",
+      "options": [
+        "ई.सं. २०२२-१०-२७",
+        "ई.सं. २०२२-१०-२८",
+        "ई.सं. २०२२-१०-२९",
+        "ई.सं. २०२२-१०-३०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२२-१०-२९ हो।",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eG5qMVNwTDBkSmhTTUtvdmRRSk1pRjk3aFpneTl5NEVGbi1xZDBmMVR2NG1tbWt6bUNreklfeVR1RFZaS05WSm9LWmZfVHBubWZqTkJsN3ZTUXJp?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2022-10-29"
+    },
+    {
+      "id": "news-topic-63828242d9bb3adcb1",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — Local Level Election 2079 - स्थानीय तह निर्वाचन २०७९ - Ekantipur",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eG5qMVNwTDBkSmhTTUtvdmRRSk1pRjk3aFpneTl5NEVGbi1xZDBmMVR2NG1tbWt6bUNreklfeVR1RFZaS05WSm9LWmZfVHBubWZqTkJsN3ZTUXJp?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2022-10-29",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-63828242d9bb3adcb1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Local Level Election 2079 - स्थानीय तह निर्वाचन २०७९ - Ekantipur",
+      "options": [
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eG5qMVNwTDBkSmhTTUtvdmRRSk1pRjk3aFpneTl5NEVGbi1xZDBmMVR2NG1tbWt6bUNreklfeVR1RFZaS05WSm9LWmZfVHBubWZqTkJsN3ZTUXJp?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2022-10-29"
     }
   ]
 }
