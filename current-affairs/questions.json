@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T22:38:05.659478+00:00",
-  "total": 1975,
-  "generated_from_news": 1886,
+  "updated": "2026-11-20T23:38:56.267506+00:00",
+  "total": 1980,
+  "generated_from_news": 1891,
   "questions": [
     {
       "id": "constitution-001",
@@ -32381,6 +32381,142 @@
       "news_date": "2022-10-29"
     },
     {
+      "id": "news-date-41f5a08b0770ac8ada",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — महिलालाई चप्पल बनाउने सीप सिकाउन व्यस्त सन्ध्या पौडेल",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२० हो।",
+      "source": "https://www.ratopati.com/story/606618/sandhya-poudel-is-busy-teaching-women-the-skill-of-making-slippers",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
+      "id": "news-source-41f5a08b0770ac8ada",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — महिलालाई चप्पल बनाउने सीप सिकाउन व्यस्त सन्ध्या पौडेल",
+      "options": [
+        "Himal Press",
+        "Ratopati",
+        "Setopati",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606618/sandhya-poudel-is-busy-teaching-women-the-skill-of-making-slippers",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
+      "id": "news-date-434100c162d7d6f0fd",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — कुन राशिलाई शुभ, कुनलाई मध्यम ? हेर्नुहाेस आजको राशिफल",
+      "options": [
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२० हो।",
+      "source": "https://www.ratopati.com/story/606617/which-zodiac-sign-is-auspicious-which-is-average-check-out-todays-horoscope",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
+      "id": "news-source-434100c162d7d6f0fd",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — कुन राशिलाई शुभ, कुनलाई मध्यम ? हेर्नुहाेस आजको राशिफल",
+      "options": [
+        "NepalNews",
+        "Nepal Samaya",
+        "Ratopati",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606617/which-zodiac-sign-is-auspicious-which-is-average-check-out-todays-horoscope",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
+      "id": "news-date-416553f78446efdfee",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — झापा महिला गोल्डकप प्रतियोगिता आजदेखि",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२० हो।",
+      "source": "https://www.ratopati.com/story/606616/jhapa-womens-gold-cup-competition-begins-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
+      "id": "news-source-416553f78446efdfee",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — झापा महिला गोल्डकप प्रतियोगिता आजदेखि",
+      "options": [
+        "Ratopati",
+        "Himal Press",
+        "Khabarhub",
+        "Setopati"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606616/jhapa-womens-gold-cup-competition-begins-today",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
+      "id": "news-date-a31923ed2b0b75af2e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — डलरदेखि कतारी रियालसम्म : यस्तो छ विदेशी मुद्राको विनिमयदर (सूचीसहित)",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१८",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२० हो।",
+      "source": "https://www.ratopati.com/story/606615/from-dollar-to-qatari-riyal-here-are-the-foreign-currency-exchange-rates-with-list",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
+      "id": "news-source-a31923ed2b0b75af2e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — डलरदेखि कतारी रियालसम्म : यस्तो छ विदेशी मुद्राको विनिमयदर (सूचीसहित)",
+      "options": [
+        "Ratopati",
+        "Himalkhabar",
+        "NepalNews",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606615/from-dollar-to-qatari-riyal-here-are-the-foreign-currency-exchange-rates-with-list",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-20"
+    },
+    {
       "id": "news-topic-d3ad639c41e309057c",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -32903,42 +33039,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-5f16c005a584535f73",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सरकारले गर्‍यो ३२ सहसचिवको जिम्मेवारी हेरफेर, को कहाँ पुगे ?",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "राजनीति तथा शासन",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606588/the-government-reshuffled-the-responsibilities-of-32-joint-secretaries-who-went-where",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-20",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-e23659de8e0a46a657",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — आयोग–राजनीतिक दलहरूको छलफल निष्कर्षविहीन, निष्पक्षतामाथि उठ्यो प्रश्न",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606577/discussions-between-the-commission-and-political-parties-inconclusive-questions-raised-over-impartiality",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-20",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-c220051c7e18f6fa16",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -32971,24 +33071,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.setopati.com/politics/403011",
       "news_source": "Setopati",
-      "news_date": "2026-11-20",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-a889422aa52e4af112",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — शिक्षा सुधारको मुख्य जिम्मा स्थानीय तह र समुदायको हुनुपर्छ : पूर्वराष्ट्रपति यादव",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606586/the-main-responsibility-for-education-reform-should-lie-with-the-local-level-and-community-former-president-yadav",
-      "news_source": "Ratopati",
       "news_date": "2026-11-20",
       "question_basis": "headline_keyword_classification"
     },
