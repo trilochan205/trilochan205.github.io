@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T22:14:03.144636+00:00",
+  "updated": "2026-11-21T23:08:29.592714+00:00",
   "total": 1659,
   "generated_from_news": 1564,
   "questions": [
@@ -27184,6 +27184,40 @@
       "news_date": "2026-06-07"
     },
     {
+      "id": "news-date-2cf1394fef3b78075c",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विचार | New Nepali 'Populism': A Sympathy - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०२-२४",
+        "ई.सं. २०२६-०२-२५",
+        "ई.सं. २०२६-०२-२२",
+        "ई.सं. २०२६-०२-२३"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०२-२४ हो।",
+      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWThzdHpSNUYwOWFUbTNybHBLc0pJYU45dTBOTXlnYVg1Z0ctR0x1ME1SdGZzQzFsQllSWlJPV21UUUY4X2ZxQXV5QmljOUhwdmJsUFU3bF9pVDlGblVha1B5clJXa2M2MWM1RDRWS2ZTZVVLbExtbGdhb1d0OExkSHJlQ3c0MHdnNm5JYWhn?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-02-24"
+    },
+    {
+      "id": "news-source-2cf1394fef3b78075c",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विचार | New Nepali 'Populism': A Sympathy - Ekantipur",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Setopati",
+        "Himal Press",
+        "NepalNews"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWThzdHpSNUYwOWFUbTNybHBLc0pJYU45dTBOTXlnYVg1Z0ctR0x1ME1SdGZzQzFsQllSWlJPV21UUUY4X2ZxQXV5QmljOUhwdmJsUFU3bF9pVDlGblVha1B5clJXa2M2MWM1RDRWS2ZTZVVLbExtbGdhb1d0OExkSHJlQ3c0MHdnNm5JYWhn?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-02-24"
+    },
+    {
       "id": "news-topic-d4e3e556d18ae32927",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -28010,40 +28044,6 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-date-2cf1394fef3b78075c",
-      "topic": "समाचारको मिति",
-      "level": "समसामयिक",
-      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विचार | New Nepali 'Populism': A Sympathy - Ekantipur",
-      "options": [
-        "ई.सं. २०२६-०२-२४",
-        "ई.सं. २०२६-०२-२५",
-        "ई.सं. २०२६-०२-२२",
-        "ई.सं. २०२६-०२-२३"
-      ],
-      "answer": 0,
-      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०२-२४ हो।",
-      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWThzdHpSNUYwOWFUbTNybHBLc0pJYU45dTBOTXlnYVg1Z0ctR0x1ME1SdGZzQzFsQllSWlJPV21UUUY4X2ZxQXV5QmljOUhwdmJsUFU3bF9pVDlGblVha1B5clJXa2M2MWM1RDRWS2ZTZVVLbExtbGdhb1d0OExkSHJlQ3c0MHdnNm5JYWhn?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2026-02-24"
-    },
-    {
-      "id": "news-source-2cf1394fef3b78075c",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विचार | New Nepali 'Populism': A Sympathy - Ekantipur",
-      "options": [
-        "कान्तिपुर दैनिक",
-        "Setopati",
-        "Himal Press",
-        "NepalNews"
-      ],
-      "answer": 0,
-      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
-      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWThzdHpSNUYwOWFUbTNybHBLc0pJYU45dTBOTXlnYVg1Z0ctR0x1ME1SdGZzQzFsQllSWlJPV21UUUY4X2ZxQXV5QmljOUhwdmJsUFU3bF9pVDlGblVha1B5clJXa2M2MWM1RDRWS2ZTZVVLbExtbGdhb1d0OExkSHJlQ3c0MHdnNm5JYWhn?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2026-02-24"
     },
     {
       "id": "news-topic-63828242d9bb3adcb1",
