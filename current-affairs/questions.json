@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T10:39:27.691998+00:00",
-  "total": 1123,
-  "generated_from_news": 1028,
+  "updated": "2026-11-21T11:37:05.146440+00:00",
+  "total": 1210,
+  "generated_from_news": 1115,
   "questions": [
     {
       "id": "constitution-001",
@@ -16797,24 +16797,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-81cb09c169cd95d371",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘डरपोक राष्ट्रपतिले असंवैधानिक ढङ्गले संसद् विघटन गर्नुभयो’",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606729/the-cowardly-president-dissolved-parliament-unconstitutionally",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-81cb09c169cd95d371",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -16847,24 +16829,6 @@
       "source": "https://gorkhapatraonline.com/news/229829",
       "news_source": "गोरखापत्र दैनिक",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-8d975d22f031637a2a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — चिसोमा घुम्ती कक्षा सञ्चालन गर्न विद्यार्थीलाई बेसी झारियो",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229829",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-8d975d22f031637a2a",
@@ -17343,24 +17307,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-481858b92953a49a05",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नागढुंगा–मुग्लिन सडक आजदेखि दैनिक ५ घण्टा बन्द",
-      "options": [
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229824",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-481858b92953a49a05",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -17429,24 +17375,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-4b031f1c3e78ea59d0",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — जसपा नेपालका सरोजकुमार यादव बने मधेसको मुख्यमन्त्री",
-      "options": [
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.setopati.com/politics/403071",
-      "news_source": "Setopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-4b031f1c3e78ea59d0",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -17513,24 +17441,6 @@
       "source": "https://gorkhapatraonline.com/news/229823",
       "news_source": "गोरखापत्र दैनिक",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-01802bf5d414f8bb7d",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कमला नदीको पुल सञ्चालन तयारी",
-      "options": [
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229823",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-01802bf5d414f8bb7d",
@@ -17635,24 +17545,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-550f69b94edab364c4",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बालेन सरकार बर्खामा उम्रिएको चुच्चे च्याउ हो, कुहिएर सकिन्छ : महेश बस्नेत",
-      "options": [
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606723/the-balen-government-is-a-mushroom-that-has-grown-in-the-rainy-season-it-will-rot-and-end-up-rotting-mahesh-basnet",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-550f69b94edab364c4",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -17719,24 +17611,6 @@
       "source": "https://www.onlinekhabar.com/2026/11/2062359/nepali-art-culture-and-mountains-in-indian-students-paintings-photos",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-fc4822466bc8ecce9a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारतीय विद्यार्थीको चित्रमा नेपाली कला, संस्कृति र हिमाल (तस्वीरहररू)",
-      "options": [
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य",
-        "वातावरण तथा विपद्"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2062359/nepali-art-culture-and-mountains-in-indian-students-paintings-photos",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-fc4822466bc8ecce9a",
@@ -17875,24 +17749,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-ba286f1ffe1e41c064",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — राष्ट्रपतिले डरपोक भएर असंवैधानिक रुपमा संसद् विघटन गर्नुभयो : ओली",
-      "options": [
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2062361/president-cowardly-dissolved-parliament-unconstitutionally-oli",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-ba286f1ffe1e41c064",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -17925,24 +17781,6 @@
       "source": "https://khabarhub.com/2026/21/1050051/",
       "news_source": "Khabarhub",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-df5e16f369189e879f",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सुदूरपश्चिम विश्वविद्यालयमा राष्ट्रिय ह्याकाथन प्रतियोगिता सुरु",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/21/1050051/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-df5e16f369189e879f",
@@ -18132,6 +17970,1841 @@
       "news_date": "2026-11-21"
     },
     {
+      "id": "news-date-cb9607bfe6f049ced4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Demonstration demanding to stop construction of Upper Tamor hydropower project - Ekantipur",
+      "options": [
+        "ई.सं. २०२५-०७-१९",
+        "ई.सं. २०२५-०७-१८",
+        "ई.सं. २०२५-०७-१७",
+        "ई.सं. २०२५-०७-१६"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२५-०७-१८ हो।",
+      "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3M4UU5DMlBLVlVDRTI5V1RKbHlCcmtHdExxVThHZmhjOUY2YmxkT3dNaVR2OWItWm5Cd1NtNy05aURjRmZpc2ZfOTZRcWFWZmp1MTkzYVdtQjU0WEdUTXJTbnk2VzE0dTFNLTlzQlkwbmdHc2xHYXV3RkMyVThiWlM2TGk2d0RCZUt4NG1tRzN4NldqZVltbTY5TnMybWN5cUtCNkFHbVpuNmhLaUtPRnRmcVRpUXJybVp4bDNGLWRhWWRuc2NlMnVQbjVqb3Bv?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2025-07-18"
+    },
+    {
+      "id": "news-source-cb9607bfe6f049ced4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Demonstration demanding to stop construction of Upper Tamor hydropower project - Ekantipur",
+      "options": [
+        "Himal Press",
+        "Khabarhub",
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3M4UU5DMlBLVlVDRTI5V1RKbHlCcmtHdExxVThHZmhjOUY2YmxkT3dNaVR2OWItWm5Cd1NtNy05aURjRmZpc2ZfOTZRcWFWZmp1MTkzYVdtQjU0WEdUTXJTbnk2VzE0dTFNLTlzQlkwbmdHc2xHYXV3RkMyVThiWlM2TGk2d0RCZUt4NG1tRzN4NldqZVltbTY5TnMybWN5cUtCNkFHbVpuNmhLaUtPRnRmcVRpUXJybVp4bDNGLWRhWWRuc2NlMnVQbjVqb3Bv?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2025-07-18"
+    },
+    {
+      "id": "news-source-089f654ed5fe927312",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Road to the final: Powerplay could hold the key to NPL title",
+      "options": [
+        "Khabarhub",
+        "The Kathmandu Post",
+        "Nepal Samaya",
+        "Setopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/cricket/2026/11/21/road-to-the-final-powerplay-could-hold-the-key-to-npl-title",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-source-3d719536feba38906c",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Santoshi Shrestha wins two golds with course records in Maldives",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक",
+        "Himalkhabar",
+        "The Kathmandu Post"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/sports/2026/11/21/santoshi-shrestha-wins-two-golds-with-course-records-in-maldives",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-source-9d5518b016c275fb5f",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Saroj Kumar Yadav appointed Madhesh chief minister",
+      "options": [
+        "The Kathmandu Post",
+        "Himalkhabar",
+        "Himal Press",
+        "Khabarhub"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/politics/2026/11/21/saroj-kumar-yadav-appointed-madhesh-chief-minister",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-date-cd13ecbabd501428a4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सीमान्त साहित्य सम्मेलन : जुम्लाले जुराएको भेट",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606744/marginal-literature-conference-a-meeting-organized-by-jumla",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-cd13ecbabd501428a4",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सीमान्त साहित्य सम्मेलन : जुम्लाले जुराएको भेट",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606744/marginal-literature-conference-a-meeting-organized-by-jumla",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-cd13ecbabd501428a4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सीमान्त साहित्य सम्मेलन : जुम्लाले जुराएको भेट",
+      "options": [
+        "The Kathmandu Post",
+        "Himalkhabar",
+        "Nepal Samaya",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606744/marginal-literature-conference-a-meeting-organized-by-jumla",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-2a1b6d4c5de1421668",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ट्रम्पले जेसुकै भनुन् पुटिन हत्यारा हुन्– जेलेन्स्की",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.setopati.com/politics/403076",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-2a1b6d4c5de1421668",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ट्रम्पले जेसुकै भनुन् पुटिन हत्यारा हुन्– जेलेन्स्की",
+      "options": [
+        "Himal Press",
+        "NepalNews",
+        "Setopati",
+        "OnlineKhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/politics/403076",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-2825e736b5f8d12698",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — लुम्बिनीलाई पहिलो झट्का, आशिफ शेख एलबीडब्ल्यू आउट",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606743/lumbini-suffers-first-setback-asif-sheikh-out-lbw",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-2825e736b5f8d12698",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — लुम्बिनीलाई पहिलो झट्का, आशिफ शेख एलबीडब्ल्यू आउट",
+      "options": [
+        "NepalNews",
+        "कान्तिपुर दैनिक",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606743/lumbini-suffers-first-setback-asif-sheikh-out-lbw",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-b327030b834a30c632",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — अस्ट्रेलियाको संसद् भवन र सांसदका कार्यालयअगाडि गोबर फालेर प्रदर्शन",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062420/demonstration-by-throwing-dung-in-front-of-australian-parliament-building-and-mps-offices",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-b327030b834a30c632",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — अस्ट्रेलियाको संसद् भवन र सांसदका कार्यालयअगाडि गोबर फालेर प्रदर्शन",
+      "options": [
+        "NepalNews",
+        "OnlineKhabar",
+        "Setopati",
+        "Ratopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062420/demonstration-by-throwing-dung-in-front-of-australian-parliament-building-and-mps-offices",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-5195de3928a0b49bb3",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — अपहरणमा परेका विद्यार्थी भारतको बनारसबाट उद्धार",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229839",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-5195de3928a0b49bb3",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — अपहरणमा परेका विद्यार्थी भारतको बनारसबाट उद्धार",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229839",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-5195de3928a0b49bb3",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — अपहरणमा परेका विद्यार्थी भारतको बनारसबाट उद्धार",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Ratopati",
+        "NepalNews",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229839",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-9e9f042f0186bd31da",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — समाजवादको मौलिक मार्गचित्र : बृहत् अनुसन्धान एवम् नयाँ अवधारणा",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606742/the-original-roadmap-of-socialism-extensive-research-and-new-concepts",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-9e9f042f0186bd31da",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — समाजवादको मौलिक मार्गचित्र : बृहत् अनुसन्धान एवम् नयाँ अवधारणा",
+      "options": [
+        "The Kathmandu Post",
+        "Ratopati",
+        "Khabarhub",
+        "NepalNews"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606742/the-original-roadmap-of-socialism-extensive-research-and-new-concepts",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-a2480fec963eb7cb53",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रधानमन्त्रीले भारत भ्रमणमा निजी क्षेत्रका समस्यालाई उठाउनुपर्छ : अध्यक्ष अग्रवाल",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://khabarhub.com/2026/21/1050063/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-a2480fec963eb7cb53",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्रीले भारत भ्रमणमा निजी क्षेत्रका समस्यालाई उठाउनुपर्छ : अध्यक्ष अग्रवाल",
+      "options": [
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/21/1050063/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-a2480fec963eb7cb53",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रधानमन्त्रीले भारत भ्रमणमा निजी क्षेत्रका समस्यालाई उठाउनुपर्छ : अध्यक्ष अग्रवाल",
+      "options": [
+        "Khabarhub",
+        "NepalNews",
+        "OnlineKhabar",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/21/1050063/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-3de48432e9258d61d8",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — निजी क्षेत्र बलियो नभएसम्म देश धनी हुन सक्दैन : सभामुख अर्याल",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062416/the-country-cannot-become-rich-unless-the-private-sector-is-strong-speaker-aryal",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-3de48432e9258d61d8",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — निजी क्षेत्र बलियो नभएसम्म देश धनी हुन सक्दैन : सभामुख अर्याल",
+      "options": [
+        "Himalkhabar",
+        "OnlineKhabar",
+        "Ratopati",
+        "Setopati"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062416/the-country-cannot-become-rich-unless-the-private-sector-is-strong-speaker-aryal",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-1eea98d8a7ff646e86",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रधानमन्त्रीको भारत भ्रमण ऊर्जा व्यापार र निजी क्षेत्रको लगानी विस्तारमा केन्द्रित हुनुपर्छ : कार्की",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://himalpress.com/2026/11/prime-ministers-visit-to-india/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-1eea98d8a7ff646e86",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रधानमन्त्रीको भारत भ्रमण ऊर्जा व्यापार र निजी क्षेत्रको लगानी विस्तारमा केन्द्रित हुनुपर्छ : कार्की",
+      "options": [
+        "Himalkhabar",
+        "Khabarhub",
+        "Himal Press",
+        "OnlineKhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/prime-ministers-visit-to-india/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-806fbfe4dead07c498",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — धान उत्पादकत्व वृद्धि",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229838",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-806fbfe4dead07c498",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — धान उत्पादकत्व वृद्धि",
+      "options": [
+        "Himal Press",
+        "गोरखापत्र दैनिक",
+        "NepalNews",
+        "Khabarhub"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229838",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-c2e43407672aec0e48",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — घातक स्वायत्त हतियार नियमन गर्न १२८ देशबिच सहमति",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606741/countries-agree-to-regulate-lethal-autonomous-weapons",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-c2e43407672aec0e48",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — घातक स्वायत्त हतियार नियमन गर्न १२८ देशबिच सहमति",
+      "options": [
+        "Ratopati",
+        "The Kathmandu Post",
+        "NepalNews",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606741/countries-agree-to-regulate-lethal-autonomous-weapons",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-780dd891d6c5d80eb9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेशनल भोलिन्टियर फोर्सलाई देशव्यापी विस्तार गर्न ओलीको निर्देशन",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://nepalsamaya.com/detail/147948",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-780dd891d6c5d80eb9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेशनल भोलिन्टियर फोर्सलाई देशव्यापी विस्तार गर्न ओलीको निर्देशन",
+      "options": [
+        "OnlineKhabar",
+        "The Kathmandu Post",
+        "Nepal Samaya",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Nepal Samaya हो।",
+      "source": "https://nepalsamaya.com/detail/147948",
+      "news_source": "Nepal Samaya",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-36d2cf44d92de67761",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विश्व मत्स्य दिवस : रुपन्देहीका नदी तथा पोखरीमा माछाका भुरा छोडियो",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606740/world-fisheries-day-fish-fry-released-into-rivers-and-ponds-of-rupandehi",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-36d2cf44d92de67761",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विश्व मत्स्य दिवस : रुपन्देहीका नदी तथा पोखरीमा माछाका भुरा छोडियो",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606740/world-fisheries-day-fish-fry-released-into-rivers-and-ponds-of-rupandehi",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-136b481bd0d107d700",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएलमा अनलाइन सट्टेबाजी गरेको आरोपमा ५ जना पक्राउ",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062410/5-arrested-for-online-betting-on-npl",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-136b481bd0d107d700",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएलमा अनलाइन सट्टेबाजी गरेको आरोपमा ५ जना पक्राउ",
+      "options": [
+        "OnlineKhabar",
+        "गोरखापत्र दैनिक",
+        "Himalkhabar",
+        "The Kathmandu Post"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062410/5-arrested-for-online-betting-on-npl",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-a953282f9a3f5ef9bf",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएल फाइनल: सुदूरपश्चिमले टस जित्यो, पहिले बलिङ गर्ने",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://nepalnews.com/2026/11/21/npl-final-sudurpaschim-wins-the-toss-chooses-to-bowl-first/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-a953282f9a3f5ef9bf",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएल फाइनल: सुदूरपश्चिमले टस जित्यो, पहिले बलिङ गर्ने",
+      "options": [
+        "NepalNews",
+        "Setopati",
+        "Ratopati",
+        "The Kathmandu Post"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/21/npl-final-sudurpaschim-wins-the-toss-chooses-to-bowl-first/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-7d35e34cd47e8751db",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — श्रम बजारमा रोबोटको राज",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://nepalnews.com/2026/11/21/the-secret-of-robots-in-the-labor-market/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-7d35e34cd47e8751db",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — श्रम बजारमा रोबोटको राज",
+      "options": [
+        "NepalNews",
+        "The Kathmandu Post",
+        "Khabarhub",
+        "Setopati"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/21/the-secret-of-robots-in-the-labor-market/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-6725a06f2733a7675a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — अवसर र चुनौतीबिच छैटौँ पूर्वाधार सम्मेलन",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606711/the-sixth-infrastructure-conference-between-opportunities-and-challenges",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-6725a06f2733a7675a",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — अवसर र चुनौतीबिच छैटौँ पूर्वाधार सम्मेलन",
+      "options": [
+        "स्वास्थ्य",
+        "पूर्वाधार तथा यातायात",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606711/the-sixth-infrastructure-conference-between-opportunities-and-challenges",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-6725a06f2733a7675a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — अवसर र चुनौतीबिच छैटौँ पूर्वाधार सम्मेलन",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "Nepal Samaya"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606711/the-sixth-infrastructure-conference-between-opportunities-and-challenges",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-1da53d6b5899459c83",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — लागु औषधसहित एक जना पक्राउ",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229837",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-1da53d6b5899459c83",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — लागु औषधसहित एक जना पक्राउ",
+      "options": [
+        "Himalkhabar",
+        "Himal Press",
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229837",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-89264027b072d31a07",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपालमा शान्ति सम्झौताका २० वर्ष : आशा र निराशा",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606739/20-years-of-peace-agreement-in-nepal-hope-and-despair",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-89264027b072d31a07",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपालमा शान्ति सम्झौताका २० वर्ष : आशा र निराशा",
+      "options": [
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक",
+        "NepalNews",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606739/20-years-of-peace-agreement-in-nepal-hope-and-despair",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-2820c189cb017d24ec",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आक्रमणबाट प्यालेस्टिनी किसान प्रभावित",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229836",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-2820c189cb017d24ec",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आक्रमणबाट प्यालेस्टिनी किसान प्रभावित",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Nepal Samaya",
+        "Setopati",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229836",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-6b94c97d7dd0b7a1b8",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपाली क्रिकेटको उत्सव चलिरहँदा गुमनाम एक पूर्वकप्तान",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062400/an-anonymous-former-captain-as-the-cricket-festival-continues",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-6b94c97d7dd0b7a1b8",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — नेपाली क्रिकेटको उत्सव चलिरहँदा गुमनाम एक पूर्वकप्तान",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "खेलकुद"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062400/an-anonymous-former-captain-as-the-cricket-festival-continues",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-6b94c97d7dd0b7a1b8",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपाली क्रिकेटको उत्सव चलिरहँदा गुमनाम एक पूर्वकप्तान",
+      "options": [
+        "The Kathmandu Post",
+        "OnlineKhabar",
+        "गोरखापत्र दैनिक",
+        "NepalNews"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062400/an-anonymous-former-captain-as-the-cricket-festival-continues",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-228825284d53967e9d",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भूमि प्रशासनसम्बन्धी सेवा स्थानीय तहबाटै",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229835",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-228825284d53967e9d",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भूमि प्रशासनसम्बन्धी सेवा स्थानीय तहबाटै",
+      "options": [
+        "Khabarhub",
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229835",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-408f24941dad76d06f",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएल फाइनल : लुम्बिनी भर्सेस सुदूरपश्चिम भिडन्त (LIVE UPDATES)",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606737/npl-final-lumbini-vs-sudar-paschim-live-updates",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-408f24941dad76d06f",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएल फाइनल : लुम्बिनी भर्सेस सुदूरपश्चिम भिडन्त (LIVE UPDATES)",
+      "options": [
+        "Himal Press",
+        "Ratopati",
+        "OnlineKhabar",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606737/npl-final-lumbini-vs-sudar-paschim-live-updates",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-c45a1fa0deb1e94d6d",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — जहाँ परिवारले नयाँ जीवन पायो, त्यही घर छाडेर हिँड्नुपर्‍यो!",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.setopati.com/blog/403073",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-c45a1fa0deb1e94d6d",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — जहाँ परिवारले नयाँ जीवन पायो, त्यही घर छाडेर हिँड्नुपर्‍यो!",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "The Kathmandu Post",
+        "Setopati",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/blog/403073",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-26937b859ea1b5dd1e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सुदूरपश्चिमले टस जितेर लुम्बिनी विरुद्ध पहिले फिल्डिङ गर्ने",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229834",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-26937b859ea1b5dd1e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सुदूरपश्चिमले टस जितेर लुम्बिनी विरुद्ध पहिले फिल्डिङ गर्ने",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Ratopati",
+        "Setopati",
+        "Nepal Samaya"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229834",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-1a3a969d8c0ac11555",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘भारतसँग निजी क्षेत्रका समस्या प्राथमिकताका साथ उठाइयोस्’",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://himalpress.com/2026/11/private-sector-engagement-with-india/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-1a3a969d8c0ac11555",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘भारतसँग निजी क्षेत्रका समस्या प्राथमिकताका साथ उठाइयोस्’",
+      "options": [
+        "Himal Press",
+        "NepalNews",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/private-sector-engagement-with-india/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-879282813220f322b0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएलको फाइनलमा सुदूरपश्चिमले टस जित्यो, लुम्बिनीले पहिले ब्याटिङ गर्दै",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://khabarhub.com/2026/21/1050057/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-879282813220f322b0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएलको फाइनलमा सुदूरपश्चिमले टस जित्यो, लुम्बिनीले पहिले ब्याटिङ गर्दै",
+      "options": [
+        "OnlineKhabar",
+        "The Kathmandu Post",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/21/1050057/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-8a33d01466eaa71330",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रधानमन्त्रीलाई प्रभु साहको सुझाव : भारतसँगको व्यापार घाटा र थाती विषय सुल्झाउनुहोस्",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606736/prabhu-sahs-suggestion-to-the-prime-minister-resolve-the-trade-deficit-and-stalemate-with-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-8a33d01466eaa71330",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्रीलाई प्रभु साहको सुझाव : भारतसँगको व्यापार घाटा र थाती विषय सुल्झाउनुहोस्",
+      "options": [
+        "स्वास्थ्य",
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606736/prabhu-sahs-suggestion-to-the-prime-minister-resolve-the-trade-deficit-and-stalemate-with-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-8a33d01466eaa71330",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रधानमन्त्रीलाई प्रभु साहको सुझाव : भारतसँगको व्यापार घाटा र थाती विषय सुल्झाउनुहोस्",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Nepal Samaya",
+        "Himal Press",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606736/prabhu-sahs-suggestion-to-the-prime-minister-resolve-the-trade-deficit-and-stalemate-with-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-7ecd3669c05204c3b1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सुदूरपश्चिमले टस जित्यो, लुम्बिनी पहिले ब्याटिङ गर्दै",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062387/2062387",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-7ecd3669c05204c3b1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सुदूरपश्चिमले टस जित्यो, लुम्बिनी पहिले ब्याटिङ गर्दै",
+      "options": [
+        "OnlineKhabar",
+        "Himal Press",
+        "गोरखापत्र दैनिक",
+        "NepalNews"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062387/2062387",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-130142efa8189585e9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — १२८ देशहरू सन् २०२८ भित्र एआई सञ्चालित किलर रोबोट सम्बन्धी नियम विस्तार गर्न सहमत",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062391/128-countries-agree-to-expand-rules-on-ai-powered-killer-robots-by-2028",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-130142efa8189585e9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — १२८ देशहरू सन् २०२८ भित्र एआई सञ्चालित किलर रोबोट सम्बन्धी नियम विस्तार गर्न सहमत",
+      "options": [
+        "Setopati",
+        "Himal Press",
+        "OnlineKhabar",
+        "Himalkhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062391/128-countries-agree-to-expand-rules-on-ai-powered-killer-robots-by-2028",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-08cb7f25c649381f57",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भारत भ्रमणमा निजी क्षेत्रका समस्यालाई प्राथमिकताका साथ उठाउनुपर्छ : कमलेश अग्रवाल",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606735/private-sector-issues-should-be-raised-as-a-priority-during-india-visit-kamlesh-agrawal",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-08cb7f25c649381f57",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारत भ्रमणमा निजी क्षेत्रका समस्यालाई प्राथमिकताका साथ उठाउनुपर्छ : कमलेश अग्रवाल",
+      "options": [
+        "समाज तथा संस्कृति",
+        "कूटनीति तथा अन्तर्राष्ट्रिय सम्बन्ध",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606735/private-sector-issues-should-be-raised-as-a-priority-during-india-visit-kamlesh-agrawal",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-08cb7f25c649381f57",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भारत भ्रमणमा निजी क्षेत्रका समस्यालाई प्राथमिकताका साथ उठाउनुपर्छ : कमलेश अग्रवाल",
+      "options": [
+        "Ratopati",
+        "Himal Press",
+        "NepalNews",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606735/private-sector-issues-should-be-raised-as-a-priority-during-india-visit-kamlesh-agrawal",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-d81249c46a3ec7adc5",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सुदूरपश्चिमले टस जितेर बलिङ रोज्यो, फाइनलमा एक परिवर्तन",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.setopati.com/sports/npl/403075",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-d81249c46a3ec7adc5",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सुदूरपश्चिमले टस जितेर बलिङ रोज्यो, फाइनलमा एक परिवर्तन",
+      "options": [
+        "Setopati",
+        "Khabarhub",
+        "Ratopati",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/sports/npl/403075",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-b814401471fd4a2aa4",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — फाइनलमा लुम्बिनीविरुद्ध सुदूरपश्चिमले पहिले बलिङ गर्ने",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606734/sudurpaschim-will-bowl-first-against-lumbini-in-the-final",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-b814401471fd4a2aa4",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — फाइनलमा लुम्बिनीविरुद्ध सुदूरपश्चिमले पहिले बलिङ गर्ने",
+      "options": [
+        "Himalkhabar",
+        "Ratopati",
+        "Nepal Samaya",
+        "OnlineKhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606734/sudurpaschim-will-bowl-first-against-lumbini-in-the-final",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-21bcb5883805f9db5a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रधानमन्त्रीको भारत भ्रमण ऊर्जा व्यापार र पूर्वाधार विकासमा केन्द्रित हुनुपर्छ : गणेश कार्की",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606733/prime-ministers-visit-to-india-should-focus-on-energy-trade-and-infrastructure-development-ganesh-karki",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-21bcb5883805f9db5a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रधानमन्त्रीको भारत भ्रमण ऊर्जा व्यापार र पूर्वाधार विकासमा केन्द्रित हुनुपर्छ : गणेश कार्की",
+      "options": [
+        "Setopati",
+        "कान्तिपुर दैनिक",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606733/prime-ministers-visit-to-india-should-focus-on-energy-trade-and-infrastructure-development-ganesh-karki",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-d21e43af8ba31f558b",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — जेब्रा क्रसिङमा सवारीसाधन नरोकेको गुनासो",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229833",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-d21e43af8ba31f558b",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — जेब्रा क्रसिङमा सवारीसाधन नरोकेको गुनासो",
+      "options": [
+        "Ratopati",
+        "गोरखापत्र दैनिक",
+        "Nepal Samaya",
+        "NepalNews"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229833",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-d5617a5d06a2c055b5",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सीप हस्तान्तरणको नमुना अभ्यास",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229832",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-d5617a5d06a2c055b5",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सीप हस्तान्तरणको नमुना अभ्यास",
+      "options": [
+        "Setopati",
+        "OnlineKhabar",
+        "NepalNews",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229832",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-882e3b29a2a95f1031",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — राजमार्ग बन्द गरेर घोप्टेभीरको सुक्खा पहिरो रोकथामको काम सुरू",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606732/work-begins-to-prevent-dry-landslides-in-ghoptebhir-by-closing-the-highway",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-882e3b29a2a95f1031",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — राजमार्ग बन्द गरेर घोप्टेभीरको सुक्खा पहिरो रोकथामको काम सुरू",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "वातावरण तथा विपद्"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606732/work-begins-to-prevent-dry-landslides-in-ghoptebhir-by-closing-the-highway",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-882e3b29a2a95f1031",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — राजमार्ग बन्द गरेर घोप्टेभीरको सुक्खा पहिरो रोकथामको काम सुरू",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "Setopati",
+        "The Kathmandu Post",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606732/work-begins-to-prevent-dry-landslides-in-ghoptebhir-by-closing-the-highway",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-6f9db14e7ca5f007c0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बङ्गलादेशमा हिंसा-प्रतिहिंसाको शृङ्खला हसिना समर्थकका ५० घरमा आगजनी",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062375/bangladesh-50-houses-of-hasina-supporters-set-on-fire-in-series-of-violence-counter-violence",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-6f9db14e7ca5f007c0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बङ्गलादेशमा हिंसा-प्रतिहिंसाको शृङ्खला हसिना समर्थकका ५० घरमा आगजनी",
+      "options": [
+        "NepalNews",
+        "OnlineKhabar",
+        "Khabarhub",
+        "Himal Press"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062375/bangladesh-50-houses-of-hasina-supporters-set-on-fire-in-series-of-violence-counter-violence",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-8e0df614aff721d7ec",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — जेफ्री एपस्टिनको रुसप्रेम",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606709/jeffrey-epsteins-love-of-russia",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-8e0df614aff721d7ec",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — जेफ्री एपस्टिनको रुसप्रेम",
+      "options": [
+        "Ratopati",
+        "Himal Press",
+        "Himalkhabar",
+        "OnlineKhabar"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606709/jeffrey-epsteins-love-of-russia",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-f11145fdd610d2a7a9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — शिखर वार्ताले मक्ख ट्रम्प, तर चीनले बढायो कूटनीतिक र रणनीतिक प्रभाव",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606730/trump-wins-summit-but-china-increases-diplomatic-and-strategic-influence",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-f11145fdd610d2a7a9",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — शिखर वार्ताले मक्ख ट्रम्प, तर चीनले बढायो कूटनीतिक र रणनीतिक प्रभाव",
+      "options": [
+        "समाज तथा संस्कृति",
+        "कूटनीति तथा अन्तर्राष्ट्रिय सम्बन्ध",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606730/trump-wins-summit-but-china-increases-diplomatic-and-strategic-influence",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-f11145fdd610d2a7a9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — शिखर वार्ताले मक्ख ट्रम्प, तर चीनले बढायो कूटनीतिक र रणनीतिक प्रभाव",
+      "options": [
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "Khabarhub",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606730/trump-wins-summit-but-china-increases-diplomatic-and-strategic-influence",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-2e4aac8798f2d4fb82",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — नेपालमा राक्षसीराज चलिरहेको छ : ओली",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606731/demonic-kingdom-is-running-in-nepal-oli",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-2e4aac8798f2d4fb82",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — नेपालमा राक्षसीराज चलिरहेको छ : ओली",
+      "options": [
+        "The Kathmandu Post",
+        "Ratopati",
+        "गोरखापत्र दैनिक",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606731/demonic-kingdom-is-running-in-nepal-oli",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-923817a5faeab1e0ed",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — इजरायलमा आगामी सरकारमा दुवै अति–रूढिवादी यहुदी दल सहभागी हुने विश्वास व्यक्त",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229831",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-923817a5faeab1e0ed",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — इजरायलमा आगामी सरकारमा दुवै अति–रूढिवादी यहुदी दल सहभागी हुने विश्वास व्यक्त",
+      "options": [
+        "स्वास्थ्य",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229831",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-923817a5faeab1e0ed",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — इजरायलमा आगामी सरकारमा दुवै अति–रूढिवादी यहुदी दल सहभागी हुने विश्वास व्यक्त",
+      "options": [
+        "The Kathmandu Post",
+        "NepalNews",
+        "गोरखापत्र दैनिक",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229831",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-f94971b4166f57cd58",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — विद्युत् ठेक्का वर्षौंदेखि अलपत्र, अँध्यारोमा गाउँबस्ती",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229830",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-f94971b4166f57cd58",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — विद्युत् ठेक्का वर्षौंदेखि अलपत्र, अँध्यारोमा गाउँबस्ती",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "Setopati",
+        "कान्तिपुर दैनिक",
+        "The Kathmandu Post"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229830",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-81cb09c169cd95d371",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘डरपोक राष्ट्रपतिले असंवैधानिक ढङ्गले संसद् विघटन गर्नुभयो’",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606729/the-cowardly-president-dissolved-parliament-unconstitutionally",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-4b031f1c3e78ea59d0",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — जसपा नेपालका सरोजकुमार यादव बने मधेसको मुख्यमन्त्री",
+      "options": [
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.setopati.com/politics/403071",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-550f69b94edab364c4",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बालेन सरकार बर्खामा उम्रिएको चुच्चे च्याउ हो, कुहिएर सकिन्छ : महेश बस्नेत",
+      "options": [
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606723/the-balen-government-is-a-mushroom-that-has-grown-in-the-rainy-season-it-will-rot-and-end-up-rotting-mahesh-basnet",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-fc4822466bc8ecce9a",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारतीय विद्यार्थीको चित्रमा नेपाली कला, संस्कृति र हिमाल (तस्वीरहररू)",
+      "options": [
+        "समाज तथा संस्कृति",
+        "विज्ञान तथा प्रविधि",
+        "स्वास्थ्य",
+        "वातावरण तथा विपद्"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062359/nepali-art-culture-and-mountains-in-indian-students-paintings-photos",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-ba286f1ffe1e41c064",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — राष्ट्रपतिले डरपोक भएर असंवैधानिक रुपमा संसद् विघटन गर्नुभयो : ओली",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062361/president-cowardly-dissolved-parliament-unconstitutionally-oli",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-df5e16f369189e879f",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सुदूरपश्चिम विश्वविद्यालयमा राष्ट्रिय ह्याकाथन प्रतियोगिता सुरु",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य",
+        "विज्ञान तथा प्रविधि"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/21/1050051/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-31031c66764d009dd6",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -18150,42 +19823,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-0962449c210a1f37a5",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — सुदूरपश्चिम विश्वविद्यालयमा राष्ट्रिय ह्याकाथन प्रतियोगिता सुरु",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606710/national-hackathon-competition-begins-at-sudurpaschim-university",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-dd072cefcc564430f9",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — जीवाश्म इन्धनमा विवादले जलवायु वार्ता लम्बियो",
-      "options": [
-        "स्वास्थ्य",
-        "वातावरण तथा विपद्",
-        "समाज तथा संस्कृति",
-        "शिक्षा"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606708/climate-talks-delayed-by-dispute-over-fossil-fuels",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-adbc7c30822d05066e",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -18200,42 +19837,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://khabarhub.com/2026/21/1050044/",
       "news_source": "Khabarhub",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-0d58e40730ab9089ea",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्रीको भारत भ्रमण टोलीमा निर्यातजन्य वस्तुगत सङ्घका प्रतिनिधि नसमेटिएको भन्दै आपत्ति",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606706/objections-raised-over-the-absence-of-representatives-from-the-export-import-goods-association-in-the-prime-ministers-india-visit-team",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-8dbf610a12ce75ea14",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारतीय विद्यार्थीको चित्रमा जीवित देवी कुमारीदेखि हिमालसम्म, दूतावासमा प्रदर्शनी",
-      "options": [
-        "विज्ञान तथा प्रविधि",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606705/indian-students-paintings-from-living-goddess-kumari-to-the-himalayas-exhibit-at-the-embassy",
-      "news_source": "Ratopati",
       "news_date": "2026-11-21",
       "question_basis": "headline_keyword_classification"
     },
@@ -18308,24 +19909,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2062329/construction-of-separate-residences-for-ganesh-and-bhairav-contributes-to-heritage-conservation-dangol",
       "news_source": "OnlineKhabar",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-d3411afe6161b5ab16",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — गाँजा विवादमा वृद्ध दम्पतीमाथि इँट्टा प्रहार : घाइते पतिको मृत्यु, पत्नी अस्पतालमा",
-      "options": [
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606697/elderly-couple-pelted-with-bricks-in-marijuana-dispute-injured-husband-dies-wife-hospitalized",
-      "news_source": "Ratopati",
       "news_date": "2026-11-21",
       "question_basis": "headline_keyword_classification"
     },
@@ -18654,24 +20237,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-d60b6fddfa0a35dc6c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — विस्तृत शान्ति सम्झौता राजनीतिक रूपान्तरणको ऐतिहासिक आधार : प्रचण्ड",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2062252/comprehensive-peace-agreement-is-the-historical-basis-for-political-transformation-prachanda",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-f10f525c29c07195f7",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -18762,24 +20327,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-9b5bd3161b7a23cb71",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — स्वदेशी उत्पादन बढाएर मात्रै नेपालको समृद्धि सम्भव छ : मन्त्री साह [भिडियो]",
-      "options": [
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalsamaya.com/detail/147943",
-      "news_source": "Nepal Samaya",
-      "news_date": "2026-11-20",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-7e515306143ee919c0",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -18852,40 +20399,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-date-cb9607bfe6f049ced4",
-      "topic": "समाचारको मिति",
-      "level": "समसामयिक",
-      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Demonstration demanding to stop construction of Upper Tamor hydropower project - Ekantipur",
-      "options": [
-        "ई.सं. २०२५-०७-१९",
-        "ई.सं. २०२५-०७-१८",
-        "ई.सं. २०२५-०७-१७",
-        "ई.सं. २०२५-०७-१६"
-      ],
-      "answer": 1,
-      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२५-०७-१८ हो।",
-      "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3M4UU5DMlBLVlVDRTI5V1RKbHlCcmtHdExxVThHZmhjOUY2YmxkT3dNaVR2OWItWm5Cd1NtNy05aURjRmZpc2ZfOTZRcWFWZmp1MTkzYVdtQjU0WEdUTXJTbnk2VzE0dTFNLTlzQlkwbmdHc2xHYXV3RkMyVThiWlM2TGk2d0RCZUt4NG1tRzN4NldqZVltbTY5TnMybWN5cUtCNkFHbVpuNmhLaUtPRnRmcVRpUXJybVp4bDNGLWRhWWRuc2NlMnVQbjVqb3Bv?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2025-07-18"
-    },
-    {
-      "id": "news-source-cb9607bfe6f049ced4",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Demonstration demanding to stop construction of Upper Tamor hydropower project - Ekantipur",
-      "options": [
-        "Himal Press",
-        "Khabarhub",
-        "कान्तिपुर दैनिक",
-        "गोरखापत्र दैनिक"
-      ],
-      "answer": 2,
-      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
-      "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3M4UU5DMlBLVlVDRTI5V1RKbHlCcmtHdExxVThHZmhjOUY2YmxkT3dNaVR2OWItWm5Cd1NtNy05aURjRmZpc2ZfOTZRcWFWZmp1MTkzYVdtQjU0WEdUTXJTbnk2VzE0dTFNLTlzQlkwbmdHc2xHYXV3RkMyVThiWlM2TGk2d0RCZUt4NG1tRzN4NldqZVltbTY5TnMybWN5cUtCNkFHbVpuNmhLaUtPRnRmcVRpUXJybVp4bDNGLWRhWWRuc2NlMnVQbjVqb3Bv?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2025-07-18"
-    },
-    {
       "id": "news-topic-63828242d9bb3adcb1",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -18904,53 +20417,19 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-source-089f654ed5fe927312",
+      "id": "news-source-7d9fabd4eef427ddfc",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Road to the final: Powerplay could hold the key to NPL title",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Sudurpaschim opt to field first against Lumbini in NPL final",
       "options": [
-        "Khabarhub",
         "The Kathmandu Post",
-        "Nepal Samaya",
-        "Setopati"
-      ],
-      "answer": 1,
-      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
-      "source": "https://kathmandupost.com/cricket/2026/11/21/road-to-the-final-powerplay-could-hold-the-key-to-npl-title",
-      "news_source": "The Kathmandu Post",
-      "news_date": ""
-    },
-    {
-      "id": "news-source-3d719536feba38906c",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Santoshi Shrestha wins two golds with course records in Maldives",
-      "options": [
-        "कान्तिपुर दैनिक",
         "गोरखापत्र दैनिक",
-        "Himalkhabar",
-        "The Kathmandu Post"
-      ],
-      "answer": 3,
-      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
-      "source": "https://kathmandupost.com/sports/2026/11/21/santoshi-shrestha-wins-two-golds-with-course-records-in-maldives",
-      "news_source": "The Kathmandu Post",
-      "news_date": ""
-    },
-    {
-      "id": "news-source-9d5518b016c275fb5f",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Saroj Kumar Yadav appointed Madhesh chief minister",
-      "options": [
-        "The Kathmandu Post",
-        "Himalkhabar",
         "Himal Press",
-        "Khabarhub"
+        "Himalkhabar"
       ],
       "answer": 0,
       "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
-      "source": "https://kathmandupost.com/politics/2026/11/21/saroj-kumar-yadav-appointed-madhesh-chief-minister",
+      "source": "https://kathmandupost.com/cricket/2026/11/21/sudurpaschim-opt-to-field-first-against-lumbini-in-npl-final",
       "news_source": "The Kathmandu Post",
       "news_date": ""
     }
