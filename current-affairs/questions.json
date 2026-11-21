@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T18:32:51.951596+00:00",
-  "total": 1646,
-  "generated_from_news": 1551,
+  "updated": "2026-11-21T19:39:24.440275+00:00",
+  "total": 1655,
+  "generated_from_news": 1560,
   "questions": [
     {
       "id": "constitution-001",
@@ -26980,6 +26980,212 @@
       "news_date": "2026-11-21"
     },
     {
+      "id": "news-date-8e00314d0acb5db47e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘Pink Walk’ Held to Raise Awareness About Breast Cancer [Photos] - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-१०-०४",
+        "ई.सं. २०२६-१०-०१",
+        "ई.सं. २०२६-१०-०२",
+        "ई.सं. २०२६-१०-०३"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-१०-०३ हो।",
+      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVlIUDg2aXFrUDZ6SFpIeTEtLS1LLXBaUWxZVldtdzNCSm81NTBKWUdubUx3UXcwcUl5S1M3VHFzRXhLN3NDUkE4OEJkNFZhbVZMNTB6TUZDME5DZE5yWTVmeWl4THVHVVdpTldNTm4wdDQxV2pYdkxCY3p3cnRIUFpWRmxtbzh5azUxYVR1QUR6Q0VwdmVreWNPUnRlYnpOTkpjRlVpdWs?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-10-03"
+    },
+    {
+      "id": "news-source-8e00314d0acb5db47e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘Pink Walk’ Held to Raise Awareness About Breast Cancer [Photos] - Ekantipur",
+      "options": [
+        "OnlineKhabar",
+        "Khabarhub",
+        "कान्तिपुर दैनिक",
+        "Setopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVlIUDg2aXFrUDZ6SFpIeTEtLS1LLXBaUWxZVldtdzNCSm81NTBKWUdubUx3UXcwcUl5S1M3VHFzRXhLN3NDUkE4OEJkNFZhbVZMNTB6TUZDME5DZE5yWTVmeWl4THVHVVdpTldNTm4wdDQxV2pYdkxCY3p3cnRIUFpWRmxtbzh5azUxYVR1QUR6Q0VwdmVreWNPUnRlYnpOTkpjRlVpdWs?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-10-03"
+    },
+    {
+      "id": "news-date-d4e3e556d18ae32927",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-d4e3e556d18ae32927",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
+      "options": [
+        "वातावरण तथा विपद्",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-d4e3e556d18ae32927",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
+      "options": [
+        "Himalkhabar",
+        "Nepal Samaya",
+        "Ratopati",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-09b850be6ad673fe44",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606804/apf-club-wins-first-dharan-womens-gold-cup-title",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-09b850be6ad673fe44",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई",
+      "options": [
+        "Setopati",
+        "Nepal Samaya",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606804/apf-club-wins-first-dharan-womens-gold-cup-title",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-3eb686faf8f09c1dcd",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — राप्तीसोनारीको नेचर रनको उपाधि शाही र डाँगीलाई",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606803/shahi-and-dangi-win-rapti-sonari-nature-run-title",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-3eb686faf8f09c1dcd",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — राप्तीसोनारीको नेचर रनको उपाधि शाही र डाँगीलाई",
+      "options": [
+        "OnlineKhabar",
+        "Ratopati",
+        "कान्तिपुर दैनिक",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606803/shahi-and-dangi-win-rapti-sonari-nature-run-title",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-1cf907f97cdb4b34d1",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-1cf907f97cdb4b34d1",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
+      "options": [
+        "स्वास्थ्य",
+        "विज्ञान तथा प्रविधि",
+        "समाज तथा संस्कृति",
+        "शिक्षा"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-1cf907f97cdb4b34d1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
+      "options": [
+        "Khabarhub",
+        "Ratopati",
+        "Himal Press",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
       "id": "news-topic-8a5475a67db050e564",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -27394,24 +27600,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-3374a4ba33f18fce3b",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एआई र प्रविधिको विकासलाई आत्मसात् गर्दै कम्युनिष्ट आन्दोलनले नयाँ रणनीति बनाउनुपर्छ : वर्षमान पुन",
-      "options": [
-        "विज्ञान तथा प्रविधि",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606778/communist-movement-should-formulate-new-strategy-by-embracing-ai-and-technological-developments-varshaman-pun",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-80db79db1ec9fe7ca3",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -27788,40 +27976,6 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-date-8e00314d0acb5db47e",
-      "topic": "समाचारको मिति",
-      "level": "समसामयिक",
-      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘Pink Walk’ Held to Raise Awareness About Breast Cancer [Photos] - Ekantipur",
-      "options": [
-        "ई.सं. २०२६-१०-०४",
-        "ई.सं. २०२६-१०-०१",
-        "ई.सं. २०२६-१०-०२",
-        "ई.सं. २०२६-१०-०३"
-      ],
-      "answer": 3,
-      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-१०-०३ हो।",
-      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVlIUDg2aXFrUDZ6SFpIeTEtLS1LLXBaUWxZVldtdzNCSm81NTBKWUdubUx3UXcwcUl5S1M3VHFzRXhLN3NDUkE4OEJkNFZhbVZMNTB6TUZDME5DZE5yWTVmeWl4THVHVVdpTldNTm4wdDQxV2pYdkxCY3p3cnRIUFpWRmxtbzh5azUxYVR1QUR6Q0VwdmVreWNPUnRlYnpOTkpjRlVpdWs?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2026-10-03"
-    },
-    {
-      "id": "news-source-8e00314d0acb5db47e",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘Pink Walk’ Held to Raise Awareness About Breast Cancer [Photos] - Ekantipur",
-      "options": [
-        "OnlineKhabar",
-        "Khabarhub",
-        "कान्तिपुर दैनिक",
-        "Setopati"
-      ],
-      "answer": 2,
-      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
-      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVlIUDg2aXFrUDZ6SFpIeTEtLS1LLXBaUWxZVldtdzNCSm81NTBKWUdubUx3UXcwcUl5S1M3VHFzRXhLN3NDUkE4OEJkNFZhbVZMNTB6TUZDME5DZE5yWTVmeWl4THVHVVdpTldNTm4wdDQxV2pYdkxCY3p3cnRIUFpWRmxtbzh5azUxYVR1QUR6Q0VwdmVreWNPUnRlYnpOTkpjRlVpdWs?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2026-10-03"
     },
     {
       "id": "news-topic-63828242d9bb3adcb1",
