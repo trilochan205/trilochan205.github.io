@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T15:36:29.283352+00:00",
-  "total": 1541,
-  "generated_from_news": 1446,
+  "updated": "2026-11-21T16:36:38.890795+00:00",
+  "total": 1567,
+  "generated_from_news": 1472,
   "questions": [
     {
       "id": "constitution-001",
@@ -24413,24 +24413,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-624b9b0741b3d2493a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपिएलका खेल होम एन्ड अवे प्रणालीमा गर्न आठ वटा रंगशाला बनाउने प्रधानमन्त्रीको घोषणा",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.setopati.com/sports/npl/403090",
-      "news_source": "Setopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-624b9b0741b3d2493a",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -24497,24 +24479,6 @@
       "source": "https://www.ratopati.com/story/606793/physical-progress-of-tamor-mewa-hydropower-project-is-35-percent",
       "news_source": "Ratopati",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-2e0b8212639ad0c92c",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — तमोर मेवा जलविद्युत् आयोजनाको भौतिक प्रगति ३५ प्रतिशत",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606793/physical-progress-of-tamor-mewa-hydropower-project-is-35-percent",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-2e0b8212639ad0c92c",
@@ -24653,24 +24617,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-6212f1fbad66cf20a2",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — दीपेन्द्र प्रतियोगिताको उत्कृष्ट खेलाडी घोषित, रिजनले पाए कार",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "खेलकुद",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2062751/dipendra-declared-the-best-player-of-the-tournament-region-received-a-car",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-6212f1fbad66cf20a2",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -24773,24 +24719,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-1d4e22e44782cf9306",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘भोटेकोशी विपद् नभएको भए प्रधानमन्त्री बालेन भारत भ्रमणमा आउने थिएनन्’",
-      "options": [
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606750/if-it-werent-for-the-bhotekoshi-disaster-prime-minister-balen-would-not-have-visited-india",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-1d4e22e44782cf9306",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -24823,24 +24751,6 @@
       "source": "https://khabarhub.com/2026/21/1050110/",
       "news_source": "Khabarhub",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-804ace3f4d4636930f",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएल सिजन–३ का उत्कृष्ट खेलाडी रिजन ढकालले जिते ओमोडाको कार",
-      "options": [
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "खेलकुद"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/21/1050110/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-804ace3f4d4636930f",
@@ -24909,24 +24819,6 @@
       "source": "https://nepalnews.com/2026/11/21/japanese-deputy-foreign-minister-fujii-pays-courtesy-call-on-foreign-minister-khanal/",
       "news_source": "NepalNews",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-3a2791eb0cafc02ef5",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — परराष्ट्रमन्त्री खनालसँग जापानी उपविदेशमन्त्री फुजीको शिष्टाचार भेटवार्ता",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalnews.com/2026/11/21/japanese-deputy-foreign-minister-fujii-pays-courtesy-call-on-foreign-minister-khanal/",
-      "news_source": "NepalNews",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-3a2791eb0cafc02ef5",
@@ -25133,24 +25025,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-377a96c3dd68a112cf",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएलका आठै टोलीका लागि छुट्टाछुट्टै क्रिकेट रंगशाला बनाउने प्रधानमन्त्रीको घोषणा",
-      "options": [
-        "राजनीति तथा शासन",
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/21/1050104/",
-      "news_source": "Khabarhub",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-377a96c3dd68a112cf",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -25185,24 +25059,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-005f531e2572bdbfe6",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मधेशका नवनियुक्त मुख्यमन्त्री यादवको शपथ भोलि बिहान १० बजे",
-      "options": [
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2062725/yadav-the-newly-appointed-chief-minister-of-madhesh-will-be-sworn-in-tomorrow-at-10-am",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-005f531e2572bdbfe6",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -25235,24 +25091,6 @@
       "source": "https://www.ratopati.com/story/606788/preparations-for-prime-ministers-visit-to-india-complete-jitin-prasad-to-welcome-him-at-the-airport",
       "news_source": "Ratopati",
       "news_date": "2026-11-21"
-    },
-    {
-      "id": "news-topic-73bf205750e27ad51f",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्रीको भारत भ्रमणको तयारी पूरा, विमानस्थलमा जितिन प्रसादले स्वागत गर्ने",
-      "options": [
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "शिक्षा",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 1,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606788/preparations-for-prime-ministers-visit-to-india-complete-jitin-prasad-to-welcome-him-at-the-airport",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-source-73bf205750e27ad51f",
@@ -25338,6 +25176,734 @@
       "source": "https://www.onlinekhabar.com/2026/11/2062712/npl-title-in-polta-far-west-fireworks-at-tu-ground-photos",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-fd9168e85c1406ea80",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Government plans floodlit home grounds for all eight NPL clubs",
+      "options": [
+        "Nepal Samaya",
+        "Setopati",
+        "Himal Press",
+        "The Kathmandu Post"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/national/2026/11/21/government-plans-floodlit-home-grounds-for-all-eight-npl-clubs",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-source-945b2b3e2ecf00204e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Sudurpaschim crowned NPL champions after dominant final win",
+      "options": [
+        "The Kathmandu Post",
+        "Khabarhub",
+        "NepalNews",
+        "कान्तिपुर दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
+      "source": "https://kathmandupost.com/visual-stories/2026/11/21/sudurpaschim-crowned-npl-champions-after-dominant-final-win",
+      "news_source": "The Kathmandu Post",
+      "news_date": ""
+    },
+    {
+      "id": "news-date-4dcf911cc56e63dd49",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएल सिजन–३ का अवार्ड विजेता घोषणा",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://nepalnews.com/2026/11/21/npl-season-3-award-winners-announced/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-4dcf911cc56e63dd49",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएल सिजन–३ का अवार्ड विजेता घोषणा",
+      "options": [
+        "Himalkhabar",
+        "NepalNews",
+        "Ratopati",
+        "Nepal Samaya"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/21/npl-season-3-award-winners-announced/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-8f57ada9431e26f349",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु : देउवा",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://khabarhub.com/2026/21/1050122/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-8f57ada9431e26f349",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु : देउवा",
+      "options": [
+        "NepalNews",
+        "Khabarhub",
+        "The Kathmandu Post",
+        "Himal Press"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/21/1050122/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-473ed44894ec9f94b5",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — सुदूरपश्चिमको स्वभाव नै फाइनल पुग्नु हो, उपाधि जित्ने समय यस पटक आयो : मुन्से",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606795/it-is-the-nature-of-sudurpaschim-to-reach-the-final-the-time-has-come-to-win-the-title-munse",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-473ed44894ec9f94b5",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — सुदूरपश्चिमको स्वभाव नै फाइनल पुग्नु हो, उपाधि जित्ने समय यस पटक आयो : मुन्से",
+      "options": [
+        "The Kathmandu Post",
+        "Ratopati",
+        "Nepal Samaya",
+        "NepalNews"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606795/it-is-the-nature-of-sudurpaschim-to-reach-the-final-the-time-has-come-to-win-the-title-munse",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-fc7c50bcb97256e27e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — उपाधि जितेपछि सुदूरपश्चिम रोयल्सको खुसीयाली (तस्बिरहरू)",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.setopati.com/sports/npl/403091",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-fc7c50bcb97256e27e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — उपाधि जितेपछि सुदूरपश्चिम रोयल्सको खुसीयाली (तस्बिरहरू)",
+      "options": [
+        "OnlineKhabar",
+        "Himal Press",
+        "NepalNews",
+        "Setopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Setopati हो।",
+      "source": "https://www.setopati.com/sports/npl/403091",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-948a53278291e4910e",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — १० बजे १० समाचार : यस्तो छ प्रधानमन्त्रीको भारत भ्रमणको तयारी, सुदूरपश्चिमले जित्यो एनपीएल उपाधि",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.ratopati.com/story/606794/10-news-at-10-sudurpaschim-wins-npl-title-here-are-the-preparations-for-the-prime-ministers-visit-to-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-948a53278291e4910e",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — १० बजे १० समाचार : यस्तो छ प्रधानमन्त्रीको भारत भ्रमणको तयारी, सुदूरपश्चिमले जित्यो एनपीएल उपाधि",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606794/10-news-at-10-sudurpaschim-wins-npl-title-here-are-the-preparations-for-the-prime-ministers-visit-to-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-948a53278291e4910e",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — १० बजे १० समाचार : यस्तो छ प्रधानमन्त्रीको भारत भ्रमणको तयारी, सुदूरपश्चिमले जित्यो एनपीएल उपाधि",
+      "options": [
+        "The Kathmandu Post",
+        "Himalkhabar",
+        "Nepal Samaya",
+        "Ratopati"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606794/10-news-at-10-sudurpaschim-wins-npl-title-here-are-the-preparations-for-the-prime-ministers-visit-to-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-bef6013512e2f88dda",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — पहिलोपटक एनपीएल उपाधि जित्दा सुदूरपश्चिमको खुसी(तस्वीरहरू)",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062761/sudurpaschims-joy-at-winning-the-npl-title-for-the-first-time-photos",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-bef6013512e2f88dda",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — पहिलोपटक एनपीएल उपाधि जित्दा सुदूरपश्चिमको खुसी(तस्वीरहरू)",
+      "options": [
+        "Setopati",
+        "Ratopati",
+        "Himalkhabar",
+        "OnlineKhabar"
+      ],
+      "answer": 3,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062761/sudurpaschims-joy-at-winning-the-npl-title-for-the-first-time-photos",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-6212f1fbad66cf20a2",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — दीपेन्द्र प्रतियोगिताको उत्कृष्ट खेलाडी घोषित, रिजनले पाए कार",
+      "options": [
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "खेलकुद",
+        "शिक्षा"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062751/dipendra-declared-the-best-player-of-the-tournament-region-received-a-car",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-date-a47d5f92203cb1cbf0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आन्दोलनका नाममा मार्ने षड्यन्त्र भयो, जेनजीले नै बचाए : देउवा",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://himalpress.com/2026/11/there-was-a-conspiracy-to-kill-in-the-name-of-the-movement-but-genji-saved-him-deuba/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-a47d5f92203cb1cbf0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आन्दोलनका नाममा मार्ने षड्यन्त्र भयो, जेनजीले नै बचाए : देउवा",
+      "options": [
+        "Himal Press",
+        "गोरखापत्र दैनिक",
+        "NepalNews",
+        "Ratopati"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/there-was-a-conspiracy-to-kill-in-the-name-of-the-movement-but-genji-saved-him-deuba/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-2b50509d49f0ebf48a",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — दर्शकदीर्घाको उत्साहपूर्ण साथबीच एनपीएल सम्पन्न",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://khabarhub.com/2026/21/1050120/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-2b50509d49f0ebf48a",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — दर्शकदीर्घाको उत्साहपूर्ण साथबीच एनपीएल सम्पन्न",
+      "options": [
+        "Khabarhub",
+        "The Kathmandu Post",
+        "Nepal Samaya",
+        "Himal Press"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Khabarhub हो।",
+      "source": "https://khabarhub.com/2026/21/1050120/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-4b69bd3bcd762b3f57",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएलका आठै टोलीका लागि फ्लडलाइटसहितका छुट्टाछुट्टै क्रिकेट रंगशाला बनाइने",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://nepalnews.com/2026/11/21/separate-cricket-stadiums-with-floodlights-will-be-built-for-all-eight-npl-teams/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-4b69bd3bcd762b3f57",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएलका आठै टोलीका लागि फ्लडलाइटसहितका छुट्टाछुट्टै क्रिकेट रंगशाला बनाइने",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "खेलकुद"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/21/separate-cricket-stadiums-with-floodlights-will-be-built-for-all-eight-npl-teams/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-4b69bd3bcd762b3f57",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएलका आठै टोलीका लागि फ्लडलाइटसहितका छुट्टाछुट्टै क्रिकेट रंगशाला बनाइने",
+      "options": [
+        "NepalNews",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक",
+        "Setopati"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/21/separate-cricket-stadiums-with-floodlights-will-be-built-for-all-eight-npl-teams/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-3207142ace42a9c5b3",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — एनपीएलका उत्कृष्ट खेलाडी र पुरस्कार: रिजनले जिते कार र बाइक",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://nepalnews.com/2026/11/21/npls-best-players-and-awards-region-wins-car-and-bike/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-3207142ace42a9c5b3",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएलका उत्कृष्ट खेलाडी र पुरस्कार: रिजनले जिते कार र बाइक",
+      "options": [
+        "खेलकुद",
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/21/npls-best-players-and-awards-region-wins-car-and-bike/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-3207142ace42a9c5b3",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — एनपीएलका उत्कृष्ट खेलाडी र पुरस्कार: रिजनले जिते कार र बाइक",
+      "options": [
+        "Khabarhub",
+        "Nepal Samaya",
+        "NepalNews",
+        "OnlineKhabar"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत NepalNews हो।",
+      "source": "https://nepalnews.com/2026/11/21/npls-best-players-and-awards-region-wins-car-and-bike/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-601e39dd38a66d35c9",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — दिल्लीमा बालेन्द्रलाई राज्यमन्त्रीले स्वागत गर्ने, कुन प्रधानमन्त्रीलाई कसले गरे स्वागत?",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://himalpress.com/2026/11/balendra-appointed-as-minister-of-commerce-and/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-601e39dd38a66d35c9",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — दिल्लीमा बालेन्द्रलाई राज्यमन्त्रीले स्वागत गर्ने, कुन प्रधानमन्त्रीलाई कसले गरे स्वागत?",
+      "options": [
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://himalpress.com/2026/11/balendra-appointed-as-minister-of-commerce-and/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-601e39dd38a66d35c9",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — दिल्लीमा बालेन्द्रलाई राज्यमन्त्रीले स्वागत गर्ने, कुन प्रधानमन्त्रीलाई कसले गरे स्वागत?",
+      "options": [
+        "Himal Press",
+        "Ratopati",
+        "Setopati",
+        "The Kathmandu Post"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/balendra-appointed-as-minister-of-commerce-and/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-340151ac98e8ef862b",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — ‘बौद्धिक अपाङ्गता भएका बालबालिकालाई शिक्षा र सिपसँग जोड्नुपर्छ’",
+      "options": [
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१"
+      ],
+      "answer": 3,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://gorkhapatraonline.com/news/229855",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-340151ac98e8ef862b",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘बौद्धिक अपाङ्गता भएका बालबालिकालाई शिक्षा र सिपसँग जोड्नुपर्छ’",
+      "options": [
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "विज्ञान तथा प्रविधि",
+        "स्वास्थ्य"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://gorkhapatraonline.com/news/229855",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-340151ac98e8ef862b",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — ‘बौद्धिक अपाङ्गता भएका बालबालिकालाई शिक्षा र सिपसँग जोड्नुपर्छ’",
+      "options": [
+        "NepalNews",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक",
+        "Himal Press"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229855",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-1959bf9c155dabaa14",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — अमेरिकाको सरकारी निकायमा कसले गर्दैछ साइबर आक्रमण?",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://himalpress.com/2026/11/in-u-s-government-agencies/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-1959bf9c155dabaa14",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — अमेरिकाको सरकारी निकायमा कसले गर्दैछ साइबर आक्रमण?",
+      "options": [
+        "The Kathmandu Post",
+        "Himal Press",
+        "Setopati",
+        "Nepal Samaya"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Himal Press हो।",
+      "source": "https://himalpress.com/2026/11/in-u-s-government-agencies/",
+      "news_source": "Himal Press",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-624b9b0741b3d2493a",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपिएलका खेल होम एन्ड अवे प्रणालीमा गर्न आठ वटा रंगशाला बनाउने प्रधानमन्त्रीको घोषणा",
+      "options": [
+        "शिक्षा",
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.setopati.com/sports/npl/403090",
+      "news_source": "Setopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-2e0b8212639ad0c92c",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — तमोर मेवा जलविद्युत् आयोजनाको भौतिक प्रगति ३५ प्रतिशत",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "पूर्वाधार तथा यातायात",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606793/physical-progress-of-tamor-mewa-hydropower-project-is-35-percent",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-1d4e22e44782cf9306",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘भोटेकोशी विपद् नभएको भए प्रधानमन्त्री बालेन भारत भ्रमणमा आउने थिएनन्’",
+      "options": [
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606750/if-it-werent-for-the-bhotekoshi-disaster-prime-minister-balen-would-not-have-visited-india",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-804ace3f4d4636930f",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएल सिजन–३ का उत्कृष्ट खेलाडी रिजन ढकालले जिते ओमोडाको कार",
+      "options": [
+        "स्वास्थ्य",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "खेलकुद"
+      ],
+      "answer": 3,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/21/1050110/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-3a2791eb0cafc02ef5",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — परराष्ट्रमन्त्री खनालसँग जापानी उपविदेशमन्त्री फुजीको शिष्टाचार भेटवार्ता",
+      "options": [
+        "स्वास्थ्य",
+        "शिक्षा",
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://nepalnews.com/2026/11/21/japanese-deputy-foreign-minister-fujii-pays-courtesy-call-on-foreign-minister-khanal/",
+      "news_source": "NepalNews",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-377a96c3dd68a112cf",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — एनपीएलका आठै टोलीका लागि छुट्टाछुट्टै क्रिकेट रंगशाला बनाउने प्रधानमन्त्रीको घोषणा",
+      "options": [
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "शिक्षा",
+        "स्वास्थ्य"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://khabarhub.com/2026/21/1050104/",
+      "news_source": "Khabarhub",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-005f531e2572bdbfe6",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — मधेशका नवनियुक्त मुख्यमन्त्री यादवको शपथ भोलि बिहान १० बजे",
+      "options": [
+        "शिक्षा",
+        "समाज तथा संस्कृति",
+        "राजनीति तथा शासन",
+        "स्वास्थ्य"
+      ],
+      "answer": 2,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062725/yadav-the-newly-appointed-chief-minister-of-madhesh-will-be-sworn-in-tomorrow-at-10-am",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-topic-73bf205750e27ad51f",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्रीको भारत भ्रमणको तयारी पूरा, विमानस्थलमा जितिन प्रसादले स्वागत गर्ने",
+      "options": [
+        "स्वास्थ्य",
+        "राजनीति तथा शासन",
+        "शिक्षा",
+        "समाज तथा संस्कृति"
+      ],
+      "answer": 1,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606788/preparations-for-prime-ministers-visit-to-india-complete-jitin-prasad-to-welcome-him-at-the-airport",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
     },
     {
       "id": "news-topic-d5f86a90c164e7873c",
@@ -25462,24 +26028,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.ratopati.com/story/606778/communist-movement-should-formulate-new-strategy-by-embracing-ai-and-technological-developments-varshaman-pun",
       "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-10e22629189a7b7fd8",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — राष्ट्रपतिसँग जापानका उपमन्त्रीको शिष्टाचार भेट",
-      "options": [
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "राजनीति तथा शासन",
-        "शिक्षा"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://khabarhub.com/2026/21/1050093/",
-      "news_source": "Khabarhub",
       "news_date": "2026-11-21",
       "question_basis": "headline_keyword_classification"
     },
@@ -25628,24 +26176,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-be9e1f0fa2f4e78c41",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — कमलापुल मुनिबाट धार परिवर्तन गराउने कार्य सम्पन्न",
-      "options": [
-        "पूर्वाधार तथा यातायात",
-        "शिक्षा",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229854",
-      "news_source": "गोरखापत्र दैनिक",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-efb37bee2be9759ec4",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -25772,24 +26302,6 @@
       "question_basis": "headline_keyword_classification"
     },
     {
-      "id": "news-topic-2fdfe9d39389b24270",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — ‘जेब्रा क्रसिङ’ मा सवारी नरोक्ने र सार्वजनिक यातायातमा दुर्व्यवहार हुने गरेको गुनासो",
-      "options": [
-        "समाज तथा संस्कृति",
-        "शिक्षा",
-        "पूर्वाधार तथा यातायात",
-        "स्वास्थ्य"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://nepalnews.com/2026/11/21/complaints-of-failure-to-stop-vehicles-at-zebra-crossings-and-abuse-on-public-transport/",
-      "news_source": "NepalNews",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-topic-4f9e810594a4fe9fb4",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -25821,24 +26333,6 @@
       "answer": 3,
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://www.onlinekhabar.com/2026/11/2062400/an-anonymous-former-captain-as-the-cricket-festival-continues",
-      "news_source": "OnlineKhabar",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-fc4822466bc8ecce9a",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भारतीय विद्यार्थीको चित्रमा नेपाली कला, संस्कृति र हिमाल (तस्वीरहररू)",
-      "options": [
-        "समाज तथा संस्कृति",
-        "विज्ञान तथा प्रविधि",
-        "स्वास्थ्य",
-        "वातावरण तथा विपद्"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.onlinekhabar.com/2026/11/2062359/nepali-art-culture-and-mountains-in-indian-students-paintings-photos",
       "news_source": "OnlineKhabar",
       "news_date": "2026-11-21",
       "question_basis": "headline_keyword_classification"
@@ -26004,58 +26498,6 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-63828242d9bb3adcb1",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — Local Level Election 2079 - स्थानीय तह निर्वाचन २०७९ - Ekantipur",
-      "options": [
-        "शिक्षा",
-        "स्वास्थ्य",
-        "समाज तथा संस्कृति",
-        "राजनीति तथा शासन"
-      ],
-      "answer": 3,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eG5qMVNwTDBkSmhTTUtvdmRRSk1pRjk3aFpneTl5NEVGbi1xZDBmMVR2NG1tbWt6bUNreklfeVR1RFZaS05WSm9LWmZfVHBubWZqTkJsN3ZTUXJp?oc=5",
-      "news_source": "कान्तिपुर दैनिक",
-      "news_date": "2022-10-29",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-fd9168e85c1406ea80",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Government plans floodlit home grounds for all eight NPL clubs",
-      "options": [
-        "Nepal Samaya",
-        "Setopati",
-        "Himal Press",
-        "The Kathmandu Post"
-      ],
-      "answer": 3,
-      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
-      "source": "https://kathmandupost.com/national/2026/11/21/government-plans-floodlit-home-grounds-for-all-eight-npl-clubs",
-      "news_source": "The Kathmandu Post",
-      "news_date": ""
-    },
-    {
-      "id": "news-source-945b2b3e2ecf00204e",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Sudurpaschim crowned NPL champions after dominant final win",
-      "options": [
-        "The Kathmandu Post",
-        "Khabarhub",
-        "NepalNews",
-        "कान्तिपुर दैनिक"
-      ],
-      "answer": 0,
-      "explanation": "यो समाचारको स्रोत The Kathmandu Post हो।",
-      "source": "https://kathmandupost.com/visual-stories/2026/11/21/sudurpaschim-crowned-npl-champions-after-dominant-final-win",
-      "news_source": "The Kathmandu Post",
-      "news_date": ""
     }
   ]
 }
