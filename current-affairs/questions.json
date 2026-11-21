@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:39:24.440275+00:00",
+  "updated": "2026-11-21T20:31:36.035902+00:00",
   "total": 1655,
   "generated_from_news": 1560,
   "questions": [
@@ -27031,24 +27031,6 @@
       "news_date": "2026-11-21"
     },
     {
-      "id": "news-topic-d4e3e556d18ae32927",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
-      "options": [
-        "वातावरण तथा विपद्",
-        "समाज तथा संस्कृति",
-        "स्वास्थ्य",
-        "शिक्षा"
-      ],
-      "answer": 0,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
       "id": "news-source-d4e3e556d18ae32927",
       "topic": "समाचार स्रोत",
       "level": "समसामयिक",
@@ -27151,6 +27133,41 @@
       "news_date": "2026-11-21"
     },
     {
+      "id": "news-source-1cf907f97cdb4b34d1",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
+      "options": [
+        "Khabarhub",
+        "Ratopati",
+        "Himal Press",
+        "Himalkhabar"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत Ratopati हो।",
+      "source": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-d4e3e556d18ae32927",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
+      "options": [
+        "वातावरण तथा विपद्",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
+      "news_source": "Ratopati",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
       "id": "news-topic-1cf907f97cdb4b34d1",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -27167,23 +27184,6 @@
       "news_source": "Ratopati",
       "news_date": "2026-11-21",
       "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-source-1cf907f97cdb4b34d1",
-      "topic": "समाचार स्रोत",
-      "level": "समसामयिक",
-      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
-      "options": [
-        "Khabarhub",
-        "Ratopati",
-        "Himal Press",
-        "Himalkhabar"
-      ],
-      "answer": 1,
-      "explanation": "यो समाचारको स्रोत Ratopati हो।",
-      "source": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
-      "news_source": "Ratopati",
-      "news_date": "2026-11-21"
     },
     {
       "id": "news-topic-8a5475a67db050e564",
