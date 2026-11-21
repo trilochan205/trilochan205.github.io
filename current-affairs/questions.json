@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T20:31:36.035902+00:00",
-  "total": 1655,
-  "generated_from_news": 1560,
+  "updated": "2026-11-21T21:30:04.809717+00:00",
+  "total": 1657,
+  "generated_from_news": 1562,
   "questions": [
     {
       "id": "constitution-001",
@@ -27976,6 +27976,40 @@
       "news_source": "Himalkhabar",
       "news_date": "2026-11-15",
       "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-date-ea54c19d9fe4deeea6",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — Why is Daraz laying off staff regionally? - Ekantipur",
+      "options": [
+        "ई.सं. २०२६-०६-०७",
+        "ई.सं. २०२६-०६-०५",
+        "ई.सं. २०२६-०६-०६",
+        "ई.सं. २०२६-०६-०८"
+      ],
+      "answer": 0,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-०६-०७ हो।",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnB5V3daYjcxWUp2M1c0S0FMTjBqclFWRkhXTk5nSUFkbmN2MUhuMldwYVphUnJHVm1JZUxjUXhYVlpPbG1DRjNkeU9NN1pkdnIwSUlvQ184VFNpRjhFUkh2cjM0NUFibkEzVTAyUzF2WUNzOWhDVTQ0MzAwd0t4UDh4LTZIR0hoZUR6UmlsNDlRY1JTTHRiVGJQLVQ?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-06-07"
+    },
+    {
+      "id": "news-source-ea54c19d9fe4deeea6",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — Why is Daraz laying off staff regionally? - Ekantipur",
+      "options": [
+        "कान्तिपुर दैनिक",
+        "OnlineKhabar",
+        "Nepal Samaya",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 0,
+      "explanation": "यो समाचारको स्रोत कान्तिपुर दैनिक हो।",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnB5V3daYjcxWUp2M1c0S0FMTjBqclFWRkhXTk5nSUFkbmN2MUhuMldwYVphUnJHVm1JZUxjUXhYVlpPbG1DRjNkeU9NN1pkdnIwSUlvQ184VFNpRjhFUkh2cjM0NUFibkEzVTAyUzF2WUNzOWhDVTQ0MzAwd0t4UDh4LTZIR0hoZUR6UmlsNDlRY1JTTHRiVGJQLVQ?oc=5",
+      "news_source": "कान्तिपुर दैनिक",
+      "news_date": "2026-06-07"
     },
     {
       "id": "news-topic-63828242d9bb3adcb1",
