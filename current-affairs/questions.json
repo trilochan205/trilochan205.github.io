@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T23:08:29.592714+00:00",
-  "total": 1659,
-  "generated_from_news": 1564,
+  "updated": "2026-11-22T00:02:38.346628+00:00",
+  "total": 1665,
+  "generated_from_news": 1570,
   "questions": [
     {
       "id": "constitution-001",
@@ -27218,6 +27218,126 @@
       "news_date": "2026-02-24"
     },
     {
+      "id": "news-date-40bb13e4eba0f64ab0",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आपसी विश्वास नै सम्बन्धको कसी",
+      "options": [
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२३"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२२ हो।",
+      "source": "https://gorkhapatraonline.com/news/229872",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-22"
+    },
+    {
+      "id": "news-source-40bb13e4eba0f64ab0",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आपसी विश्वास नै सम्बन्धको कसी",
+      "options": [
+        "Himal Press",
+        "The Kathmandu Post",
+        "गोरखापत्र दैनिक",
+        "Setopati"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत गोरखापत्र दैनिक हो।",
+      "source": "https://gorkhapatraonline.com/news/229872",
+      "news_source": "गोरखापत्र दैनिक",
+      "news_date": "2026-11-22"
+    },
+    {
+      "id": "news-date-c4e64f3ec9c0f2edf6",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — प्रधानमन्त्री बालेन आज भारत भ्रमणमा जाँदै, भोलि मोदीलाई भेट्ने",
+      "options": [
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 2,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062777/prime-minister-balen-to-visit-india-today-meet-modi-tomorrow",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-topic-c4e64f3ec9c0f2edf6",
+      "topic": "समाचार विषय पहिचान",
+      "level": "समसामयिक",
+      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — प्रधानमन्त्री बालेन आज भारत भ्रमणमा जाँदै, भोलि मोदीलाई भेट्ने",
+      "options": [
+        "राजनीति तथा शासन",
+        "समाज तथा संस्कृति",
+        "स्वास्थ्य",
+        "शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062777/prime-minister-balen-to-visit-india-today-meet-modi-tomorrow",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21",
+      "question_basis": "headline_keyword_classification"
+    },
+    {
+      "id": "news-source-c4e64f3ec9c0f2edf6",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — प्रधानमन्त्री बालेन आज भारत भ्रमणमा जाँदै, भोलि मोदीलाई भेट्ने",
+      "options": [
+        "NepalNews",
+        "Setopati",
+        "OnlineKhabar",
+        "गोरखापत्र दैनिक"
+      ],
+      "answer": 2,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062777/prime-minister-balen-to-visit-india-today-meet-modi-tomorrow",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-date-f71f53a98a3e9f201f",
+      "topic": "समाचारको मिति",
+      "level": "समसामयिक",
+      "question": "तलको समाचार कहिले प्रकाशित भएको थियो? — आज यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "options": [
+        "ई.सं. २०२६-११-१९",
+        "ई.सं. २०२६-११-२१",
+        "ई.सं. २०२६-११-२०",
+        "ई.सं. २०२६-११-२२"
+      ],
+      "answer": 1,
+      "explanation": "RSS मा उपलब्ध प्रकाशन मिति ई.सं. २०२६-११-२१ हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062796/todays-foreign-exchange-rate-is-53",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
+      "id": "news-source-f71f53a98a3e9f201f",
+      "topic": "समाचार स्रोत",
+      "level": "समसामयिक",
+      "question": "यो समाचार कुन सञ्चारमाध्यममा प्रकाशित भएको हो? — आज यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "options": [
+        "गोरखापत्र दैनिक",
+        "OnlineKhabar",
+        "कान्तिपुर दैनिक",
+        "NepalNews"
+      ],
+      "answer": 1,
+      "explanation": "यो समाचारको स्रोत OnlineKhabar हो।",
+      "source": "https://www.onlinekhabar.com/2026/11/2062796/todays-foreign-exchange-rate-is-53",
+      "news_source": "OnlineKhabar",
+      "news_date": "2026-11-21"
+    },
+    {
       "id": "news-topic-d4e3e556d18ae32927",
       "topic": "समाचार विषय पहिचान",
       "level": "समसामयिक",
@@ -27610,24 +27730,6 @@
       "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
       "source": "https://khabarhub.com/2026/21/1050099/",
       "news_source": "Khabarhub",
-      "news_date": "2026-11-21",
-      "question_basis": "headline_keyword_classification"
-    },
-    {
-      "id": "news-topic-44770bc4bddf5b145d",
-      "topic": "समाचार विषय पहिचान",
-      "level": "समसामयिक",
-      "question": "समाचारको शीर्षकका आधारमा यसको मुख्य विषय कुन हो? — चिचिला ट्रेल रेसको उपाधी नारद र फुर्बु छेकीले जिते",
-      "options": [
-        "स्वास्थ्य",
-        "शिक्षा",
-        "पूर्वाधार तथा यातायात",
-        "समाज तथा संस्कृति"
-      ],
-      "answer": 2,
-      "explanation": "शीर्षकमा स्पष्ट देखिएको विषयगत संकेतका आधारमा वर्गीकरण गरिएको हो। सन्दर्भ पुष्टि गर्न मूल समाचार पढ्नुहोस्।",
-      "source": "https://gorkhapatraonline.com/news/229862",
-      "news_source": "गोरखापत्र दैनिक",
       "news_date": "2026-11-21",
       "question_basis": "headline_keyword_classification"
     },
